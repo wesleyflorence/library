@@ -1,0 +1,290 @@
+[
+  {
+    "name": "The Dispossessed",
+    "review": "Perfect book",
+    "isbn": "9780060125639",
+    "link": "https://www.googleapis.com/books/v1/volumes/idBHBFzKmQcC"
+  },
+  {
+    "name": "The Order of Time",
+    "review": null,
+    "isbn": "9780735216112",
+    "link": "https://www.googleapis.com/books/v1/volumes/POi9DwAAQBAJ"
+  },
+  {
+    "name": "Solaris",
+    "review": null,
+    "isbn": "9780156027601",
+    "link": "https://www.googleapis.com/books/v1/volumes/i8IwKGIAV2wC"
+  },
+  {
+    "name": "Capitalist Realism",
+    "review": null,
+    "isbn": "9781803414317",
+    "link": "https://www.googleapis.com/books/v1/volumes/QSiUEAAAQBAJ"
+  },
+  {
+    "name": "The Order of Time",
+    "review": null,
+    "isbn": "9780735216112",
+    "link": "https://www.googleapis.com/books/v1/volumes/POi9DwAAQBAJ"
+  },
+  {
+    "name": "Solaris",
+    "review": null,
+    "isbn": "9780156027601",
+    "link": "https://www.googleapis.com/books/v1/volumes/i8IwKGIAV2wC"
+  },
+  {
+    "name": "Are Prisons Obsolete?",
+    "review": null,
+    "isbn": "9781609801045",
+    "link": "https://www.googleapis.com/books/v1/volumes/_wZ35GI4itgC"
+  },
+  {
+    "name": "Clojure for the Brave and True",
+    "review": null,
+    "isbn": "9781593275914",
+    "link": "https://www.googleapis.com/books/v1/volumes/mQLPCgAAQBAJ"
+  },
+  {
+    "name": "Practical Common Lisp",
+    "review": null,
+    "isbn": "9781430200178",
+    "link": "https://www.googleapis.com/books/v1/volumes/dVJvr8PtCMUC"
+  },
+  {
+    "name": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
+    "review": null,
+    "isbn": "9780241453575",
+    "link": "https://www.googleapis.com/books/v1/volumes/d5Q8ywEACAAJ"
+  },
+  {
+    "name": "An Indigenous Peoples' History of the United States (ReVisioning American History, #3)",
+    "review": null,
+    "isbn": "9780807013144",
+    "link": "https://www.googleapis.com/books/v1/volumes/oR2sEAAAQBAJ"
+  },
+  {
+    "name": "The Peregrine",
+    "review": null,
+    "isbn": "9781590171332",
+    "link": "https://www.googleapis.com/books/v1/volumes/TEZhb3ARPz4C"
+  },
+  {
+    "name": "Structure and Interpretation of Computer Programs",
+    "review": null,
+    "isbn": "9780262011532",
+    "link": "https://www.googleapis.com/books/v1/volumes/1DrQngEACAAJ"
+  },
+  {
+    "name": "Adam Smith in Beijing: Lineages of the Twenty-First Century",
+    "review": null,
+    "isbn": "9781844672981",
+    "link": "https://www.googleapis.com/books/v1/volumes/yOlOEAAAQBAJ"
+  },
+  {
+    "name": "Animal Liberation",
+    "review": null,
+    "isbn": "9780061711305",
+    "link": "https://www.googleapis.com/books/v1/volumes/crbWwAEACAAJ"
+  },
+  {
+    "name": "Black Against Empire: The History and Politics of the Black Panther Party",
+    "review": null,
+    "isbn": "9780520293281",
+    "link": "https://www.googleapis.com/books/v1/volumes/D7UwDwAAQBAJ"
+  },
+  {
+    "name": "The Little Schemer",
+    "review": null,
+    "isbn": "9780262560993",
+    "link": "https://www.googleapis.com/books/v1/volumes/xyO-KLexVnMC"
+  },
+  {
+    "name": "Debt: The First 5,000 Years",
+    "review": null,
+    "isbn": "9781612194196",
+    "link": "https://www.googleapis.com/books/v1/volumes/isRNEAAAQBAJ"
+  },
+  {
+    "name": "The Uninhabitable Earth: Life After Warming",
+    "review": null,
+    "isbn": "9780525576716",
+    "link": "https://www.googleapis.com/books/v1/volumes/HWbRDwAAQBAJ"
+  },
+  {
+    "name": "Breath: The New Science of a Lost Art",
+    "review": null,
+    "isbn": "9780735213616",
+    "link": "https://www.googleapis.com/books/v1/volumes/3_LsDwAAQBAJ"
+  },
+  {
+    "name": "Why I Write",
+    "review": null,
+    "isbn": "9780141019000",
+    "link": "https://www.googleapis.com/books/v1/volumes/L4eMEAAAQBAJ"
+  },
+  {
+    "name": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy",
+    "review": null,
+    "isbn": "9781781685822",
+    "link": "https://www.googleapis.com/books/v1/volumes/GigqBQAAQBAJ"
+  },
+  {
+    "name": "The State and Revolution",
+    "review": null,
+    "isbn": "9781973191926",
+    "link": "https://www.googleapis.com/books/v1/volumes/sxlyswEACAAJ"
+  },
+  {
+    "name": "A People's History of the United States",
+    "review": null,
+    "isbn": "9780061965593",
+    "link": "https://www.googleapis.com/books/v1/volumes/5MW0PwAACAAJ"
+  },
+  {
+    "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
+    "review": null,
+    "isbn": "9780525564638",
+    "link": "https://www.googleapis.com/books/v1/volumes/NgIHEAAAQBAJ"
+  },
+  {
+    "name": "Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People",
+    "review": null,
+    "isbn": "9781638353348",
+    "link": "https://www.googleapis.com/books/v1/volumes/yzkzEAAAQBAJ"
+  },
+  {
+    "name": "Stoner",
+    "review": null,
+    "isbn": "9781590179284",
+    "link": "https://www.googleapis.com/books/v1/volumes/6Yc-DwAAQBAJ"
+  },
+  {
+    "name": "The Conquest of Bread",
+    "review": null,
+    "isbn": null,
+    "link": "https://www.googleapis.com/books/v1/volumes/Q6fv0JOpvYkC"
+  },
+  {
+    "name": "Homo Deus: A History of Tomorrow",
+    "review": null,
+    "isbn": "9780062464354",
+    "link": "https://www.googleapis.com/books/v1/volumes/H2t_CwAAQBAJ"
+  },
+  {
+    "name": "Kafka on the Shore",
+    "review": null,
+    "isbn": "9781400079278",
+    "link": "https://www.googleapis.com/books/v1/volumes/A08c2Ep7QbYC"
+  },
+  {
+    "name": "What I Talk About When I Talk About Running",
+    "review": null,
+    "isbn": "9780307389831",
+    "link": "https://www.googleapis.com/books/v1/volumes/DBMm0F3tUbQC"
+  },
+  {
+    "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "review": null,
+    "isbn": "9780735211308",
+    "link": "https://www.googleapis.com/books/v1/volumes/lFhbDwAAQBAJ"
+  },
+  {
+    "name": "Sapiens: A Brief History of Humankind",
+    "review": null,
+    "isbn": "9780062316103",
+    "link": "https://www.googleapis.com/books/v1/volumes/FmyBAwAAQBAJ"
+  },
+  {
+    "name": "10% Happier",
+    "review": null,
+    "isbn": "9780062265449",
+    "link": "https://www.googleapis.com/books/v1/volumes/ycEKAgAAQBAJ"
+  },
+  {
+    "name": "Shoe Dog: A Memoir by the Creator of Nike",
+    "review": null,
+    "isbn": "9781501135934",
+    "link": "https://www.googleapis.com/books/v1/volumes/wO3PCgAAQBAJ"
+  },
+  {
+    "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
+    "review": null,
+    "isbn": "9781250194473",
+    "link": "https://www.googleapis.com/books/v1/volumes/nntJDwAAQBAJ"
+  },
+  {
+    "name": "Mother Night",
+    "review": null,
+    "isbn": "9780099819301",
+    "link": "https://www.googleapis.com/books/v1/volumes/k7xUPgAACAAJ"
+  },
+  {
+    "name": "The Sun Also Rises",
+    "review": null,
+    "isbn": null,
+    "link": "https://www.googleapis.com/books/v1/volumes/hLgLAQAAIAAJ"
+  },
+  {
+    "name": "The Catcher in the Rye",
+    "review": null,
+    "isbn": "9780241950432",
+    "link": "https://www.googleapis.com/books/v1/volumes/T5IhvgAACAAJ"
+  },
+  {
+    "name": "Factotum",
+    "review": null,
+    "isbn": "9780061842412",
+    "link": "https://www.googleapis.com/books/v1/volumes/PW11FI6VsZsC"
+  },
+  {
+    "name": "Slaughterhouse-Five",
+    "review": null,
+    "isbn": "9780385333849",
+    "link": "https://www.googleapis.com/books/v1/volumes/pWyLDQAAQBAJ"
+  },
+  {
+    "name": "Post Office",
+    "review": null,
+    "isbn": "9780143130062",
+    "link": "https://www.googleapis.com/books/v1/volumes/HYomDwAAQBAJ"
+  },
+  {
+    "name": "Ham on Rye",
+    "review": null,
+    "isbn": "9780061851919",
+    "link": "https://www.googleapis.com/books/v1/volumes/Rv4qbAACPzYC"
+  },
+  {
+    "name": "The Old Man and the Sea",
+    "review": null,
+    "isbn": "9783190001507",
+    "link": "https://www.googleapis.com/books/v1/volumes/K1cIZmFe7KoC"
+  },
+  {
+    "name": "How to Get Filthy Rich in Rising Asia",
+    "review": null,
+    "isbn": "9780241144671",
+    "link": "https://www.googleapis.com/books/v1/volumes/cY3snQEACAAJ"
+  },
+  {
+    "name": "Zen and the Art of Motorcycle Maintenance",
+    "review": null,
+    "isbn": null,
+    "link": "https://www.googleapis.com/books/v1/volumes/Gu1OAAAAMAAJ"
+  },
+  {
+    "name": "The Great Gatsby",
+    "review": null,
+    "isbn": "9780743246392",
+    "link": "https://www.googleapis.com/books/v1/volumes/iXn5U2IzVH0C"
+  },
+  {
+    "name": "Fear and Loathing in Las Vegas",
+    "review": null,
+    "isbn": "9780307744067",
+    "link": "https://www.googleapis.com/books/v1/volumes/R11qaqN4jzQC"
+  }
+]
