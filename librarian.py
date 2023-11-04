@@ -1,7 +1,6 @@
 import requests
 import os
 import re
-from requests import get
 from trello import TrelloClient
 from dotenv import load_dotenv
 import json
@@ -54,7 +53,8 @@ def get_book_info_from_title(title):
 
 
 def main():
-    load_dotenv()
+    if not os.environ["ACTION"]:
+        load_dotenv()
 
     # Trello API credentials
     API_KEY = os.environ["TRELLO_API_KEY"]
