@@ -3,6 +3,7 @@ name: Fetch Books from Trello
 on:
   schedule:
     - cron: '0 0 * * *'  # Run everyday at midnight UTC
+  workflow_dispatch:     # Run by hand
 
 jobs:
   fetch-books:
