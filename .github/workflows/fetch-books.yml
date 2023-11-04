@@ -25,7 +25,7 @@ jobs:
         TRELLO_API_KEY: ${{ secrets.TRELLO_API_KEY }}
         TRELLO_OAUTH_SECRET: ${{ secrets.TRELLO_OAUTH_SECRET }}
         TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
-      run: python goodreads.py
+      run: python librarian.py
 
     - name: Commit and push if changes
       run: |
