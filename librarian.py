@@ -27,7 +27,7 @@ def get_book_info_from_title(title):
         items = data.get("items", [])
         if not items:
             print(f"No results found for title: {title}")
-            return None, None
+            return None, None, None
         else:
             # Assuming the first result is the desired book
             book = items[0]
@@ -44,12 +44,13 @@ def get_book_info_from_title(title):
 
             # Use the ISBN-13 if available, else fall back to ISBN-10
             isbn = isbn_13 if isbn_13 else isbn_10
-            link_val = book.get("selfLink", "")
+            authors = ', '.join(volume_info["authors"])
+            link_val = volume_info.get('infoLink', '')
 
-            return isbn, link_val
+            return authors, isbn, link_val
     else:
         print(f"Failed to fetch data for title: {title}")
-        return None, None
+        return None, None, None
 
 
 def main():
@@ -101,7 +102,8 @@ def main():
         return
 
     for book in completed_books:
-        isbn, link = get_book_info_from_title(book["name"])
+        authors, isbn, link = get_book_info_from_title(book["name"])
+        book["authors"] = authors
         book["isbn"] = isbn
         book["link"] = link
 
