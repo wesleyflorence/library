@@ -53,7 +53,7 @@ def get_book_info_from_title(title):
 
 
 def main():
-    if not os.environ["ACTION"]:
+    if "ACTION" not in os.environ:
         load_dotenv()
 
     # Trello API credentials
@@ -64,6 +64,16 @@ def main():
     # Trello board and list IDs
     BOARD_NAME = "Library"
     LIST_NAME = "Completed"
+
+    try:
+        with open('books.json', 'r') as f:
+            json_books = json.load(f)
+            existing_books = {
+                frozenset({key: book[key] for key in book if key not in ["isbn", "link"]}.items())
+                for book in json_books
+            }
+    except FileNotFoundError:
+        existing_books = {}
 
     client = TrelloClient(
         api_key=API_KEY,
@@ -83,6 +93,12 @@ def main():
         {"name": card.name, "review": get_comments(card.comments)}
         for card in completed_list.list_cards()
     ]
+
+    # Exit early if we have no new books
+    completed_books_set = {frozenset(completed_book.items()) for completed_book in completed_books}
+    if existing_books == completed_books_set:
+        print('No Books or reviews added to the list, exiting without writing new books.json')
+        return
 
     for book in completed_books:
         isbn, link = get_book_info_from_title(book["name"])

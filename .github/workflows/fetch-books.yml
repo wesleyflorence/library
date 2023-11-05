@@ -33,5 +33,12 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "GitHub Actions"
         git add books.json
-        git commit -m "Update books list" || true
-        git push
+        # Check for modified files
+        git diff --staged --exit-code --quiet
+        if [ $? -eq 1 ]; then
+          echo "Changes detected, creating a commit"
+          git commit -m "Update books list"
+          git push
+        else
+          echo "No changes to books.json, skipping commit"
+        fi
