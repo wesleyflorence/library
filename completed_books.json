@@ -42,11 +42,11 @@
     "link": "http://books.google.com/books?id=XuhOEAAAQBAJ&dq=intitle:Half-Earth+Socialism&hl=&source=gbs_api"
   },
   {
-    "name": "Psycho-Politics Neoliberalism and New Technologies of Power",
+    "name": "Psychopolitics Neoliberalism and New Technologies of Power",
     "review": null,
-    "authors": null,
-    "isbn": null,
-    "link": null
+    "authors": "Byung-Chul Han",
+    "isbn": "9781784785772",
+    "link": "http://books.google.com/books?id=ySFaDwAAQBAJ&dq=intitle:Psychopolitics+Neoliberalism+and+New+Technologies+of+Power&hl=&source=gbs_api"
   },
   {
     "name": "The Burnout Society",
@@ -129,8 +129,8 @@
     "name": "Debt: The First 5,000 Years",
     "review": null,
     "authors": "David Graeber",
-    "isbn": "9781612194196",
-    "link": "http://books.google.com/books?id=isRNEAAAQBAJ&dq=intitle:Debt:+The+First+5,000+Years&hl=&source=gbs_api"
+    "isbn": "9780143422716",
+    "link": "http://books.google.com/books?id=MY9utgEACAAJ&dq=intitle:Debt:+The+First+5,000+Years&hl=&source=gbs_api"
   },
   {
     "name": "The Uninhabitable Earth: Life After Warming",
@@ -339,7 +339,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780307744067",
-    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
+    "isbn": "9780679602989",
+    "link": "http://books.google.com/books?id=0ggOEAAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
   }
 ]
