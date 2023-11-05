@@ -1,4 +1,5 @@
 import requests
+import argparse
 import os
 import re
 from trello import TrelloClient
@@ -52,8 +53,14 @@ def get_book_info_from_title(title):
         print(f"Failed to fetch data for title: {title}")
         return None, None, None
 
-
 def main():
+    parser = argparse.ArgumentParser(
+                            prog='Library',
+                            description='Build json books list')
+    parser.add_argument('--output', default='completed_books.json', help='output filename')
+    parser.add_argument('--list_name', default='Completed', help='list name')
+    args = parser.parse_args()
+
     if "ACTION" not in os.environ:
         load_dotenv()
 
@@ -64,10 +71,11 @@ def main():
 
     # Trello board and list IDs
     BOARD_NAME = "Library"
-    LIST_NAME = "Completed"
+
+    print(f"Librarian is parsing {BOARD_NAME} : {args.list_name}")
 
     try:
-        with open('books.json', 'r') as f:
+        with open(args.output, 'r') as f:
             json_books = json.load(f)
             existing_books = {
                 frozenset({key: book[key] for key in book if key not in ["isbn", "link"]}.items())
@@ -84,10 +92,10 @@ def main():
 
     board = next(x for x in client.list_boards() if x.name == BOARD_NAME)
     completed_list = next(
-        (lst for lst in board.list_lists() if lst.name == LIST_NAME), None
+        (lst for lst in board.list_lists() if lst.name == args.list_name), None
     )
     if not completed_list:
-        print(f"List '{LIST_NAME}' not found in board")
+        print(f"List '{args.list_name}' not found in board")
         exit(1)
 
     completed_books = [
@@ -98,8 +106,10 @@ def main():
     # Exit early if we have no new books
     completed_books_set = {frozenset(completed_book.items()) for completed_book in completed_books}
     if existing_books == completed_books_set:
-        print('No Books or reviews added to the list, exiting without writing new books.json')
+        print(f"No Books or reviews added to the list, exiting without writing new {args.output}")
         return
+
+    print(f"Retrieving metadata from google and writing to {args.output}")
 
     for book in completed_books:
         authors, isbn, link = get_book_info_from_title(book["name"])
@@ -108,10 +118,10 @@ def main():
         book["link"] = link
 
     ## Save to JSON file
-    with open('books.json', 'w') as f:
+    with open(args.output, 'w') as f:
        json.dump(completed_books, f, indent=2)
     
-    print('Books have been successfully fetched and saved to books.json')
+    print(f"Books have been successfully fetched and saved to {args.output}")
 
 
 if __name__ == "__main__":

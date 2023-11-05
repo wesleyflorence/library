@@ -26,16 +26,19 @@ jobs:
         TRELLO_API_KEY: ${{ secrets.TRELLO_API_KEY }}
         TRELLO_OAUTH_SECRET: ${{ secrets.TRELLO_OAUTH_SECRET }}
         TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
-      run: python librarian.py
+      run: |
+        python librarian.py --output completed_books.json --list_name Completed
+        python librarian.py --output reading_books.json --list_name Reading
+        python librarian.py --output shelved_books.json --list_name Shelved
 
     - name: Commit and push if changes
       run: |
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "GitHub Actions"
-        git add books.json
+        git add completed_books.json reading_books
         # Check for modified files
         if git diff --staged --quiet; then
-          echo "No changes to books.json, skipping commit"
+          echo "No changes to books lists, skipping commit"
         else
           echo "Changes detected, creating a commit"
           git commit -m "Update books list"
