@@ -24,16 +24,28 @@
     "link": "https://www.googleapis.com/books/v1/volumes/QSiUEAAAQBAJ"
   },
   {
-    "name": "The Order of Time",
+    "name": "The Ministry for the Future",
     "review": null,
-    "isbn": "9780735216112",
-    "link": "https://www.googleapis.com/books/v1/volumes/POi9DwAAQBAJ"
+    "isbn": "9780316300162",
+    "link": "https://www.googleapis.com/books/v1/volumes/K_DNDwAAQBAJ"
   },
   {
-    "name": "Solaris",
+    "name": "Half-Earth Socialism",
     "review": null,
-    "isbn": "9780156027601",
-    "link": "https://www.googleapis.com/books/v1/volumes/i8IwKGIAV2wC"
+    "isbn": "9781839760310",
+    "link": "https://www.googleapis.com/books/v1/volumes/XuhOEAAAQBAJ"
+  },
+  {
+    "name": "Psycho Politics",
+    "review": null,
+    "isbn": "9781461238300",
+    "link": "https://www.googleapis.com/books/v1/volumes/7UMyBwAAQBAJ"
+  },
+  {
+    "name": "The Burnout Society",
+    "review": null,
+    "isbn": "9780804797504",
+    "link": "https://www.googleapis.com/books/v1/volumes/SQoNCgAAQBAJ"
   },
   {
     "name": "Are Prisons Obsolete?",
@@ -284,7 +296,7 @@
   {
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
-    "isbn": "9780307744067",
-    "link": "https://www.googleapis.com/books/v1/volumes/R11qaqN4jzQC"
+    "isbn": "9780679602989",
+    "link": "https://www.googleapis.com/books/v1/volumes/0ggOEAAAQBAJ"
   }
 ]
