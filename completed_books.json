@@ -3,8 +3,8 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": "9780060125639",
-    "link": "http://books.google.com/books?id=idBHBFzKmQcC&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=-DHuAAAAMAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -108,8 +108,8 @@
     "name": "Animal Liberation",
     "review": null,
     "authors": "Peter Singer",
-    "isbn": "9780061711305",
-    "link": "http://books.google.com/books?id=crbWwAEACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=opdZzwEACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
   },
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
@@ -129,8 +129,8 @@
     "name": "Debt: The First 5,000 Years",
     "review": null,
     "authors": "David Graeber",
-    "isbn": "9780143422716",
-    "link": "http://books.google.com/books?id=MY9utgEACAAJ&dq=intitle:Debt:+The+First+5,000+Years&hl=&source=gbs_api"
+    "isbn": "9781612194196",
+    "link": "http://books.google.com/books?id=isRNEAAAQBAJ&dq=intitle:Debt:+The+First+5,000+Years&hl=&source=gbs_api"
   },
   {
     "name": "The Uninhabitable Earth: Life After Warming",
@@ -163,9 +163,9 @@
   {
     "name": "The State and Revolution",
     "review": null,
-    "authors": "V. I. Lenin, Todd Chretien",
-    "isbn": "9781608464982",
-    "link": "http://books.google.com/books?id=oP60oQEACAAJ&dq=intitle:The+State+and+Revolution&hl=&source=gbs_api"
+    "authors": "Vladimir I. Lenin",
+    "isbn": "9781973191926",
+    "link": "http://books.google.com/books?id=sxlyswEACAAJ&dq=intitle:The+State+and+Revolution&hl=&source=gbs_api"
   },
   {
     "name": "A People's History of the United States",
@@ -227,8 +227,8 @@
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "review": null,
     "authors": "James Clear",
-    "isbn": "9780735211308",
-    "link": "https://play.google.com/store/books/details?id=lFhbDwAAQBAJ&source=gbs_api"
+    "isbn": "9780735211292",
+    "link": "http://books.google.com/books?id=XfFvDwAAQBAJ&dq=intitle:Atomic+Habits:+An+Easy&hl=&source=gbs_api"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
@@ -339,7 +339,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780679602989",
-    "link": "http://books.google.com/books?id=0ggOEAAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
+    "isbn": "9780307744067",
+    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
   }
 ]
