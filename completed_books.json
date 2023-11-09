@@ -108,8 +108,8 @@
     "name": "Animal Liberation",
     "review": null,
     "authors": "Peter Singer",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=opdZzwEACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
+    "isbn": "9780061711305",
+    "link": "http://books.google.com/books?id=crbWwAEACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
   },
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
@@ -269,8 +269,8 @@
     "name": "The Sun Also Rises",
     "review": null,
     "authors": "Ernest Hemingway",
-    "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=hLgLAQAAIAAJ&source=gbs_api"
+    "isbn": "9780486850610",
+    "link": "https://play.google.com/store/books/details?id=BihiEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Catcher in the Rye",
