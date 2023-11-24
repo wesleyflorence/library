@@ -19,5 +19,12 @@
     "authors": "Stephanie Kelton",
     "isbn": "9781541736207",
     "link": "https://play.google.com/store/books/details?id=JcWWDwAAQBAJ&source=gbs_api"
+  },
+  {
+    "name": "Deep Learning for Coders with Fastai and PyTorch",
+    "review": null,
+    "authors": "Jeremy Howard, Sylvain Gugger",
+    "isbn": "9781492045496",
+    "link": "http://books.google.com/books?id=yATuDwAAQBAJ&dq=intitle:Deep+Learning+for+Coders+with+Fastai+and+PyTorch&hl=&source=gbs_api"
   }
 ]
