@@ -114,9 +114,9 @@
   {
     "name": "Structure and Interpretation of Computer Programs",
     "review": null,
-    "authors": "Harold Abelson",
-    "isbn": "9780262011532",
-    "link": "http://books.google.com/books?id=1DrQngEACAAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
+    "authors": "Harold Abelson, Gerald Jay Sussman",
+    "isbn": "9780262367622",
+    "link": "https://play.google.com/store/books/details?id=WSUuEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Animal Liberation",
@@ -283,8 +283,8 @@
     "name": "The Sun Also Rises",
     "review": null,
     "authors": "Ernest Hemingway",
-    "isbn": "9783985100118",
-    "link": "https://play.google.com/store/books/details?id=QSFZEAAAQBAJ&source=gbs_api"
+    "isbn": null,
+    "link": "https://play.google.com/store/books/details?id=BUtL-kp3VPUC&source=gbs_api"
   },
   {
     "name": "The Catcher in the Rye",
