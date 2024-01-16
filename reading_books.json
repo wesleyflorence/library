@@ -1,23 +1,9 @@
 [
   {
-    "name": "The Emperor of All Maladies",
-    "review": null,
-    "authors": "Siddhartha Mukherjee",
-    "isbn": "9781439170915",
-    "link": "http://books.google.com/books?id=hgx0sJvphNkC&dq=intitle:The+Emperor+of+All+Maladies&hl=&source=gbs_api"
-  },
-  {
     "name": "Deep Learning for Coders with Fastai and PyTorch",
     "review": null,
     "authors": "Jeremy Howard, Sylvain Gugger",
     "isbn": "9781492045496",
     "link": "http://books.google.com/books?id=yATuDwAAQBAJ&dq=intitle:Deep+Learning+for+Coders+with+Fastai+and+PyTorch&hl=&source=gbs_api"
-  },
-  {
-    "name": "The Body Keeps the Score",
-    "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
   }
 ]
