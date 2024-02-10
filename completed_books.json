@@ -10,8 +10,8 @@
     "name": "The Body Keeps the Score",
     "review": null,
     "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "isbn": "9780241003985",
+    "link": "http://books.google.com/books?id=9YypngEACAAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -101,15 +101,15 @@
     "name": "Practical Common Lisp",
     "review": null,
     "authors": "Peter Seibel",
-    "isbn": "9781430211617",
-    "link": "http://books.google.com/books?id=0vjHrQEACAAJ&dq=intitle:Practical+Common+Lisp&hl=&source=gbs_api"
+    "isbn": "9781430200178",
+    "link": "http://books.google.com/books?id=dVJvr8PtCMUC&dq=intitle:Practical+Common+Lisp&hl=&source=gbs_api"
   },
   {
     "name": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
     "review": null,
     "authors": "Cal Newport",
-    "isbn": "9780241341131",
-    "link": "http://books.google.com/books?id=mfjqtwEACAAJ&dq=intitle:Digital+Minimalism:+Choosing+a+Focused+Life+in+a+Noisy+World&hl=&source=gbs_api"
+    "isbn": "9780525536512",
+    "link": "http://books.google.com/books?id=1eGCDwAAQBAJ&dq=intitle:Digital+Minimalism:+Choosing+a+Focused+Life+in+a+Noisy+World&hl=&source=gbs_api"
   },
   {
     "name": "An Indigenous Peoples' History of the United States (ReVisioning American History, #3)",
@@ -213,8 +213,8 @@
     "name": "Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People",
     "review": null,
     "authors": "Aditya Bhargava",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=_EYyzgEACAAJ&dq=intitle:Grokking+Algorithms+An+Illustrated+Guide+For+Programmers+and+Other+Curious+People&hl=&source=gbs_api"
+    "isbn": "9781638353348",
+    "link": "https://play.google.com/store/books/details?id=yzkzEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Stoner",
@@ -228,7 +228,7 @@
     "review": null,
     "authors": "Petr Alekseevich Kropotkin (kni\ufe20a\ufe21z\u02b9)",
     "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=TB2ul8NVVPcC&source=gbs_api"
+    "link": "https://play.google.com/store/books/details?id=Q6fv0JOpvYkC&source=gbs_api"
   },
   {
     "name": "Homo Deus: A History of Tomorrow",
@@ -283,8 +283,8 @@
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
     "review": null,
     "authors": "Ken Kocienda",
-    "isbn": "9781529004731",
-    "link": "http://books.google.com/books?id=flfEwwEACAAJ&dq=intitle:Creative+Selection:+Inside+Apple%27s+Design+Process+During+the+Golden+Age+of+Steve+Jobs&hl=&source=gbs_api"
+    "isbn": "9781250194473",
+    "link": "https://play.google.com/store/books/details?id=nntJDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Mother Night",
@@ -311,8 +311,8 @@
     "name": "Factotum",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780061842412",
-    "link": "https://play.google.com/store/books/details?id=PW11FI6VsZsC&source=gbs_api"
+    "isbn": "9780061131271",
+    "link": "http://books.google.com/books?id=GMuYGGSbY0kC&dq=intitle:Factotum&hl=&source=gbs_api"
   },
   {
     "name": "Slaughterhouse-Five",
@@ -346,8 +346,8 @@
     "name": "How to Get Filthy Rich in Rising Asia",
     "review": null,
     "authors": "Mohsin Hamid",
-    "isbn": "9780241144671",
-    "link": "http://books.google.com/books?id=cY3snQEACAAJ&dq=intitle:How+to+Get+Filthy+Rich+in+Rising+Asia&hl=&source=gbs_api"
+    "isbn": "9781594632334",
+    "link": "http://books.google.com/books?id=YkCMDQAAQBAJ&dq=intitle:How+to+Get+Filthy+Rich+in+Rising+Asia&hl=&source=gbs_api"
   },
   {
     "name": "Zen and the Art of Motorcycle Maintenance",
