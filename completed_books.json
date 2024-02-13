@@ -31,8 +31,8 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": "9781473206069",
-    "link": "https://play.google.com/store/books/details?id=t9hpEAAAQBAJ&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=AAZbAAAAMAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -52,8 +52,8 @@
     "name": "Capitalist Realism",
     "review": null,
     "authors": "Mark Fisher",
-    "isbn": "9781846943171",
-    "link": "http://books.google.com/books?id=ibN3fGpW1DIC&dq=intitle:Capitalist+Realism&hl=&source=gbs_api"
+    "isbn": "9781803414317",
+    "link": "https://play.google.com/store/books/details?id=QSiUEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Ministry for the Future",
@@ -108,8 +108,8 @@
     "name": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
     "review": null,
     "authors": "Cal Newport",
-    "isbn": "9780241341131",
-    "link": "http://books.google.com/books?id=mfjqtwEACAAJ&dq=intitle:Digital+Minimalism:+Choosing+a+Focused+Life+in+a+Noisy+World&hl=&source=gbs_api"
+    "isbn": "9780525536512",
+    "link": "http://books.google.com/books?id=1eGCDwAAQBAJ&dq=intitle:Digital+Minimalism:+Choosing+a+Focused+Life+in+a+Noisy+World&hl=&source=gbs_api"
   },
   {
     "name": "An Indigenous Peoples' History of the United States (ReVisioning American History, #3)",
@@ -128,9 +128,9 @@
   {
     "name": "Structure and Interpretation of Computer Programs",
     "review": null,
-    "authors": "Harold Abelson",
-    "isbn": "9780262011532",
-    "link": "http://books.google.com/books?id=1DrQngEACAAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
+    "authors": "Harold Abelson, Gerald Jay Sussman",
+    "isbn": "9780262367622",
+    "link": "https://play.google.com/store/books/details?id=WSUuEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Animal Liberation",
@@ -164,8 +164,8 @@
     "name": "The Uninhabitable Earth: Life After Warming",
     "review": null,
     "authors": "David Wallace-Wells",
-    "isbn": "9780525576723",
-    "link": "https://play.google.com/store/books/details?id=A8lqDwAAQBAJ&source=gbs_api"
+    "isbn": "9780525576716",
+    "link": "http://books.google.com/books?id=HWbRDwAAQBAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
   },
   {
     "name": "Breath: The New Science of a Lost Art",
@@ -178,8 +178,8 @@
     "name": "Why I Write",
     "review": null,
     "authors": "George Orwell",
-    "isbn": "9781913724269",
-    "link": "https://play.google.com/store/books/details?id=x9AREAAAQBAJ&source=gbs_api"
+    "isbn": "9780141980607",
+    "link": "http://books.google.com/books?id=teKmBAAAQBAJ&dq=intitle:Why+I+Write&hl=&source=gbs_api"
   },
   {
     "name": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy",
@@ -199,8 +199,8 @@
     "name": "A People's History of the United States",
     "review": null,
     "authors": "Howard Zinn",
-    "isbn": "9780062466679",
-    "link": "https://play.google.com/store/books/details?id=KBueCgAAQBAJ&source=gbs_api"
+    "isbn": "9780061965586",
+    "link": "http://books.google.com/books?id=Aw5sqwgQKtEC&dq=intitle:A+People%27s+History+of+the+United+States&hl=&source=gbs_api"
   },
   {
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
@@ -212,9 +212,9 @@
   {
     "name": "Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People",
     "review": null,
-    "authors": "Aditya Y. Bhargava",
-    "isbn": "9781617292231",
-    "link": "http://books.google.com/books?id=yQRErgEACAAJ&dq=intitle:Grokking+Algorithms+An+Illustrated+Guide+For+Programmers+and+Other+Curious+People&hl=&source=gbs_api"
+    "authors": "Aditya Bhargava",
+    "isbn": "9781638353348",
+    "link": "https://play.google.com/store/books/details?id=yzkzEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Stoner",
@@ -234,15 +234,15 @@
     "name": "Homo Deus: A History of Tomorrow",
     "review": null,
     "authors": "Yuval Noah Harari",
-    "isbn": "9780062464354",
-    "link": "https://play.google.com/store/books/details?id=H2t_CwAAQBAJ&source=gbs_api"
+    "isbn": "9781910701874",
+    "link": "http://books.google.com/books?id=ZWcNDQAAQBAJ&dq=intitle:Homo+Deus:+A+History+of+Tomorrow&hl=&source=gbs_api"
   },
   {
     "name": "Kafka on the Shore",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9781400079278",
-    "link": "http://books.google.com/books?id=A08c2Ep7QbYC&dq=intitle:Kafka+on+the+Shore&hl=&source=gbs_api"
+    "isbn": "9780099494096",
+    "link": "http://books.google.com/books?id=FGtAPgAACAAJ&dq=intitle:Kafka+on+the+Shore&hl=&source=gbs_api"
   },
   {
     "name": "What I Talk About When I Talk About Running",
@@ -283,8 +283,8 @@
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
     "review": null,
     "authors": "Ken Kocienda",
-    "isbn": "9781529004731",
-    "link": "http://books.google.com/books?id=flfEwwEACAAJ&dq=intitle:Creative+Selection:+Inside+Apple%27s+Design+Process+During+the+Golden+Age+of+Steve+Jobs&hl=&source=gbs_api"
+    "isbn": "9781250194473",
+    "link": "https://play.google.com/store/books/details?id=nntJDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Mother Night",
@@ -297,8 +297,8 @@
     "name": "The Sun Also Rises",
     "review": null,
     "authors": "Ernest Hemingway",
-    "isbn": "9780743297332",
-    "link": "http://books.google.com/books?id=ghKyLjIU4-QC&dq=intitle:The+Sun+Also+Rises&hl=&source=gbs_api"
+    "isbn": "9783985100118",
+    "link": "https://play.google.com/store/books/details?id=QSFZEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Catcher in the Rye",
@@ -332,8 +332,8 @@
     "name": "Ham on Rye",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780061851919",
-    "link": "https://play.google.com/store/books/details?id=Rv4qbAACPzYC&source=gbs_api"
+    "isbn": "9781841951638",
+    "link": "http://books.google.com/books?id=vRvfXdayo8YC&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
   },
   {
     "name": "The Old Man and the Sea",
@@ -353,8 +353,8 @@
     "name": "Zen and the Art of Motorcycle Maintenance",
     "review": null,
     "authors": "Robert M. Pirsig",
-    "isbn": "9780061907999",
-    "link": "https://play.google.com/store/books/details?id=gx2ev_vwGKAC&source=gbs_api"
+    "isbn": "9780553277470",
+    "link": "http://books.google.com/books?id=uIETEv37kDoC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
   },
   {
     "name": "The Great Gatsby",
