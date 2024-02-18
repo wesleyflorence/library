@@ -31,15 +31,15 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": "9780575016781",
-    "link": "http://books.google.com/books?id=UfayQgAACAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
+    "isbn": "9780061796883",
+    "link": "http://books.google.com/books?id=k1Smynbdy_IC&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
     "review": "thought provoking",
     "authors": "Carlo Rovelli",
-    "isbn": "9780735216112",
-    "link": "http://books.google.com/books?id=POi9DwAAQBAJ&dq=intitle:The+Order+of+Time&hl=&source=gbs_api"
+    "isbn": "9780735216129",
+    "link": "https://play.google.com/store/books/details?id=YvM3DwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Solaris",
@@ -128,16 +128,16 @@
   {
     "name": "Structure and Interpretation of Computer Programs",
     "review": null,
-    "authors": "Harold Abelson, Gerald Jay Sussman",
-    "isbn": "9780262367622",
-    "link": "https://play.google.com/store/books/details?id=WSUuEAAAQBAJ&source=gbs_api"
+    "authors": "Harold Abelson",
+    "isbn": "9780262011532",
+    "link": "http://books.google.com/books?id=1DrQngEACAAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
   },
   {
     "name": "Animal Liberation",
     "review": null,
     "authors": "Peter Singer",
-    "isbn": "9781847923844",
-    "link": "http://books.google.com/books?id=UYLAsgEACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
+    "isbn": "9781473524422",
+    "link": "http://books.google.com/books?id=9AvJCQAAQBAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
   },
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
@@ -164,8 +164,8 @@
     "name": "The Uninhabitable Earth: Life After Warming",
     "review": null,
     "authors": "David Wallace-Wells",
-    "isbn": "9780525576723",
-    "link": "https://play.google.com/store/books/details?id=A8lqDwAAQBAJ&source=gbs_api"
+    "isbn": "9780525576716",
+    "link": "http://books.google.com/books?id=HWbRDwAAQBAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
   },
   {
     "name": "Breath: The New Science of a Lost Art",
@@ -199,8 +199,8 @@
     "name": "A People's History of the United States",
     "review": null,
     "authors": "Howard Zinn",
-    "isbn": "9780062466679",
-    "link": "https://play.google.com/store/books/details?id=KBueCgAAQBAJ&source=gbs_api"
+    "isbn": "9780061965586",
+    "link": "http://books.google.com/books?id=Aw5sqwgQKtEC&dq=intitle:A+People%27s+History+of+the+United+States&hl=&source=gbs_api"
   },
   {
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
@@ -212,23 +212,23 @@
   {
     "name": "Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People",
     "review": null,
-    "authors": "Aditya Y. Bhargava",
-    "isbn": "9781617292231",
-    "link": "http://books.google.com/books?id=yQRErgEACAAJ&dq=intitle:Grokking+Algorithms+An+Illustrated+Guide+For+Programmers+and+Other+Curious+People&hl=&source=gbs_api"
+    "authors": "Aditya Bhargava",
+    "isbn": "9781638353348",
+    "link": "https://play.google.com/store/books/details?id=yzkzEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Stoner",
     "review": null,
     "authors": "John Williams",
-    "isbn": "9781590171998",
-    "link": "http://books.google.com/books?id=fvlHAgAAQBAJ&dq=intitle:Stoner&hl=&source=gbs_api"
+    "isbn": "9781590179284",
+    "link": "http://books.google.com/books?id=6Yc-DwAAQBAJ&dq=intitle:Stoner&hl=&source=gbs_api"
   },
   {
     "name": "The Conquest of Bread",
     "review": null,
     "authors": "Petr Alekseevich Kropotkin (kni\ufe20a\ufe21z\u02b9)",
     "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=TB2ul8NVVPcC&source=gbs_api"
+    "link": "https://play.google.com/store/books/details?id=Q6fv0JOpvYkC&source=gbs_api"
   },
   {
     "name": "Homo Deus: A History of Tomorrow",
@@ -248,8 +248,8 @@
     "name": "What I Talk About When I Talk About Running",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307473394",
-    "link": "http://books.google.com/books?id=yoHbJ78JZCYC&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
+    "isbn": "9780307269478",
+    "link": "https://play.google.com/store/books/details?id=5IH75VXZxU4C&source=gbs_api"
   },
   {
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
@@ -297,8 +297,8 @@
     "name": "The Sun Also Rises",
     "review": null,
     "authors": "Ernest Hemingway",
-    "isbn": "9783985100118",
-    "link": "https://play.google.com/store/books/details?id=QSFZEAAAQBAJ&source=gbs_api"
+    "isbn": "9780743297332",
+    "link": "http://books.google.com/books?id=ghKyLjIU4-QC&dq=intitle:The+Sun+Also+Rises&hl=&source=gbs_api"
   },
   {
     "name": "The Catcher in the Rye",
@@ -311,8 +311,8 @@
     "name": "Factotum",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780061131271",
-    "link": "http://books.google.com/books?id=GMuYGGSbY0kC&dq=intitle:Factotum&hl=&source=gbs_api"
+    "isbn": "9780061842412",
+    "link": "https://play.google.com/store/books/details?id=PW11FI6VsZsC&source=gbs_api"
   },
   {
     "name": "Slaughterhouse-Five",
@@ -325,8 +325,8 @@
     "name": "Post Office: A Novel",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780061844041",
-    "link": "https://play.google.com/store/books/details?id=XjQ5zlnQ8ZcC&source=gbs_api"
+    "isbn": "9780861610273",
+    "link": "http://books.google.com/books?id=ZqybuQAACAAJ&dq=intitle:Post+Office:+A+Novel&hl=&source=gbs_api"
   },
   {
     "name": "Ham on Rye",
@@ -346,15 +346,15 @@
     "name": "How to Get Filthy Rich in Rising Asia",
     "review": null,
     "authors": "Mohsin Hamid",
-    "isbn": "9781594632334",
-    "link": "http://books.google.com/books?id=YkCMDQAAQBAJ&dq=intitle:How+to+Get+Filthy+Rich+in+Rising+Asia&hl=&source=gbs_api"
+    "isbn": "9780241144688",
+    "link": "http://books.google.com/books?id=aebV0bRgN_MC&dq=intitle:How+to+Get+Filthy+Rich+in+Rising+Asia&hl=&source=gbs_api"
   },
   {
     "name": "Zen and the Art of Motorcycle Maintenance",
     "review": null,
     "authors": "Robert M. Pirsig",
-    "isbn": "9780061907999",
-    "link": "https://play.google.com/store/books/details?id=gx2ev_vwGKAC&source=gbs_api"
+    "isbn": "9780553277470",
+    "link": "http://books.google.com/books?id=uIETEv37kDoC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
   },
   {
     "name": "The Great Gatsby",
