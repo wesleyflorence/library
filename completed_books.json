@@ -121,9 +121,9 @@
   {
     "name": "The Peregrine",
     "review": null,
-    "authors": "Sue Picco",
-    "isbn": "9780865348004",
-    "link": "https://play.google.com/store/books/details?id=Twv5bjY_q2sC&source=gbs_api"
+    "authors": "J. A. Baker",
+    "isbn": "9781590171332",
+    "link": "http://books.google.com/books?id=TEZhb3ARPz4C&dq=intitle:The+Peregrine&hl=&source=gbs_api"
   },
   {
     "name": "Structure and Interpretation of Computer Programs",
@@ -227,8 +227,8 @@
     "name": "The Conquest of Bread",
     "review": null,
     "authors": "Petr Alekseevich Kropotkin (kni\ufe20a\ufe21z\u02b9)",
-    "isbn": "9780521459907",
-    "link": "http://books.google.com/books?id=InTfBhY75CQC&dq=intitle:The+Conquest+of+Bread&hl=&source=gbs_api"
+    "isbn": null,
+    "link": "https://play.google.com/store/books/details?id=Q6fv0JOpvYkC&source=gbs_api"
   },
   {
     "name": "Homo Deus: A History of Tomorrow",
@@ -255,8 +255,8 @@
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "review": null,
     "authors": "James Clear",
-    "isbn": "9780735211292",
-    "link": "http://books.google.com/books?id=XfFvDwAAQBAJ&dq=intitle:Atomic+Habits:+An+Easy&hl=&source=gbs_api"
+    "isbn": "9780735211308",
+    "link": "https://play.google.com/store/books/details?id=lFhbDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
@@ -290,8 +290,8 @@
     "name": "Mother Night",
     "review": null,
     "authors": "Kurt Vonnegut",
-    "isbn": "9780099819301",
-    "link": "http://books.google.com/books?id=k7xUPgAACAAJ&dq=intitle:Mother+Night&hl=&source=gbs_api"
+    "isbn": "9780440339076",
+    "link": "https://play.google.com/store/books/details?id=WiUuWn6sGqwC&source=gbs_api"
   },
   {
     "name": "The Sun Also Rises",
@@ -325,8 +325,8 @@
     "name": "Post Office: A Novel",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780061844041",
-    "link": "https://play.google.com/store/books/details?id=XjQ5zlnQ8ZcC&source=gbs_api"
+    "isbn": "9780861610273",
+    "link": "http://books.google.com/books?id=ZqybuQAACAAJ&dq=intitle:Post+Office:+A+Novel&hl=&source=gbs_api"
   },
   {
     "name": "Ham on Rye",
