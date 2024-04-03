@@ -2,7 +2,9 @@ certifi==2023.7.22
 charset-normalizer==3.3.2
 idna==3.4
 oauthlib==3.2.2
-py-trello==0.19.0
+# py-trello==0.19.0
+# https://github.com/sarumont/py-trello/issues/376
+py-trello-api==0.20.0
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 pytz==2023.3.post1
