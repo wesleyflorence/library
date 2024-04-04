@@ -31,15 +31,15 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": "9781473206069",
-    "link": "https://play.google.com/store/books/details?id=t9hpEAAAQBAJ&source=gbs_api"
+    "isbn": "9780061796883",
+    "link": "https://play.google.com/store/books/details?id=tlhFtmTixvwC&source=gbs_api"
   },
   {
     "name": "The Order of Time",
     "review": "thought provoking",
     "authors": "Carlo Rovelli",
-    "isbn": "9780735216112",
-    "link": "http://books.google.com/books?id=POi9DwAAQBAJ&dq=intitle:The+Order+of+Time&hl=&source=gbs_api"
+    "isbn": "9780735216129",
+    "link": "https://play.google.com/store/books/details?id=YvM3DwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Solaris",
@@ -66,8 +66,8 @@
     "name": "Half-Earth Socialism",
     "review": null,
     "authors": "Troy Vettese, Drew Pendergrass",
-    "isbn": "9781839760334",
-    "link": "https://play.google.com/store/books/details?id=Q7gCEAAAQBAJ&source=gbs_api"
+    "isbn": "9781804290385",
+    "link": "http://books.google.com/books?id=jmuDEAAAQBAJ&dq=intitle:Half-Earth+Socialism&hl=&source=gbs_api"
   },
   {
     "name": "Psychopolitics Neoliberalism and New Technologies of Power",
@@ -94,8 +94,8 @@
     "name": "Clojure for the Brave and True",
     "review": null,
     "authors": "Daniel Higginbotham",
-    "isbn": "9781457190018",
-    "link": "http://books.google.com/books?id=yFBWAQAACAAJ&dq=intitle:Clojure+for+the+Brave+and+True&hl=&source=gbs_api"
+    "isbn": "9781593277239",
+    "link": "https://play.google.com/store/books/details?id=jAYvDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Practical Common Lisp",
@@ -108,8 +108,8 @@
     "name": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
     "review": null,
     "authors": "Cal Newport",
-    "isbn": "9780525536512",
-    "link": "http://books.google.com/books?id=1eGCDwAAQBAJ&dq=intitle:Digital+Minimalism:+Choosing+a+Focused+Life+in+a+Noisy+World&hl=&source=gbs_api"
+    "isbn": "9780525536543",
+    "link": "https://play.google.com/store/books/details?id=uS9eDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "An Indigenous Peoples' History of the United States (ReVisioning American History, #3)",
@@ -129,15 +129,15 @@
     "name": "Structure and Interpretation of Computer Programs",
     "review": null,
     "authors": "Harold Abelson, Gerald Jay Sussman",
-    "isbn": "9780262543231",
-    "link": "http://books.google.com/books?id=4rtNEAAAQBAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
+    "isbn": "9780262510875",
+    "link": "http://books.google.com/books?id=iL34DwAAQBAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
   },
   {
     "name": "Animal Liberation",
     "review": null,
     "authors": "Peter Singer",
-    "isbn": "9781847923844",
-    "link": "http://books.google.com/books?id=UYLAsgEACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
+    "isbn": "9781473524422",
+    "link": "http://books.google.com/books?id=9AvJCQAAQBAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
   },
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
@@ -192,8 +192,8 @@
     "name": "The State and Revolution",
     "review": null,
     "authors": "V. I. Lenin",
-    "isbn": "9781804292860",
-    "link": "http://books.google.com/books?id=azLoEAAAQBAJ&dq=intitle:The+State+and+Revolution&hl=&source=gbs_api"
+    "isbn": "9781804292877",
+    "link": "https://play.google.com/store/books/details?id=-u65EAAAQBAJ&source=gbs_api"
   },
   {
     "name": "A People's History of the United States",
@@ -227,8 +227,8 @@
     "name": "The Conquest of Bread",
     "review": null,
     "authors": "Petr Alekseevich Kropotkin (kni\ufe20a\ufe21z\u02b9)",
-    "isbn": "9780521459907",
-    "link": "http://books.google.com/books?id=InTfBhY75CQC&dq=intitle:The+Conquest+of+Bread&hl=&source=gbs_api"
+    "isbn": null,
+    "link": "https://play.google.com/store/books/details?id=Q6fv0JOpvYkC&source=gbs_api"
   },
   {
     "name": "Homo Deus: A History of Tomorrow",
@@ -248,8 +248,8 @@
     "name": "What I Talk About When I Talk About Running",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307473394",
-    "link": "http://books.google.com/books?id=yoHbJ78JZCYC&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
+    "isbn": "9780307373083",
+    "link": "http://books.google.com/books?id=fX97wN8MNk0C&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
   },
   {
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
@@ -353,8 +353,8 @@
     "name": "Zen and the Art of Motorcycle Maintenance",
     "review": null,
     "authors": "Robert M. Pirsig",
-    "isbn": "9780099786405",
-    "link": "http://books.google.com/books?id=M69poeV1UhoC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
+    "isbn": "9780553277470",
+    "link": "http://books.google.com/books?id=uIETEv37kDoC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
   },
   {
     "name": "The Great Gatsby",
