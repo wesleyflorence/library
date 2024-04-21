@@ -32,7 +32,7 @@
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
     "isbn": "9780061796883",
-    "link": "https://play.google.com/store/books/details?id=tlhFtmTixvwC&source=gbs_api"
+    "link": "http://books.google.com/books?id=k1Smynbdy_IC&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -325,8 +325,8 @@
     "name": "Post Office: A Novel",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780876850862",
-    "link": "http://books.google.com/books?id=N3i0ethpcG8C&dq=intitle:Post+Office:+A+Novel&hl=&source=gbs_api"
+    "isbn": "9780061844041",
+    "link": "https://play.google.com/store/books/details?id=XjQ5zlnQ8ZcC&source=gbs_api"
   },
   {
     "name": "Ham on Rye",
