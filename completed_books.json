@@ -31,15 +31,15 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": "9780061796883",
-    "link": "http://books.google.com/books?id=k1Smynbdy_IC&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
+    "isbn": "9781473206069",
+    "link": "https://play.google.com/store/books/details?id=t9hpEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Order of Time",
     "review": "thought provoking",
     "authors": "Carlo Rovelli",
-    "isbn": "9780735216129",
-    "link": "https://play.google.com/store/books/details?id=YvM3DwAAQBAJ&source=gbs_api"
+    "isbn": "9780735216105",
+    "link": "http://books.google.com/books?id=p7RaDwAAQBAJ&dq=intitle:The+Order+of+Time&hl=&source=gbs_api"
   },
   {
     "name": "Solaris",
@@ -94,8 +94,8 @@
     "name": "Clojure for the Brave and True",
     "review": null,
     "authors": "Daniel Higginbotham",
-    "isbn": "9781593277239",
-    "link": "https://play.google.com/store/books/details?id=jAYvDwAAQBAJ&source=gbs_api"
+    "isbn": "9781593275914",
+    "link": "http://books.google.com/books?id=mQLPCgAAQBAJ&dq=intitle:Clojure+for+the+Brave+and+True&hl=&source=gbs_api"
   },
   {
     "name": "Practical Common Lisp",
@@ -115,8 +115,8 @@
     "name": "An Indigenous Peoples' History of the United States (ReVisioning American History, #3)",
     "review": null,
     "authors": "Roxanne Dunbar-Ortiz",
-    "isbn": "9780807049402",
-    "link": "https://play.google.com/store/books/details?id=USl2DwAAQBAJ&source=gbs_api"
+    "isbn": "9780807013144",
+    "link": "https://play.google.com/store/books/details?id=oR2sEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Peregrine",
@@ -199,8 +199,8 @@
     "name": "A People's History of the United States",
     "review": null,
     "authors": "Howard Zinn",
-    "isbn": "9780062466679",
-    "link": "https://play.google.com/store/books/details?id=KBueCgAAQBAJ&source=gbs_api"
+    "isbn": "9780061965586",
+    "link": "http://books.google.com/books?id=Aw5sqwgQKtEC&dq=intitle:A+People%27s+History+of+the+United+States&hl=&source=gbs_api"
   },
   {
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
