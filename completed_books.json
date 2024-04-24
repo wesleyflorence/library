@@ -31,8 +31,8 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": "9781473206069",
-    "link": "https://play.google.com/store/books/details?id=t9hpEAAAQBAJ&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=-DHuAAAAMAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -199,8 +199,8 @@
     "name": "A People's History of the United States",
     "review": null,
     "authors": "Howard Zinn",
-    "isbn": "9780061965586",
-    "link": "http://books.google.com/books?id=Aw5sqwgQKtEC&dq=intitle:A+People%27s+History+of+the+United+States&hl=&source=gbs_api"
+    "isbn": "9780062466679",
+    "link": "https://play.google.com/store/books/details?id=KBueCgAAQBAJ&source=gbs_api"
   },
   {
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
