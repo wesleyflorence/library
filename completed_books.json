@@ -31,15 +31,15 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": "9781473206069",
-    "link": "https://play.google.com/store/books/details?id=t9hpEAAAQBAJ&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=-DHuAAAAMAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
     "review": "thought provoking",
     "authors": "Carlo Rovelli",
-    "isbn": "9780735216112",
-    "link": "http://books.google.com/books?id=POi9DwAAQBAJ&dq=intitle:The+Order+of+Time&hl=&source=gbs_api"
+    "isbn": "9780735216105",
+    "link": "http://books.google.com/books?id=p7RaDwAAQBAJ&dq=intitle:The+Order+of+Time&hl=&source=gbs_api"
   },
   {
     "name": "Solaris",
@@ -129,8 +129,8 @@
     "name": "Structure and Interpretation of Computer Programs",
     "review": null,
     "authors": "Harold Abelson, Gerald Jay Sussman",
-    "isbn": "9780262510875",
-    "link": "http://books.google.com/books?id=iL34DwAAQBAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
+    "isbn": "9780262543231",
+    "link": "http://books.google.com/books?id=4rtNEAAAQBAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
   },
   {
     "name": "Animal Liberation",
@@ -142,9 +142,9 @@
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
     "review": null,
-    "authors": "Joshua Bloom, Waldo E. Martin",
-    "isbn": "9780520293281",
-    "link": "http://books.google.com/books?id=D7UwDwAAQBAJ&dq=intitle:Black+Against+Empire:+The+History+and+Politics+of+the+Black+Panther+Party&hl=&source=gbs_api"
+    "authors": "Joshua Bloom, Waldo E. Martin Jr.",
+    "isbn": "9780520966451",
+    "link": "https://play.google.com/store/books/details?id=C77uDAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Little Schemer",
@@ -199,8 +199,8 @@
     "name": "A People's History of the United States",
     "review": null,
     "authors": "Howard Zinn",
-    "isbn": "9780061965586",
-    "link": "http://books.google.com/books?id=Aw5sqwgQKtEC&dq=intitle:A+People%27s+History+of+the+United+States&hl=&source=gbs_api"
+    "isbn": "9780062466679",
+    "link": "https://play.google.com/store/books/details?id=KBueCgAAQBAJ&source=gbs_api"
   },
   {
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
@@ -255,8 +255,8 @@
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "review": null,
     "authors": "James Clear",
-    "isbn": "9780735211308",
-    "link": "https://play.google.com/store/books/details?id=lFhbDwAAQBAJ&source=gbs_api"
+    "isbn": "9780735211292",
+    "link": "http://books.google.com/books?id=XfFvDwAAQBAJ&dq=intitle:Atomic+Habits:+An+Easy&hl=&source=gbs_api"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
