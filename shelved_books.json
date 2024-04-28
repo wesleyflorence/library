@@ -26,5 +26,12 @@
     "authors": "Barbara Oakley, PhD",
     "isbn": "9781101621615",
     "link": "https://play.google.com/store/books/details?id=Sb1iAgAAQBAJ&source=gbs_api"
+  },
+  {
+    "name": "The Fellowship of the Ring",
+    "review": null,
+    "authors": "J.R.R. Tolkien",
+    "isbn": "9780547952017",
+    "link": "https://play.google.com/store/books/details?id=aWZzLPhY4o0C&source=gbs_api"
   }
 ]

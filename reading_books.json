@@ -1,16 +1,9 @@
 [
   {
-    "name": "Deep Learning for Coders with Fastai and PyTorch",
+    "name": "Ikigai",
     "review": null,
-    "authors": "Jeremy Howard, Sylvain Gugger",
-    "isbn": "9781492045496",
-    "link": "http://books.google.com/books?id=yATuDwAAQBAJ&dq=intitle:Deep+Learning+for+Coders+with+Fastai+and+PyTorch&hl=&source=gbs_api"
-  },
-  {
-    "name": "The Fellowship of the Ring",
-    "review": null,
-    "authors": "J.R.R. Tolkien",
-    "isbn": "9780547952017",
-    "link": "https://play.google.com/store/books/details?id=aWZzLPhY4o0C&source=gbs_api"
+    "authors": "H\u00e9ctor Garc\u00eda, Francesc Miralles",
+    "isbn": "9780143130727",
+    "link": "http://books.google.com/books?id=CbouDwAAQBAJ&dq=intitle:Ikigai&hl=&source=gbs_api"
   }
 ]
