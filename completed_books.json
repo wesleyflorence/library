@@ -45,8 +45,8 @@
     "name": "The Order of Time",
     "review": "thought provoking",
     "authors": "Carlo Rovelli",
-    "isbn": "9780735216112",
-    "link": "http://books.google.com/books?id=POi9DwAAQBAJ&dq=intitle:The+Order+of+Time&hl=&source=gbs_api"
+    "isbn": "9780735216105",
+    "link": "http://books.google.com/books?id=p7RaDwAAQBAJ&dq=intitle:The+Order+of+Time&hl=&source=gbs_api"
   },
   {
     "name": "Solaris",
@@ -101,8 +101,8 @@
     "name": "Clojure for the Brave and True",
     "review": null,
     "authors": "Daniel Higginbotham",
-    "isbn": "9781593275914",
-    "link": "http://books.google.com/books?id=mQLPCgAAQBAJ&dq=intitle:Clojure+for+the+Brave+and+True&hl=&source=gbs_api"
+    "isbn": "9781457190018",
+    "link": "http://books.google.com/books?id=yFBWAQAACAAJ&dq=intitle:Clojure+for+the+Brave+and+True&hl=&source=gbs_api"
   },
   {
     "name": "Practical Common Lisp",
@@ -283,8 +283,8 @@
     "name": "Shoe Dog: A Memoir by the Creator of Nike",
     "review": null,
     "authors": "Phil Knight",
-    "isbn": "9781471146718",
-    "link": "http://books.google.com/books?id=lXlCjwEACAAJ&dq=intitle:Shoe+Dog:+A+Memoir+by+the+Creator+of+Nike&hl=&source=gbs_api"
+    "isbn": "9781501135934",
+    "link": "https://play.google.com/store/books/details?id=wO3PCgAAQBAJ&source=gbs_api"
   },
   {
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
@@ -359,9 +359,9 @@
   {
     "name": "Zen and the Art of Motorcycle Maintenance",
     "review": null,
-    "authors": "Robert M. Pirsig",
-    "isbn": "9780553277470",
-    "link": "http://books.google.com/books?id=uIETEv37kDoC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
+    "authors": "Ron Di Santo, Tom Steele",
+    "isbn": "9780688060695",
+    "link": "http://books.google.com/books?id=N-In587uw_EC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
   },
   {
     "name": "The Great Gatsby",
