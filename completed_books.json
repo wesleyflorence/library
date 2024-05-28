@@ -16,9 +16,9 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "J. R. R. Tolkien",
-    "isbn": "9780007322602",
-    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "J.R.R. Tolkien",
+    "isbn": "9780547951973",
+    "link": "https://play.google.com/store/books/details?id=pD6arNyKyi8C&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
@@ -46,7 +46,7 @@
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
     "isbn": null,
-    "link": "http://books.google.com/books?id=AAZbAAAAMAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
+    "link": "http://books.google.com/books?id=qkwhAAAAMAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -129,8 +129,8 @@
     "name": "An Indigenous Peoples' History of the United States (ReVisioning American History, #3)",
     "review": null,
     "authors": "Roxanne Dunbar-Ortiz",
-    "isbn": "9780807013144",
-    "link": "https://play.google.com/store/books/details?id=oR2sEAAAQBAJ&source=gbs_api"
+    "isbn": "9780807049402",
+    "link": "https://play.google.com/store/books/details?id=USl2DwAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Peregrine",
