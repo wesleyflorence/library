@@ -1,5 +1,12 @@
 [
   {
+    "name": "An Immense World",
+    "review": null,
+    "authors": "Ed Yong",
+    "isbn": "9780593133248",
+    "link": "https://play.google.com/store/books/details?id=TdlHEAAAQBAJ&source=gbs_api"
+  },
+  {
     "name": "Outlive",
     "review": null,
     "authors": "Peter Attia, MD",
@@ -59,8 +66,8 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": "9781473206069",
-    "link": "http://books.google.com/books?id=t9hpEAAAQBAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
+    "isbn": "9780061796883",
+    "link": "https://play.google.com/store/books/details?id=tlhFtmTixvwC&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -213,8 +220,8 @@
     "name": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy",
     "review": null,
     "authors": "Murray Bookchin",
-    "isbn": "9781781685822",
-    "link": "https://play.google.com/store/books/details?id=GigqBQAAQBAJ&source=gbs_api"
+    "isbn": "9781781687338",
+    "link": "http://books.google.com/books?id=ZmznDwAAQBAJ&dq=intitle:The+Next+Revolution:+Popular+Assemblies+and+the+Promise+of+Direct+Democracy&hl=&source=gbs_api"
   },
   {
     "name": "The State and Revolution",
