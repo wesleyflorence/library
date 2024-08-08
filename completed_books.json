@@ -24,8 +24,8 @@
     "name": "The Song of the Cell",
     "review": "The kind of book you try to savor. I was thrust into the world of the cellular recently and had little knowledge of the subject. This book did a lovely job of putting many ideas into context for me and has sparked a new fascination.",
     "authors": "Siddhartha Mukherjee",
-    "isbn": "9781982117375",
-    "link": "https://play.google.com/store/books/details?id=CRpdEAAAQBAJ&source=gbs_api"
+    "isbn": "9789354927584",
+    "link": "http://books.google.com/books?id=qLyVEAAAQBAJ&dq=intitle:The+Song+of+the+Cell&hl=&source=gbs_api"
   },
   {
     "name": "Moonwalking with Einstein",
@@ -65,9 +65,9 @@
   {
     "name": "The Untethered Soul",
     "review": "A mix of ideas, some are good.",
-    "authors": "Michael Singer",
-    "isbn": "9781458727343",
-    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul&hl=&source=gbs_api"
+    "authors": null,
+    "isbn": null,
+    "link": null
   },
   {
     "name": "The Dispossessed",
@@ -115,8 +115,8 @@
     "name": "Psychopolitics Neoliberalism and New Technologies of Power",
     "review": null,
     "authors": "Byung-Chul Han",
-    "isbn": "9781784785789",
-    "link": "http://books.google.com/books?id=UG7nDwAAQBAJ&dq=intitle:Psychopolitics+Neoliberalism+and+New+Technologies+of+Power&hl=&source=gbs_api"
+    "isbn": "9781784785796",
+    "link": "https://play.google.com/store/books/details?id=eSMcDgAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Burnout Society",
@@ -178,8 +178,8 @@
     "name": "Animal Liberation",
     "review": null,
     "authors": "Peter Singer",
-    "isbn": "9781473524422",
-    "link": "http://books.google.com/books?id=9AvJCQAAQBAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
+    "isbn": "9780940322004",
+    "link": "http://books.google.com/books?id=2suuQgAACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
   },
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
@@ -262,8 +262,8 @@
     "name": "Stoner",
     "review": null,
     "authors": "John Williams",
-    "isbn": "9781590171998",
-    "link": "http://books.google.com/books?id=fvlHAgAAQBAJ&dq=intitle:Stoner&hl=&source=gbs_api"
+    "isbn": "9781590179284",
+    "link": "http://books.google.com/books?id=6Yc-DwAAQBAJ&dq=intitle:Stoner&hl=&source=gbs_api"
   },
   {
     "name": "The Conquest of Bread",
@@ -297,8 +297,8 @@
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "review": null,
     "authors": "James Clear",
-    "isbn": "9780735211292",
-    "link": "http://books.google.com/books?id=XfFvDwAAQBAJ&dq=intitle:Atomic+Habits:+An+Easy&hl=&source=gbs_api"
+    "isbn": "9780735211308",
+    "link": "https://play.google.com/store/books/details?id=lFhbDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
@@ -311,8 +311,8 @@
     "name": "10% Happier",
     "review": null,
     "authors": "Dan Harris",
-    "isbn": "9780606367257",
-    "link": "http://books.google.com/books?id=qBVbrgEACAAJ&dq=intitle:10%25+Happier&hl=&source=gbs_api"
+    "isbn": "9780062265449",
+    "link": "http://books.google.com/books?id=ycEKAgAAQBAJ&dq=intitle:10%25+Happier&hl=&source=gbs_api"
   },
   {
     "name": "Shoe Dog: A Memoir by the Creator of Nike",
@@ -332,8 +332,8 @@
     "name": "Mother Night",
     "review": null,
     "authors": "Kurt Vonnegut",
-    "isbn": "9780385334143",
-    "link": "http://books.google.com/books?id=9MxvDwAAQBAJ&dq=intitle:Mother+Night&hl=&source=gbs_api"
+    "isbn": "9780440339076",
+    "link": "https://play.google.com/store/books/details?id=WiUuWn6sGqwC&source=gbs_api"
   },
   {
     "name": "The Sun Also Rises",
@@ -394,9 +394,9 @@
   {
     "name": "Zen and the Art of Motorcycle Maintenance",
     "review": null,
-    "authors": "Robert M. Pirsig",
-    "isbn": "9780099786405",
-    "link": "http://books.google.com/books?id=M69poeV1UhoC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
+    "authors": "Ron Di Santo, Tom Steele",
+    "isbn": "9780688060695",
+    "link": "http://books.google.com/books?id=N-In587uw_EC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
   },
   {
     "name": "The Great Gatsby",
