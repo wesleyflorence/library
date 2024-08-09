@@ -65,16 +65,16 @@
   {
     "name": "The Untethered Soul",
     "review": "A mix of ideas, some are good.",
-    "authors": null,
-    "isbn": null,
-    "link": null
+    "authors": "Michael Singer",
+    "isbn": "9781458727343",
+    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul&hl=&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": "9780061796883",
-    "link": "https://play.google.com/store/books/details?id=tlhFtmTixvwC&source=gbs_api"
+    "isbn": "9781473206069",
+    "link": "http://books.google.com/books?id=t9hpEAAAQBAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -178,8 +178,8 @@
     "name": "Animal Liberation",
     "review": null,
     "authors": "Peter Singer",
-    "isbn": "9780940322004",
-    "link": "http://books.google.com/books?id=2suuQgAACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
+    "isbn": "9781473524422",
+    "link": "http://books.google.com/books?id=9AvJCQAAQBAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
   },
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
@@ -297,8 +297,8 @@
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "review": null,
     "authors": "James Clear",
-    "isbn": "9780735211308",
-    "link": "https://play.google.com/store/books/details?id=lFhbDwAAQBAJ&source=gbs_api"
+    "isbn": "9780735211292",
+    "link": "http://books.google.com/books?id=XfFvDwAAQBAJ&dq=intitle:Atomic+Habits:+An+Easy&hl=&source=gbs_api"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
@@ -374,8 +374,8 @@
     "name": "Ham on Rye",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780061851919",
-    "link": "https://play.google.com/store/books/details?id=Rv4qbAACPzYC&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=enlwngEACAAJ&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
   },
   {
     "name": "The Old Man and the Sea",
@@ -394,9 +394,9 @@
   {
     "name": "Zen and the Art of Motorcycle Maintenance",
     "review": null,
-    "authors": "Ron Di Santo, Tom Steele",
-    "isbn": "9780688060695",
-    "link": "http://books.google.com/books?id=N-In587uw_EC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
+    "authors": "Robert M. Pirsig",
+    "isbn": "9780099786405",
+    "link": "http://books.google.com/books?id=M69poeV1UhoC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
   },
   {
     "name": "The Great Gatsby",
