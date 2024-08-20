@@ -44,9 +44,9 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "J. R. R. Tolkien",
-    "isbn": "9780007322602",
-    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "J R R Tolkien",
+    "isbn": "9780007511082",
+    "link": "http://books.google.com/books?id=xbWXtAEACAAJ&dq=intitle:The+Hobbit&hl=&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
@@ -65,9 +65,9 @@
   {
     "name": "The Untethered Soul",
     "review": "A mix of ideas, some are good.",
-    "authors": "Michael Singer",
-    "isbn": "9781458727343",
-    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul&hl=&source=gbs_api"
+    "authors": "Michael A. Singer",
+    "isbn": "9781458727367",
+    "link": "http://books.google.com/books?id=rvjbTo4X7dUC&dq=intitle:The+Untethered+Soul&hl=&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -184,9 +184,9 @@
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
     "review": null,
-    "authors": "Joshua Bloom, Waldo E. Martin",
-    "isbn": "9780520271852",
-    "link": "http://books.google.com/books?id=CKFlirjb2EAC&dq=intitle:Black+Against+Empire:+The+History+and+Politics+of+the+Black+Panther+Party&hl=&source=gbs_api"
+    "authors": "Joshua Bloom, Waldo E. Martin Jr.",
+    "isbn": "9780520966451",
+    "link": "https://play.google.com/store/books/details?id=C77uDAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Little Schemer",
@@ -213,8 +213,8 @@
     "name": "Breath: The New Science of a Lost Art",
     "review": null,
     "authors": "James Nestor",
-    "isbn": "9780735213630",
-    "link": "https://play.google.com/store/books/details?id=6lS9DwAAQBAJ&source=gbs_api"
+    "isbn": "9780735213616",
+    "link": "http://books.google.com/books?id=3_LsDwAAQBAJ&dq=intitle:Breath:+The+New+Science+of+a+Lost+Art&hl=&source=gbs_api"
   },
   {
     "name": "Why I Write",
@@ -297,8 +297,8 @@
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "review": null,
     "authors": "James Clear",
-    "isbn": "9780735211292",
-    "link": "http://books.google.com/books?id=XfFvDwAAQBAJ&dq=intitle:Atomic+Habits:+An+Easy&hl=&source=gbs_api"
+    "isbn": "9780735211308",
+    "link": "https://play.google.com/store/books/details?id=lFhbDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
@@ -332,8 +332,8 @@
     "name": "Mother Night",
     "review": null,
     "authors": "Kurt Vonnegut",
-    "isbn": "9780385334143",
-    "link": "http://books.google.com/books?id=9MxvDwAAQBAJ&dq=intitle:Mother+Night&hl=&source=gbs_api"
+    "isbn": "9780440339076",
+    "link": "https://play.google.com/store/books/details?id=WiUuWn6sGqwC&source=gbs_api"
   },
   {
     "name": "The Sun Also Rises",
@@ -381,8 +381,8 @@
     "name": "The Old Man and the Sea",
     "review": null,
     "authors": "Ernest Hemingway",
-    "isbn": "9783190001507",
-    "link": "http://books.google.com/books?id=K1cIZmFe7KoC&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
+    "isbn": "9780812416329",
+    "link": "http://books.google.com/books?id=-6Q-PgAACAAJ&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
   },
   {
     "name": "How to Get Filthy Rich in Rising Asia",
@@ -394,9 +394,9 @@
   {
     "name": "Zen and the Art of Motorcycle Maintenance",
     "review": null,
-    "authors": "Ron Di Santo, Tom Steele",
-    "isbn": "9780688060695",
-    "link": "http://books.google.com/books?id=N-In587uw_EC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
+    "authors": "Robert M. Pirsig",
+    "isbn": "9780099786405",
+    "link": "http://books.google.com/books?id=M69poeV1UhoC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
   },
   {
     "name": "The Great Gatsby",
@@ -409,7 +409,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780307744067",
-    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
+    "isbn": "9780679785897",
+    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
   }
 ]
