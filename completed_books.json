@@ -31,8 +31,8 @@
     "name": "Moonwalking with Einstein",
     "review": null,
     "authors": "Joshua Foer",
-    "isbn": "9780143120537",
-    "link": "http://books.google.com/books?id=rqktDwAAQBAJ&dq=intitle:Moonwalking+with+Einstein&hl=&source=gbs_api"
+    "isbn": "9781410439154",
+    "link": "http://books.google.com/books?id=GwCKVwEACAAJ&dq=intitle:Moonwalking+with+Einstein&hl=&source=gbs_api"
   },
   {
     "name": "Ikigai",
@@ -65,9 +65,9 @@
   {
     "name": "The Untethered Soul",
     "review": "A mix of ideas, some are good.",
-    "authors": "Michael A. Singer",
-    "isbn": "9781608820498",
-    "link": "https://play.google.com/store/books/details?id=ey-evejZoiUC&source=gbs_api"
+    "authors": "Michael Singer",
+    "isbn": "9781458727343",
+    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul&hl=&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -115,8 +115,8 @@
     "name": "Psychopolitics Neoliberalism and New Technologies of Power",
     "review": null,
     "authors": "Byung-Chul Han",
-    "isbn": "9781784785796",
-    "link": "https://play.google.com/store/books/details?id=eSMcDgAAQBAJ&source=gbs_api"
+    "isbn": "9781784785789",
+    "link": "http://books.google.com/books?id=UG7nDwAAQBAJ&dq=intitle:Psychopolitics+Neoliberalism+and+New+Technologies+of+Power&hl=&source=gbs_api"
   },
   {
     "name": "The Burnout Society",
@@ -171,8 +171,8 @@
     "name": "Structure and Interpretation of Computer Programs",
     "review": null,
     "authors": "Harold Abelson, Gerald Jay Sussman",
-    "isbn": "9780262367622",
-    "link": "https://play.google.com/store/books/details?id=WSUuEAAAQBAJ&source=gbs_api"
+    "isbn": "9780262543231",
+    "link": "http://books.google.com/books?id=4rtNEAAAQBAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
   },
   {
     "name": "Animal Liberation",
@@ -213,8 +213,8 @@
     "name": "Breath: The New Science of a Lost Art",
     "review": null,
     "authors": "James Nestor",
-    "isbn": "9780735213630",
-    "link": "https://play.google.com/store/books/details?id=6lS9DwAAQBAJ&source=gbs_api"
+    "isbn": "9780735213616",
+    "link": "http://books.google.com/books?id=3_LsDwAAQBAJ&dq=intitle:Breath:+The+New+Science+of+a+Lost+Art&hl=&source=gbs_api"
   },
   {
     "name": "Why I Write",
@@ -332,8 +332,8 @@
     "name": "Mother Night",
     "review": null,
     "authors": "Kurt Vonnegut",
-    "isbn": "9780385334143",
-    "link": "http://books.google.com/books?id=9MxvDwAAQBAJ&dq=intitle:Mother+Night&hl=&source=gbs_api"
+    "isbn": "9780440339076",
+    "link": "https://play.google.com/store/books/details?id=WiUuWn6sGqwC&source=gbs_api"
   },
   {
     "name": "The Sun Also Rises",
@@ -381,8 +381,8 @@
     "name": "The Old Man and the Sea",
     "review": null,
     "authors": "Ernest Hemingway",
-    "isbn": "9780812416329",
-    "link": "http://books.google.com/books?id=-6Q-PgAACAAJ&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
+    "isbn": "9783190001507",
+    "link": "http://books.google.com/books?id=K1cIZmFe7KoC&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
   },
   {
     "name": "How to Get Filthy Rich in Rising Asia",
@@ -409,7 +409,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9781417665884",
-    "link": "http://books.google.com/books?id=ArVTPgAACAAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
+    "isbn": "9780307744067",
+    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
   }
 ]
