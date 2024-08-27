@@ -2,9 +2,9 @@
   {
     "name": "Slow Productivity",
     "review": null,
-    "authors": "Justin Reese",
-    "isbn": "9783755470908",
-    "link": "https://play.google.com/store/books/details?id=DS_7EAAAQBAJ&source=gbs_api"
+    "authors": "Cal Newport",
+    "isbn": "9780593544860",
+    "link": "https://play.google.com/store/books/details?id=dmnDEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "An Immense World",
@@ -24,15 +24,15 @@
     "name": "The Song of the Cell",
     "review": "The kind of book you try to savor. I was thrust into the world of the cellular recently and had little knowledge of the subject. This book did a lovely job of putting many ideas into context for me and has sparked a new fascination.",
     "authors": "Siddhartha Mukherjee",
-    "isbn": "9781982117375",
-    "link": "https://play.google.com/store/books/details?id=CRpdEAAAQBAJ&source=gbs_api"
+    "isbn": "9789354927584",
+    "link": "http://books.google.com/books?id=qLyVEAAAQBAJ&dq=intitle:The+Song+of+the+Cell&hl=&source=gbs_api"
   },
   {
     "name": "Moonwalking with Einstein",
     "review": null,
-    "authors": "Milkyway Media",
-    "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=d_guEAAAQBAJ&source=gbs_api"
+    "authors": "Instaread",
+    "isbn": "9781683783749",
+    "link": "https://play.google.com/store/books/details?id=yNqMDAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Ikigai",
@@ -44,16 +44,16 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "J R R Tolkien",
-    "isbn": "9780007511082",
-    "link": "http://books.google.com/books?id=xbWXtAEACAAJ&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "J. R. R. Tolkien",
+    "isbn": "9780007322602",
+    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Instaread Summaries",
+    "isbn": "9781945251955",
+    "link": "http://books.google.com/books?id=UaUIkAEACAAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -65,9 +65,9 @@
   {
     "name": "The Untethered Soul",
     "review": "A mix of ideas, some are good.",
-    "authors": "Michael A. Singer",
-    "isbn": "9781608820498",
-    "link": "https://play.google.com/store/books/details?id=ey-evejZoiUC&source=gbs_api"
+    "authors": "Michael Singer",
+    "isbn": "9781458727343",
+    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul&hl=&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -136,8 +136,8 @@
     "name": "Clojure for the Brave and True",
     "review": null,
     "authors": "Daniel Higginbotham",
-    "isbn": "9781457190018",
-    "link": "http://books.google.com/books?id=yFBWAQAACAAJ&dq=intitle:Clojure+for+the+Brave+and+True&hl=&source=gbs_api"
+    "isbn": "9781593277239",
+    "link": "https://play.google.com/store/books/details?id=jAYvDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Practical Common Lisp",
@@ -184,9 +184,9 @@
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
     "review": null,
-    "authors": "Joshua Bloom, Waldo E. Martin",
-    "isbn": "9780520293281",
-    "link": "http://books.google.com/books?id=D7UwDwAAQBAJ&dq=intitle:Black+Against+Empire:+The+History+and+Politics+of+the+Black+Panther+Party&hl=&source=gbs_api"
+    "authors": "Joshua Bloom, Waldo E. Martin Jr.",
+    "isbn": "9780520953543",
+    "link": "http://books.google.com/books?id=nWTH2Npul8MC&dq=intitle:Black+Against+Empire:+The+History+and+Politics+of+the+Black+Panther+Party&hl=&source=gbs_api"
   },
   {
     "name": "The Little Schemer",
@@ -213,8 +213,8 @@
     "name": "Breath: The New Science of a Lost Art",
     "review": null,
     "authors": "James Nestor",
-    "isbn": "9780735213616",
-    "link": "http://books.google.com/books?id=3_LsDwAAQBAJ&dq=intitle:Breath:+The+New+Science+of+a+Lost+Art&hl=&source=gbs_api"
+    "isbn": "9780735213630",
+    "link": "https://play.google.com/store/books/details?id=6lS9DwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Why I Write",
@@ -325,15 +325,15 @@
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
     "review": null,
     "authors": "Ken Kocienda",
-    "isbn": "9781250194473",
-    "link": "https://play.google.com/store/books/details?id=nntJDwAAQBAJ&source=gbs_api"
+    "isbn": "9781529004731",
+    "link": "http://books.google.com/books?id=flfEwwEACAAJ&dq=intitle:Creative+Selection:+Inside+Apple%27s+Design+Process+During+the+Golden+Age+of+Steve+Jobs&hl=&source=gbs_api"
   },
   {
     "name": "Mother Night",
     "review": null,
     "authors": "Kurt Vonnegut",
-    "isbn": "9780385334143",
-    "link": "http://books.google.com/books?id=9MxvDwAAQBAJ&dq=intitle:Mother+Night&hl=&source=gbs_api"
+    "isbn": "9780440339076",
+    "link": "https://play.google.com/store/books/details?id=WiUuWn6sGqwC&source=gbs_api"
   },
   {
     "name": "The Sun Also Rises",
@@ -394,9 +394,9 @@
   {
     "name": "Zen and the Art of Motorcycle Maintenance",
     "review": null,
-    "authors": "Ron Di Santo, Tom Steele",
-    "isbn": "9780688060695",
-    "link": "http://books.google.com/books?id=N-In587uw_EC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
+    "authors": "Robert M. Pirsig",
+    "isbn": "9780099786405",
+    "link": "http://books.google.com/books?id=M69poeV1UhoC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
   },
   {
     "name": "The Great Gatsby",
@@ -409,7 +409,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780307744067",
-    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
+    "isbn": "9781417665884",
+    "link": "http://books.google.com/books?id=ArVTPgAACAAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
   }
 ]
