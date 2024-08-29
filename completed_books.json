@@ -51,9 +51,9 @@
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel van der Kolk, M.D.",
+    "isbn": "9780670785933",
+    "link": "http://books.google.com/books?id=T7iJDQAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -94,8 +94,8 @@
     "name": "Capitalist Realism",
     "review": null,
     "authors": "Mark Fisher",
-    "isbn": "9781803414317",
-    "link": "https://play.google.com/store/books/details?id=QSiUEAAAQBAJ&source=gbs_api"
+    "isbn": "9781846943171",
+    "link": "http://books.google.com/books?id=ibN3fGpW1DIC&dq=intitle:Capitalist+Realism&hl=&source=gbs_api"
   },
   {
     "name": "The Ministry for the Future",
@@ -213,8 +213,8 @@
     "name": "Breath: The New Science of a Lost Art",
     "review": null,
     "authors": "James Nestor",
-    "isbn": "9780735213616",
-    "link": "http://books.google.com/books?id=3_LsDwAAQBAJ&dq=intitle:Breath:+The+New+Science+of+a+Lost+Art&hl=&source=gbs_api"
+    "isbn": "9780735213630",
+    "link": "https://play.google.com/store/books/details?id=6lS9DwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Why I Write",
@@ -248,8 +248,8 @@
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
     "review": null,
     "authors": "Andy Greenberg",
-    "isbn": "9780525564638",
-    "link": "http://books.google.com/books?id=NgIHEAAAQBAJ&dq=intitle:Sandworm:+A+New+Era+of+Cyberwar+and+the+Hunt+for+the+Kremlin%27s+Most+Dangerous+Hackers&hl=&source=gbs_api"
+    "isbn": "9780385544412",
+    "link": "https://play.google.com/store/books/details?id=ujxrDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People",
@@ -290,8 +290,8 @@
     "name": "What I Talk About When I Talk About Running",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307269478",
-    "link": "https://play.google.com/store/books/details?id=5IH75VXZxU4C&source=gbs_api"
+    "isbn": "9780307473394",
+    "link": "http://books.google.com/books?id=yoHbJ78JZCYC&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
   },
   {
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
@@ -409,7 +409,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780679785897",
-    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
+    "isbn": "9780307744067",
+    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
   }
 ]
