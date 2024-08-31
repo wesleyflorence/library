@@ -24,8 +24,8 @@
     "name": "The Song of the Cell",
     "review": "The kind of book you try to savor. I was thrust into the world of the cellular recently and had little knowledge of the subject. This book did a lovely job of putting many ideas into context for me and has sparked a new fascination.",
     "authors": "Siddhartha Mukherjee",
-    "isbn": "9781982117375",
-    "link": "https://play.google.com/store/books/details?id=CRpdEAAAQBAJ&source=gbs_api"
+    "isbn": "9781668011904",
+    "link": "http://books.google.com/books?id=OPP4zgEACAAJ&dq=intitle:The+Song+of+the+Cell&hl=&source=gbs_api"
   },
   {
     "name": "Moonwalking with Einstein",
@@ -51,9 +51,9 @@
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel van der Kolk, M.D.",
+    "isbn": "9780670785933",
+    "link": "http://books.google.com/books?id=T7iJDQAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -94,8 +94,8 @@
     "name": "Capitalist Realism",
     "review": null,
     "authors": "Mark Fisher",
-    "isbn": "9781846943171",
-    "link": "http://books.google.com/books?id=ibN3fGpW1DIC&dq=intitle:Capitalist+Realism&hl=&source=gbs_api"
+    "isbn": "9781803414317",
+    "link": "https://play.google.com/store/books/details?id=QSiUEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Ministry for the Future",
@@ -185,15 +185,15 @@
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
     "review": null,
     "authors": "Joshua Bloom, Waldo E. Martin Jr.",
-    "isbn": "9780520953543",
-    "link": "http://books.google.com/books?id=nWTH2Npul8MC&dq=intitle:Black+Against+Empire:+The+History+and+Politics+of+the+Black+Panther+Party&hl=&source=gbs_api"
+    "isbn": "9780520966451",
+    "link": "https://play.google.com/store/books/details?id=C77uDAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Little Schemer",
     "review": null,
     "authors": "Daniel P. Friedman, Matthias Felleisen",
     "isbn": "9780262560993",
-    "link": "http://books.google.com/books?id=xyO-KLexVnMC&dq=intitle:The+Little+Schemer&hl=&source=gbs_api"
+    "link": "http://books.google.com/books?id=bLT4DwAAQBAJ&dq=intitle:The+Little+Schemer&hl=&source=gbs_api"
   },
   {
     "name": "Debt: The First 5,000 Years",
@@ -213,8 +213,8 @@
     "name": "Breath: The New Science of a Lost Art",
     "review": null,
     "authors": "James Nestor",
-    "isbn": "9780735213630",
-    "link": "https://play.google.com/store/books/details?id=6lS9DwAAQBAJ&source=gbs_api"
+    "isbn": "9780735213616",
+    "link": "http://books.google.com/books?id=3_LsDwAAQBAJ&dq=intitle:Breath:+The+New+Science+of+a+Lost+Art&hl=&source=gbs_api"
   },
   {
     "name": "Why I Write",
@@ -297,8 +297,8 @@
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "review": null,
     "authors": "James Clear",
-    "isbn": "9780735211292",
-    "link": "http://books.google.com/books?id=XfFvDwAAQBAJ&dq=intitle:Atomic+Habits:+An+Easy&hl=&source=gbs_api"
+    "isbn": "9780735211308",
+    "link": "https://play.google.com/store/books/details?id=lFhbDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
@@ -318,8 +318,8 @@
     "name": "Shoe Dog: A Memoir by the Creator of Nike",
     "review": null,
     "authors": "Phil Knight",
-    "isbn": "9781471146701",
-    "link": "http://books.google.com/books?id=vUpKjwEACAAJ&dq=intitle:Shoe+Dog:+A+Memoir+by+the+Creator+of+Nike&hl=&source=gbs_api"
+    "isbn": "9781501135934",
+    "link": "https://play.google.com/store/books/details?id=wO3PCgAAQBAJ&source=gbs_api"
   },
   {
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
@@ -345,9 +345,9 @@
   {
     "name": "The Catcher in the Rye",
     "review": null,
-    "authors": "Narayan Changder",
-    "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=w90aEQAAQBAJ&source=gbs_api"
+    "authors": "J. D. Salinger",
+    "isbn": "9780316460002",
+    "link": "https://play.google.com/store/books/details?id=FqSiDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Factotum",
@@ -374,8 +374,8 @@
     "name": "Ham on Rye",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=enlwngEACAAJ&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
+    "isbn": "9780061851919",
+    "link": "https://play.google.com/store/books/details?id=Rv4qbAACPzYC&source=gbs_api"
   },
   {
     "name": "The Old Man and the Sea",
@@ -409,7 +409,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780679785897",
-    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
+    "isbn": "9780307744067",
+    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
   }
 ]
