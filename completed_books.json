@@ -51,9 +51,9 @@
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel van der Kolk, M.D.",
+    "isbn": "9780670785933",
+    "link": "http://books.google.com/books?id=T7iJDQAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -65,9 +65,9 @@
   {
     "name": "The Untethered Soul",
     "review": "A mix of ideas, some are good.",
-    "authors": "Michael Singer",
-    "isbn": "9781458727343",
-    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul&hl=&source=gbs_api"
+    "authors": "Michael A. Singer",
+    "isbn": "9781608820498",
+    "link": "https://play.google.com/store/books/details?id=ey-evejZoiUC&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -178,15 +178,15 @@
     "name": "Animal Liberation",
     "review": null,
     "authors": "Peter Singer",
-    "isbn": "9780940322004",
-    "link": "http://books.google.com/books?id=2suuQgAACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
+    "isbn": "9781473524422",
+    "link": "http://books.google.com/books?id=9AvJCQAAQBAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
   },
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
     "review": null,
-    "authors": "Joshua Bloom, Waldo E. Martin Jr.",
-    "isbn": "9780520966451",
-    "link": "https://play.google.com/store/books/details?id=C77uDAAAQBAJ&source=gbs_api"
+    "authors": "Joshua Bloom, Waldo E. Martin",
+    "isbn": "9780520293281",
+    "link": "http://books.google.com/books?id=D7UwDwAAQBAJ&dq=intitle:Black+Against+Empire:+The+History+and+Politics+of+the+Black+Panther+Party&hl=&source=gbs_api"
   },
   {
     "name": "The Little Schemer",
@@ -318,15 +318,15 @@
     "name": "Shoe Dog: A Memoir by the Creator of Nike",
     "review": null,
     "authors": "Phil Knight",
-    "isbn": "9781471146732",
-    "link": "http://books.google.com/books?id=PXvtCgAAQBAJ&dq=intitle:Shoe+Dog:+A+Memoir+by+the+Creator+of+Nike&hl=&source=gbs_api"
+    "isbn": "9781501135934",
+    "link": "https://play.google.com/store/books/details?id=wO3PCgAAQBAJ&source=gbs_api"
   },
   {
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
     "review": null,
     "authors": "Ken Kocienda",
-    "isbn": "9781529004731",
-    "link": "http://books.google.com/books?id=flfEwwEACAAJ&dq=intitle:Creative+Selection:+Inside+Apple%27s+Design+Process+During+the+Golden+Age+of+Steve+Jobs&hl=&source=gbs_api"
+    "isbn": "9781250194473",
+    "link": "https://play.google.com/store/books/details?id=nntJDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Mother Night",
@@ -374,8 +374,8 @@
     "name": "Ham on Rye",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=enlwngEACAAJ&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
+    "isbn": "9780061851919",
+    "link": "https://play.google.com/store/books/details?id=Rv4qbAACPzYC&source=gbs_api"
   },
   {
     "name": "The Old Man and the Sea",
@@ -409,7 +409,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780679785897",
-    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
+    "isbn": "9780307744067",
+    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
   }
 ]
