@@ -2,9 +2,9 @@
   {
     "name": "Slow Productivity",
     "review": null,
-    "authors": "Justin Reese",
-    "isbn": "9783755470908",
-    "link": "https://play.google.com/store/books/details?id=DS_7EAAAQBAJ&source=gbs_api"
+    "authors": "Cal Newport",
+    "isbn": "9780593544860",
+    "link": "https://play.google.com/store/books/details?id=dmnDEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "An Immense World",
@@ -44,16 +44,16 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "J. R. R. Tolkien",
-    "isbn": "9780007322602",
-    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "J R R Tolkien",
+    "isbn": "9780007511082",
+    "link": "http://books.google.com/books?id=xbWXtAEACAAJ&dq=intitle:The+Hobbit&hl=&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel van der Kolk, M.D.",
+    "isbn": "9780670785933",
+    "link": "http://books.google.com/books?id=T7iJDQAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -79,9 +79,9 @@
   {
     "name": "The Order of Time",
     "review": "thought provoking",
-    "authors": "Everest Media,",
-    "isbn": "9781669354574",
-    "link": "https://play.google.com/store/books/details?id=b7V6EAAAQBAJ&source=gbs_api"
+    "authors": "Carlo Rovelli",
+    "isbn": "9780735216112",
+    "link": "http://books.google.com/books?id=POi9DwAAQBAJ&dq=intitle:The+Order+of+Time&hl=&source=gbs_api"
   },
   {
     "name": "Solaris",
@@ -94,8 +94,8 @@
     "name": "Capitalist Realism",
     "review": null,
     "authors": "Mark Fisher",
-    "isbn": "9781846943171",
-    "link": "http://books.google.com/books?id=ibN3fGpW1DIC&dq=intitle:Capitalist+Realism&hl=&source=gbs_api"
+    "isbn": "9781803414317",
+    "link": "https://play.google.com/store/books/details?id=QSiUEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Ministry for the Future",
@@ -115,8 +115,8 @@
     "name": "Psychopolitics Neoliberalism and New Technologies of Power",
     "review": null,
     "authors": "Byung-Chul Han",
-    "isbn": "9781784785796",
-    "link": "https://play.google.com/store/books/details?id=eSMcDgAAQBAJ&source=gbs_api"
+    "isbn": "9781784785789",
+    "link": "http://books.google.com/books?id=UG7nDwAAQBAJ&dq=intitle:Psychopolitics+Neoliberalism+and+New+Technologies+of+Power&hl=&source=gbs_api"
   },
   {
     "name": "The Burnout Society",
@@ -136,8 +136,8 @@
     "name": "Clojure for the Brave and True",
     "review": null,
     "authors": "Daniel Higginbotham",
-    "isbn": "9781593275914",
-    "link": "http://books.google.com/books?id=mQLPCgAAQBAJ&dq=intitle:Clojure+for+the+Brave+and+True&hl=&source=gbs_api"
+    "isbn": "9781593277239",
+    "link": "https://play.google.com/store/books/details?id=jAYvDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Practical Common Lisp",
@@ -213,8 +213,8 @@
     "name": "Breath: The New Science of a Lost Art",
     "review": null,
     "authors": "James Nestor",
-    "isbn": "9780735213616",
-    "link": "http://books.google.com/books?id=3_LsDwAAQBAJ&dq=intitle:Breath:+The+New+Science+of+a+Lost+Art&hl=&source=gbs_api"
+    "isbn": "9780735213630",
+    "link": "https://play.google.com/store/books/details?id=6lS9DwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Why I Write",
@@ -227,8 +227,8 @@
     "name": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy",
     "review": null,
     "authors": "Murray Bookchin",
-    "isbn": "9781781687338",
-    "link": "http://books.google.com/books?id=ZmznDwAAQBAJ&dq=intitle:The+Next+Revolution:+Popular+Assemblies+and+the+Promise+of+Direct+Democracy&hl=&source=gbs_api"
+    "isbn": "9781781685822",
+    "link": "https://play.google.com/store/books/details?id=GigqBQAAQBAJ&source=gbs_api"
   },
   {
     "name": "The State and Revolution",
@@ -268,9 +268,9 @@
   {
     "name": "The Conquest of Bread",
     "review": null,
-    "authors": "Peter Kropotkin",
-    "isbn": "9780486311180",
-    "link": "https://play.google.com/store/books/details?id=bQjCAgAAQBAJ&source=gbs_api"
+    "authors": "Petr Alekseevich Kropotkin (kni\ufe20a\ufe21z\u02b9)",
+    "isbn": null,
+    "link": "https://play.google.com/store/books/details?id=cJBWAAAAMAAJ&source=gbs_api"
   },
   {
     "name": "Homo Deus: A History of Tomorrow",
@@ -290,8 +290,8 @@
     "name": "What I Talk About When I Talk About Running",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307473394",
-    "link": "http://books.google.com/books?id=yoHbJ78JZCYC&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
+    "isbn": "9780307269478",
+    "link": "https://play.google.com/store/books/details?id=5IH75VXZxU4C&source=gbs_api"
   },
   {
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
@@ -318,8 +318,8 @@
     "name": "Shoe Dog: A Memoir by the Creator of Nike",
     "review": null,
     "authors": "Phil Knight",
-    "isbn": "9781501135934",
-    "link": "https://play.google.com/store/books/details?id=wO3PCgAAQBAJ&source=gbs_api"
+    "isbn": "9781471146732",
+    "link": "http://books.google.com/books?id=PXvtCgAAQBAJ&dq=intitle:Shoe+Dog:+A+Memoir+by+the+Creator+of+Nike&hl=&source=gbs_api"
   },
   {
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
@@ -332,8 +332,8 @@
     "name": "Mother Night",
     "review": null,
     "authors": "Kurt Vonnegut",
-    "isbn": "9780385334143",
-    "link": "http://books.google.com/books?id=9MxvDwAAQBAJ&dq=intitle:Mother+Night&hl=&source=gbs_api"
+    "isbn": "9780440339076",
+    "link": "https://play.google.com/store/books/details?id=WiUuWn6sGqwC&source=gbs_api"
   },
   {
     "name": "The Sun Also Rises",
@@ -345,9 +345,9 @@
   {
     "name": "The Catcher in the Rye",
     "review": null,
-    "authors": "J. D. Salinger",
-    "isbn": "9780316460002",
-    "link": "https://play.google.com/store/books/details?id=FqSiDwAAQBAJ&source=gbs_api"
+    "authors": "Jerome David Salinger",
+    "isbn": "9781417646395",
+    "link": "http://books.google.com/books?id=81k-PgAACAAJ&dq=intitle:The+Catcher+in+the+Rye&hl=&source=gbs_api"
   },
   {
     "name": "Factotum",
@@ -388,8 +388,8 @@
     "name": "How to Get Filthy Rich in Rising Asia",
     "review": null,
     "authors": "Mohsin Hamid",
-    "isbn": "9781101603789",
-    "link": "https://play.google.com/store/books/details?id=fPdV1kep31QC&source=gbs_api"
+    "isbn": "9781594632334",
+    "link": "http://books.google.com/books?id=YkCMDQAAQBAJ&dq=intitle:How+to+Get+Filthy+Rich+in+Rising+Asia&hl=&source=gbs_api"
   },
   {
     "name": "Zen and the Art of Motorcycle Maintenance",
@@ -409,7 +409,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780307744067",
-    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
+    "isbn": "9780679785897",
+    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
   }
 ]
