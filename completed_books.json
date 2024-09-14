@@ -44,16 +44,16 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "J R R Tolkien",
-    "isbn": "9780007511082",
-    "link": "http://books.google.com/books?id=xbWXtAEACAAJ&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "J. R. R. Tolkien",
+    "isbn": "9780007322602",
+    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel van der Kolk, M.D.",
-    "isbn": "9780670785933",
-    "link": "http://books.google.com/books?id=T7iJDQAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel A. Van der Kolk",
+    "isbn": "9780143127741",
+    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -94,8 +94,8 @@
     "name": "Capitalist Realism",
     "review": null,
     "authors": "Mark Fisher",
-    "isbn": "9781803414317",
-    "link": "https://play.google.com/store/books/details?id=QSiUEAAAQBAJ&source=gbs_api"
+    "isbn": "9781846943171",
+    "link": "http://books.google.com/books?id=ibN3fGpW1DIC&dq=intitle:Capitalist+Realism&hl=&source=gbs_api"
   },
   {
     "name": "The Ministry for the Future",
@@ -213,8 +213,8 @@
     "name": "Breath: The New Science of a Lost Art",
     "review": null,
     "authors": "James Nestor",
-    "isbn": "9780735213630",
-    "link": "https://play.google.com/store/books/details?id=6lS9DwAAQBAJ&source=gbs_api"
+    "isbn": "9780735213616",
+    "link": "http://books.google.com/books?id=3_LsDwAAQBAJ&dq=intitle:Breath:+The+New+Science+of+a+Lost+Art&hl=&source=gbs_api"
   },
   {
     "name": "Why I Write",
@@ -290,15 +290,15 @@
     "name": "What I Talk About When I Talk About Running",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307269478",
-    "link": "https://play.google.com/store/books/details?id=5IH75VXZxU4C&source=gbs_api"
+    "isbn": "9780307473394",
+    "link": "http://books.google.com/books?id=yoHbJ78JZCYC&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
   },
   {
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "review": null,
     "authors": "James Clear",
-    "isbn": "9780735211308",
-    "link": "https://play.google.com/store/books/details?id=lFhbDwAAQBAJ&source=gbs_api"
+    "isbn": "9780735211292",
+    "link": "http://books.google.com/books?id=XfFvDwAAQBAJ&dq=intitle:Atomic+Habits:+An+Easy&hl=&source=gbs_api"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
@@ -318,8 +318,8 @@
     "name": "Shoe Dog: A Memoir by the Creator of Nike",
     "review": null,
     "authors": "Phil Knight",
-    "isbn": "9781471146732",
-    "link": "http://books.google.com/books?id=PXvtCgAAQBAJ&dq=intitle:Shoe+Dog:+A+Memoir+by+the+Creator+of+Nike&hl=&source=gbs_api"
+    "isbn": "9781501135934",
+    "link": "https://play.google.com/store/books/details?id=wO3PCgAAQBAJ&source=gbs_api"
   },
   {
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
@@ -345,9 +345,9 @@
   {
     "name": "The Catcher in the Rye",
     "review": null,
-    "authors": "Jerome David Salinger",
-    "isbn": "9781417646395",
-    "link": "http://books.google.com/books?id=81k-PgAACAAJ&dq=intitle:The+Catcher+in+the+Rye&hl=&source=gbs_api"
+    "authors": "J. D. Salinger",
+    "isbn": "9780316460002",
+    "link": "https://play.google.com/store/books/details?id=FqSiDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Factotum",
@@ -409,7 +409,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780679785897",
-    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
+    "isbn": "9781417665884",
+    "link": "http://books.google.com/books?id=ArVTPgAACAAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
   }
 ]
