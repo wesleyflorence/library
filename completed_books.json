@@ -1,5 +1,12 @@
 [
   {
+    "name": "I Contain Multitudes: The Microbes Within Us and a Grander View of Life",
+    "review": null,
+    "authors": "Ed Yong",
+    "isbn": "9780062368621",
+    "link": "https://play.google.com/store/books/details?id=4qzrCgAAQBAJ&source=gbs_api"
+  },
+  {
     "name": "Slow Productivity",
     "review": null,
     "authors": "Cal Newport",
@@ -24,8 +31,8 @@
     "name": "The Song of the Cell",
     "review": "The kind of book you try to savor. I was thrust into the world of the cellular recently and had little knowledge of the subject. This book did a lovely job of putting many ideas into context for me and has sparked a new fascination.",
     "authors": "Siddhartha Mukherjee",
-    "isbn": "9789354927584",
-    "link": "http://books.google.com/books?id=qLyVEAAAQBAJ&dq=intitle:The+Song+of+the+Cell&hl=&source=gbs_api"
+    "isbn": "9781982117375",
+    "link": "https://play.google.com/store/books/details?id=CRpdEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Moonwalking with Einstein",
@@ -65,9 +72,9 @@
   {
     "name": "The Untethered Soul",
     "review": "A mix of ideas, some are good.",
-    "authors": "Michael Singer",
-    "isbn": "9781458727343",
-    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul&hl=&source=gbs_api"
+    "authors": "Michael A. Singer",
+    "isbn": "9781608820498",
+    "link": "https://play.google.com/store/books/details?id=ey-evejZoiUC&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -184,16 +191,16 @@
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
     "review": null,
-    "authors": "Joshua Bloom, Waldo E. Martin",
-    "isbn": "9780520293281",
-    "link": "http://books.google.com/books?id=D7UwDwAAQBAJ&dq=intitle:Black+Against+Empire:+The+History+and+Politics+of+the+Black+Panther+Party&hl=&source=gbs_api"
+    "authors": "Joshua Bloom, Waldo E. Martin Jr.",
+    "isbn": "9780520966451",
+    "link": "https://play.google.com/store/books/details?id=C77uDAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Little Schemer",
     "review": null,
     "authors": "Daniel P. Friedman, Matthias Felleisen",
     "isbn": "9780262560993",
-    "link": "http://books.google.com/books?id=xyO-KLexVnMC&dq=intitle:The+Little+Schemer&hl=&source=gbs_api"
+    "link": "http://books.google.com/books?id=bLT4DwAAQBAJ&dq=intitle:The+Little+Schemer&hl=&source=gbs_api"
   },
   {
     "name": "Debt: The First 5,000 Years",
@@ -206,15 +213,15 @@
     "name": "The Uninhabitable Earth: Life After Warming",
     "review": null,
     "authors": "David Wallace-Wells",
-    "isbn": "9780525576709",
-    "link": "http://books.google.com/books?id=rtuEDwAAQBAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
+    "isbn": "9780241400517",
+    "link": "http://books.google.com/books?id=fittvwEACAAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
   },
   {
     "name": "Breath: The New Science of a Lost Art",
     "review": null,
     "authors": "James Nestor",
-    "isbn": "9780735213630",
-    "link": "https://play.google.com/store/books/details?id=6lS9DwAAQBAJ&source=gbs_api"
+    "isbn": "9780735213616",
+    "link": "http://books.google.com/books?id=3_LsDwAAQBAJ&dq=intitle:Breath:+The+New+Science+of+a+Lost+Art&hl=&source=gbs_api"
   },
   {
     "name": "Why I Write",
@@ -290,15 +297,15 @@
     "name": "What I Talk About When I Talk About Running",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307473394",
-    "link": "http://books.google.com/books?id=yoHbJ78JZCYC&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
+    "isbn": "9780307269478",
+    "link": "https://play.google.com/store/books/details?id=5IH75VXZxU4C&source=gbs_api"
   },
   {
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "review": null,
     "authors": "James Clear",
-    "isbn": "9780735211308",
-    "link": "https://play.google.com/store/books/details?id=lFhbDwAAQBAJ&source=gbs_api"
+    "isbn": "9780735211292",
+    "link": "http://books.google.com/books?id=XfFvDwAAQBAJ&dq=intitle:Atomic+Habits:+An+Easy&hl=&source=gbs_api"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
@@ -374,8 +381,8 @@
     "name": "Ham on Rye",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780061851919",
-    "link": "https://play.google.com/store/books/details?id=Rv4qbAACPzYC&source=gbs_api"
+    "isbn": "9780061177583",
+    "link": "http://books.google.com/books?id=8k4Es3r7QUsC&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
   },
   {
     "name": "The Old Man and the Sea",
