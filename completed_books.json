@@ -37,9 +37,9 @@
   {
     "name": "Moonwalking with Einstein",
     "review": null,
-    "authors": "Instaread",
-    "isbn": "9781683783749",
-    "link": "https://play.google.com/store/books/details?id=yNqMDAAAQBAJ&source=gbs_api"
+    "authors": "Joshua Foer",
+    "isbn": "9780143120537",
+    "link": "http://books.google.com/books?id=rqktDwAAQBAJ&dq=intitle:Moonwalking+with+Einstein&hl=&source=gbs_api"
   },
   {
     "name": "Ikigai",
@@ -58,9 +58,9 @@
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel van der Kolk, M.D.",
-    "isbn": "9780670785933",
-    "link": "http://books.google.com/books?id=T7iJDQAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel A. Van der Kolk",
+    "isbn": "9780143127741",
+    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -101,8 +101,8 @@
     "name": "Capitalist Realism",
     "review": null,
     "authors": "Mark Fisher",
-    "isbn": "9781803414317",
-    "link": "https://play.google.com/store/books/details?id=QSiUEAAAQBAJ&source=gbs_api"
+    "isbn": "9781780997346",
+    "link": "https://play.google.com/store/books/details?id=75YnlcDv6ToC&source=gbs_api"
   },
   {
     "name": "The Ministry for the Future",
@@ -178,8 +178,8 @@
     "name": "Structure and Interpretation of Computer Programs",
     "review": null,
     "authors": "Harold Abelson, Gerald Jay Sussman",
-    "isbn": "9780262543231",
-    "link": "http://books.google.com/books?id=4rtNEAAAQBAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
+    "isbn": "9780262367622",
+    "link": "https://play.google.com/store/books/details?id=WSUuEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Animal Liberation",
@@ -213,15 +213,15 @@
     "name": "The Uninhabitable Earth: Life After Warming",
     "review": null,
     "authors": "David Wallace-Wells",
-    "isbn": "9780525576716",
-    "link": "http://books.google.com/books?id=HWbRDwAAQBAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
+    "isbn": "9780525576709",
+    "link": "http://books.google.com/books?id=rtuEDwAAQBAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
   },
   {
     "name": "Breath: The New Science of a Lost Art",
     "review": null,
     "authors": "James Nestor",
-    "isbn": "9780735213630",
-    "link": "https://play.google.com/store/books/details?id=6lS9DwAAQBAJ&source=gbs_api"
+    "isbn": "9780735213616",
+    "link": "http://books.google.com/books?id=3_LsDwAAQBAJ&dq=intitle:Breath:+The+New+Science+of+a+Lost+Art&hl=&source=gbs_api"
   },
   {
     "name": "Why I Write",
@@ -240,9 +240,9 @@
   {
     "name": "The State and Revolution",
     "review": null,
-    "authors": "V. I. Lenin",
-    "isbn": "9781804292877",
-    "link": "https://play.google.com/store/books/details?id=-u65EAAAQBAJ&source=gbs_api"
+    "authors": "Vladimir Lenin, John Reed",
+    "isbn": null,
+    "link": "https://play.google.com/store/books/details?id=fFnxDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "A People's History of the United States",
@@ -297,8 +297,8 @@
     "name": "What I Talk About When I Talk About Running",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307269478",
-    "link": "https://play.google.com/store/books/details?id=5IH75VXZxU4C&source=gbs_api"
+    "isbn": "9780307373083",
+    "link": "http://books.google.com/books?id=fX97wN8MNk0C&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
   },
   {
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
@@ -339,8 +339,8 @@
     "name": "Mother Night",
     "review": null,
     "authors": "Kurt Vonnegut",
-    "isbn": "9780440339076",
-    "link": "https://play.google.com/store/books/details?id=WiUuWn6sGqwC&source=gbs_api"
+    "isbn": "9780385334143",
+    "link": "http://books.google.com/books?id=9MxvDwAAQBAJ&dq=intitle:Mother+Night&hl=&source=gbs_api"
   },
   {
     "name": "The Sun Also Rises",
@@ -381,8 +381,8 @@
     "name": "Ham on Rye",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780061851919",
-    "link": "https://play.google.com/store/books/details?id=Rv4qbAACPzYC&source=gbs_api"
+    "isbn": "9780061177583",
+    "link": "http://books.google.com/books?id=8k4Es3r7QUsC&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
   },
   {
     "name": "The Old Man and the Sea",
