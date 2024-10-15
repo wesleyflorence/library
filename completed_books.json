@@ -51,16 +51,16 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "J. R. R. Tolkien",
-    "isbn": "9780007322602",
-    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "J.R.R. Tolkien",
+    "isbn": "9780547951973",
+    "link": "https://play.google.com/store/books/details?id=pD6arNyKyi8C&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel van der Kolk, M.D.",
+    "isbn": "9780670785933",
+    "link": "http://books.google.com/books?id=T7iJDQAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -178,8 +178,8 @@
     "name": "Structure and Interpretation of Computer Programs",
     "review": null,
     "authors": "Harold Abelson, Gerald Jay Sussman",
-    "isbn": "9780262367622",
-    "link": "https://play.google.com/store/books/details?id=WSUuEAAAQBAJ&source=gbs_api"
+    "isbn": "9780262543231",
+    "link": "http://books.google.com/books?id=4rtNEAAAQBAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
   },
   {
     "name": "Animal Liberation",
@@ -200,7 +200,7 @@
     "review": null,
     "authors": "Daniel P. Friedman, Matthias Felleisen",
     "isbn": "9780262560993",
-    "link": "http://books.google.com/books?id=xyO-KLexVnMC&dq=intitle:The+Little+Schemer&hl=&source=gbs_api"
+    "link": "http://books.google.com/books?id=bLT4DwAAQBAJ&dq=intitle:The+Little+Schemer&hl=&source=gbs_api"
   },
   {
     "name": "Debt: The First 5,000 Years",
@@ -213,8 +213,8 @@
     "name": "The Uninhabitable Earth: Life After Warming",
     "review": null,
     "authors": "David Wallace-Wells",
-    "isbn": "9780525576709",
-    "link": "http://books.google.com/books?id=rtuEDwAAQBAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
+    "isbn": "9780525576716",
+    "link": "http://books.google.com/books?id=HWbRDwAAQBAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
   },
   {
     "name": "Breath: The New Science of a Lost Art",
@@ -234,8 +234,8 @@
     "name": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy",
     "review": null,
     "authors": "Murray Bookchin",
-    "isbn": "9781781685822",
-    "link": "https://play.google.com/store/books/details?id=GigqBQAAQBAJ&source=gbs_api"
+    "isbn": "9781781687338",
+    "link": "http://books.google.com/books?id=ZmznDwAAQBAJ&dq=intitle:The+Next+Revolution:+Popular+Assemblies+and+the+Promise+of+Direct+Democracy&hl=&source=gbs_api"
   },
   {
     "name": "The State and Revolution",
@@ -297,8 +297,8 @@
     "name": "What I Talk About When I Talk About Running",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307373083",
-    "link": "http://books.google.com/books?id=fX97wN8MNk0C&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
+    "isbn": "9780307269478",
+    "link": "https://play.google.com/store/books/details?id=5IH75VXZxU4C&source=gbs_api"
   },
   {
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
@@ -339,8 +339,8 @@
     "name": "Mother Night",
     "review": null,
     "authors": "Kurt Vonnegut",
-    "isbn": "9780385334143",
-    "link": "http://books.google.com/books?id=9MxvDwAAQBAJ&dq=intitle:Mother+Night&hl=&source=gbs_api"
+    "isbn": "9780440339076",
+    "link": "https://play.google.com/store/books/details?id=WiUuWn6sGqwC&source=gbs_api"
   },
   {
     "name": "The Sun Also Rises",
@@ -381,8 +381,8 @@
     "name": "Ham on Rye",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780061177583",
-    "link": "http://books.google.com/books?id=8k4Es3r7QUsC&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
+    "isbn": "9780061851919",
+    "link": "https://play.google.com/store/books/details?id=Rv4qbAACPzYC&source=gbs_api"
   },
   {
     "name": "The Old Man and the Sea",
@@ -395,8 +395,8 @@
     "name": "How to Get Filthy Rich in Rising Asia",
     "review": null,
     "authors": "Mohsin Hamid",
-    "isbn": "9781101603789",
-    "link": "https://play.google.com/store/books/details?id=fPdV1kep31QC&source=gbs_api"
+    "isbn": "9781594632334",
+    "link": "http://books.google.com/books?id=YkCMDQAAQBAJ&dq=intitle:How+to+Get+Filthy+Rich+in+Rising+Asia&hl=&source=gbs_api"
   },
   {
     "name": "Zen and the Art of Motorcycle Maintenance",
