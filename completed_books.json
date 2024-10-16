@@ -1,5 +1,12 @@
 [
   {
+    "name": "The Experience of God",
+    "review": null,
+    "authors": "David Bentley Hart",
+    "isbn": "9780300166842",
+    "link": "http://books.google.com/books?id=jEZUmwEACAAJ&dq=intitle:The+Experience+of+God&hl=&source=gbs_api"
+  },
+  {
     "name": "I Contain Multitudes: The Microbes Within Us and a Grander View of Life",
     "review": null,
     "authors": "Ed Yong",
@@ -101,8 +108,8 @@
     "name": "Capitalist Realism",
     "review": null,
     "authors": "Mark Fisher",
-    "isbn": "9781780997346",
-    "link": "https://play.google.com/store/books/details?id=75YnlcDv6ToC&source=gbs_api"
+    "isbn": "9781846943171",
+    "link": "http://books.google.com/books?id=ibN3fGpW1DIC&dq=intitle:Capitalist+Realism&hl=&source=gbs_api"
   },
   {
     "name": "The Ministry for the Future",
@@ -178,8 +185,8 @@
     "name": "Structure and Interpretation of Computer Programs",
     "review": null,
     "authors": "Harold Abelson, Gerald Jay Sussman",
-    "isbn": "9780262543231",
-    "link": "http://books.google.com/books?id=4rtNEAAAQBAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
+    "isbn": "9780262367622",
+    "link": "https://play.google.com/store/books/details?id=WSUuEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Animal Liberation",
@@ -192,15 +199,15 @@
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
     "review": null,
     "authors": "Joshua Bloom, Waldo E. Martin Jr.",
-    "isbn": "9780520953543",
-    "link": "http://books.google.com/books?id=nWTH2Npul8MC&dq=intitle:Black+Against+Empire:+The+History+and+Politics+of+the+Black+Panther+Party&hl=&source=gbs_api"
+    "isbn": "9780520966451",
+    "link": "https://play.google.com/store/books/details?id=C77uDAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Little Schemer",
     "review": null,
     "authors": "Daniel P. Friedman, Matthias Felleisen",
     "isbn": "9780262560993",
-    "link": "http://books.google.com/books?id=bLT4DwAAQBAJ&dq=intitle:The+Little+Schemer&hl=&source=gbs_api"
+    "link": "http://books.google.com/books?id=xyO-KLexVnMC&dq=intitle:The+Little+Schemer&hl=&source=gbs_api"
   },
   {
     "name": "Debt: The First 5,000 Years",
@@ -213,8 +220,8 @@
     "name": "The Uninhabitable Earth: Life After Warming",
     "review": null,
     "authors": "David Wallace-Wells",
-    "isbn": "9780525576716",
-    "link": "http://books.google.com/books?id=HWbRDwAAQBAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
+    "isbn": "9780525576709",
+    "link": "http://books.google.com/books?id=rtuEDwAAQBAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
   },
   {
     "name": "Breath: The New Science of a Lost Art",
@@ -240,9 +247,9 @@
   {
     "name": "The State and Revolution",
     "review": null,
-    "authors": "Vladimir Lenin, John Reed",
-    "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=fFnxDwAAQBAJ&source=gbs_api"
+    "authors": "V. I. Lenin",
+    "isbn": "9781804292877",
+    "link": "https://play.google.com/store/books/details?id=-u65EAAAQBAJ&source=gbs_api"
   },
   {
     "name": "A People's History of the United States",
@@ -255,8 +262,8 @@
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
     "review": null,
     "authors": "Andy Greenberg",
-    "isbn": "9780385544412",
-    "link": "https://play.google.com/store/books/details?id=ujxrDwAAQBAJ&source=gbs_api"
+    "isbn": "9780525564638",
+    "link": "http://books.google.com/books?id=NgIHEAAAQBAJ&dq=intitle:Sandworm:+A+New+Era+of+Cyberwar+and+the+Hunt+for+the+Kremlin%27s+Most+Dangerous+Hackers&hl=&source=gbs_api"
   },
   {
     "name": "Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People",
@@ -381,8 +388,8 @@
     "name": "Ham on Rye",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780061851919",
-    "link": "https://play.google.com/store/books/details?id=Rv4qbAACPzYC&source=gbs_api"
+    "isbn": "9780061177583",
+    "link": "http://books.google.com/books?id=8k4Es3r7QUsC&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
   },
   {
     "name": "The Old Man and the Sea",
