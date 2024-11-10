@@ -1,5 +1,12 @@
 [
   {
+    "name": "New Seeds of Contemplation",
+    "review": null,
+    "authors": "Thomas Merton",
+    "isbn": "9780811200998",
+    "link": "http://books.google.com/books?id=MQ_Iej5soXkC&dq=intitle:New+Seeds+of+Contemplation&hl=&source=gbs_api"
+  },
+  {
     "name": "Thinking, Fast and Slow",
     "review": null,
     "authors": "Daniel Kahneman",
@@ -17,8 +24,8 @@
     "name": "Thinking, fast and slow",
     "review": null,
     "authors": "Daniel Kahneman",
-    "isbn": "9780374275631",
-    "link": "http://books.google.com/books?id=SHvzzuCnuv8C&dq=intitle:Thinking,+fast+and+slow&hl=&source=gbs_api"
+    "isbn": "9781429969352",
+    "link": "https://play.google.com/store/books/details?id=ZuKTvERuPG8C&source=gbs_api"
   },
   {
     "name": "The Emperor of All Maladies",
