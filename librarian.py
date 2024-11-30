@@ -31,24 +31,28 @@ def get_book_info_from_title(title):
             return None, None, None
         else:
             # Assuming the first result is the desired book
-            book = items[0]
-            volume_info = book["volumeInfo"]
-            industry_identifiers = volume_info.get("industryIdentifiers", [])
-            isbn_13 = None
-            isbn_10 = None
-            # Loop through the industry identifiers to find ISBNs
-            for identifier in industry_identifiers:
-                if identifier["type"] == "ISBN_13":
-                    isbn_13 = identifier["identifier"]
-                elif identifier["type"] == "ISBN_10":
-                    isbn_10 = identifier["identifier"]
+            try:
+                book = items[0]
+                volume_info = book["volumeInfo"]
+                industry_identifiers = volume_info.get("industryIdentifiers", [])
+                isbn_13 = None
+                isbn_10 = None
+                # Loop through the industry identifiers to find ISBNs
+                for identifier in industry_identifiers:
+                    if identifier["type"] == "ISBN_13":
+                        isbn_13 = identifier["identifier"]
+                    elif identifier["type"] == "ISBN_10":
+                        isbn_10 = identifier["identifier"]
 
-            # Use the ISBN-13 if available, else fall back to ISBN-10
-            isbn = isbn_13 if isbn_13 else isbn_10
-            authors = ', '.join(volume_info["authors"])
-            link_val = volume_info.get('infoLink', '')
+                # Use the ISBN-13 if available, else fall back to ISBN-10
+                isbn = isbn_13 if isbn_13 else isbn_10
+                authors = ', '.join(volume_info["authors"])
+                link_val = volume_info.get('infoLink', '')
 
-            return authors, isbn, link_val
+                return authors, isbn, link_val
+            except Exception as e:
+                print(f"An error occurred: {e}")
+                print(f"Problematic item: {items[0]}")
     else:
         print(f"Failed to fetch data for title: {title}")
         return None, None, None
