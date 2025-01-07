@@ -1,5 +1,12 @@
 [
   {
+    "name": "Christianity: The First Three Thousand Years",
+    "review": null,
+    "authors": "Diarmaid MacCulloch",
+    "isbn": "9781101189993",
+    "link": "https://play.google.com/store/books/details?id=7x4m20TRYzQC&source=gbs_api"
+  },
+  {
     "name": "That All Shall Be Saved",
     "review": null,
     "authors": "David Bentley Hart",
@@ -136,8 +143,8 @@
     "name": "Capitalist Realism",
     "review": null,
     "authors": "Mark Fisher",
-    "isbn": "9781780997346",
-    "link": "https://play.google.com/store/books/details?id=75YnlcDv6ToC&source=gbs_api"
+    "isbn": "9781846943171",
+    "link": "http://books.google.com/books?id=ibN3fGpW1DIC&dq=intitle:Capitalist+Realism&hl=&source=gbs_api"
   },
   {
     "name": "The Ministry for the Future",
@@ -283,8 +290,8 @@
     "name": "A People's History of the United States",
     "review": null,
     "authors": "Howard Zinn",
-    "isbn": "9780062466679",
-    "link": "https://play.google.com/store/books/details?id=KBueCgAAQBAJ&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=bJIOAQAAMAAJ&dq=intitle:A+People%27s+History+of+the+United+States&hl=&source=gbs_api"
   },
   {
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
