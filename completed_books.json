@@ -1,5 +1,12 @@
 [
   {
+    "name": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+    "review": null,
+    "authors": "Yuval Noah Harari",
+    "isbn": "9798217077618",
+    "link": "http://books.google.com/books?id=OcwbEQAAQBAJ&dq=intitle:Nexus:+A+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI&hl=&source=gbs_api"
+  },
+  {
     "name": "Christianity: The First Three Thousand Years",
     "review": null,
     "authors": "Diarmaid MacCulloch",
@@ -450,9 +457,9 @@
   {
     "name": "The Great Gatsby",
     "review": null,
-    "authors": "F. Scott Fitzgerald",
-    "isbn": "9780743246392",
-    "link": "https://play.google.com/store/books/details?id=iXn5U2IzVH0C&source=gbs_api"
+    "authors": "Francis Scott Fitzgerald",
+    "isbn": "9781853260414",
+    "link": "http://books.google.com/books?id=HestSXO362YC&dq=intitle:The+Great+Gatsby&hl=&source=gbs_api"
   },
   {
     "name": "Fear and Loathing in Las Vegas",
