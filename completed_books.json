@@ -129,8 +129,8 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=-DHuAAAAMAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
+    "isbn": "9780380003822",
+    "link": "http://books.google.com/books?id=eDurVTBRwAQC&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -416,8 +416,8 @@
     "name": "Slaughterhouse-Five",
     "review": null,
     "authors": "Kurt Vonnegut",
-    "isbn": "9780385333849",
-    "link": "http://books.google.com/books?id=pWyLDQAAQBAJ&dq=intitle:Slaughterhouse-Five&hl=&source=gbs_api"
+    "isbn": "9780440180296",
+    "link": "http://books.google.com/books?id=gFSHD40Y320C&dq=intitle:Slaughterhouse-Five&hl=&source=gbs_api"
   },
   {
     "name": "Post Office: A Novel",
