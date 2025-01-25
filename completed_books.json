@@ -129,8 +129,8 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": "9780380003822",
-    "link": "http://books.google.com/books?id=eDurVTBRwAQC&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=-DHuAAAAMAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -206,8 +206,8 @@
     "name": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
     "review": null,
     "authors": "Cal Newport",
-    "isbn": "9780525536512",
-    "link": "http://books.google.com/books?id=1eGCDwAAQBAJ&dq=intitle:Digital+Minimalism:+Choosing+a+Focused+Life+in+a+Noisy+World&hl=&source=gbs_api"
+    "isbn": "9780525536543",
+    "link": "https://play.google.com/store/books/details?id=uS9eDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "An Indigenous Peoples' History of the United States (ReVisioning American History, #3)",
@@ -234,8 +234,8 @@
     "name": "Animal Liberation",
     "review": null,
     "authors": "Peter Singer",
-    "isbn": "9781473524422",
-    "link": "http://books.google.com/books?id=9AvJCQAAQBAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
+    "isbn": "9781847923844",
+    "link": "http://books.google.com/books?id=UYLAsgEACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
   },
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
@@ -289,16 +289,16 @@
   {
     "name": "The State and Revolution",
     "review": null,
-    "authors": "V. I. Lenin",
-    "isbn": "9781804292846",
-    "link": "http://books.google.com/books?id=zZ3REAAAQBAJ&dq=intitle:The+State+and+Revolution&hl=&source=gbs_api"
+    "authors": "Vladimir Lenin",
+    "isbn": "9780141939063",
+    "link": "https://play.google.com/store/books/details?id=B0px4XgYzNMC&source=gbs_api"
   },
   {
     "name": "A People's History of the United States",
     "review": null,
     "authors": "Howard Zinn",
-    "isbn": "9780062466679",
-    "link": "https://play.google.com/store/books/details?id=KBueCgAAQBAJ&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=bJIOAQAAMAAJ&dq=intitle:A+People%27s+History+of+the+United+States&hl=&source=gbs_api"
   },
   {
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
@@ -324,16 +324,16 @@
   {
     "name": "The Conquest of Bread",
     "review": null,
-    "authors": "Petr Alekseevich Kropotkin (kni\ufe20a\ufe21z\u02b9)",
+    "authors": "Petr Alekseevich kniaz Kropotkin",
     "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=Q6fv0JOpvYkC&source=gbs_api"
+    "link": "https://play.google.com/store/books/details?id=zv7CDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Homo Deus: A History of Tomorrow",
     "review": null,
     "authors": "Yuval Noah Harari",
-    "isbn": "9780062464354",
-    "link": "https://play.google.com/store/books/details?id=H2t_CwAAQBAJ&source=gbs_api"
+    "isbn": "9781784703936",
+    "link": "http://books.google.com/books?id=vbS4wAEACAAJ&dq=intitle:Homo+Deus:+A+History+of+Tomorrow&hl=&source=gbs_api"
   },
   {
     "name": "Kafka on the Shore",
