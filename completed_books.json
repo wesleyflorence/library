@@ -1,5 +1,12 @@
 [
   {
+    "name": "Paul: A Biography",
+    "review": null,
+    "authors": "N. T. Wright",
+    "isbn": "9780062198273",
+    "link": "https://play.google.com/store/books/details?id=pJAlDwAAQBAJ&source=gbs_api"
+  },
+  {
     "name": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
     "review": null,
     "authors": "Yuval Noah Harari",
@@ -10,8 +17,8 @@
     "name": "Christianity: The First Three Thousand Years",
     "review": null,
     "authors": "Diarmaid MacCulloch",
-    "isbn": "9781101189993",
-    "link": "https://play.google.com/store/books/details?id=7x4m20TRYzQC&source=gbs_api"
+    "isbn": "9780713998696",
+    "link": "http://books.google.com/books?id=m7MqMQAACAAJ&dq=intitle:Christianity:+The+First+Three+Thousand+Years&hl=&source=gbs_api"
   },
   {
     "name": "That All Shall Be Saved",
@@ -31,8 +38,8 @@
     "name": "Into the Silent Land",
     "review": null,
     "authors": "Martin Laird",
-    "isbn": "9780199779437",
-    "link": "https://play.google.com/store/books/details?id=DjIcImo9yuQC&source=gbs_api"
+    "isbn": "9780195307603",
+    "link": "http://books.google.com/books?id=gmQSDAAAQBAJ&dq=intitle:Into+the+Silent+Land&hl=&source=gbs_api"
   },
   {
     "name": "Galileo\u2019s Error",
@@ -45,8 +52,8 @@
     "name": "The Experience of God",
     "review": null,
     "authors": "David Bentley Hart",
-    "isbn": "9780300167337",
-    "link": "https://play.google.com/store/books/details?id=IU2rAAAAQBAJ&source=gbs_api"
+    "isbn": "9780300166842",
+    "link": "http://books.google.com/books?id=jEZUmwEACAAJ&dq=intitle:The+Experience+of+God&hl=&source=gbs_api"
   },
   {
     "name": "I Contain Multitudes: The Microbes Within Us and a Grander View of Life",
@@ -119,11 +126,11 @@
     "link": "http://books.google.com/books?id=0r7_ygEACAAJ&dq=intitle:The+Deficit+Myth&hl=&source=gbs_api"
   },
   {
-    "name": "The Untethered Soul",
-    "review": "A mix of ideas, some are good.",
+    "name": "The Untethered Soul: The Journey Beyond Yourself",
+    "review": null,
     "authors": "Michael Singer",
     "isbn": "9781458727343",
-    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul&hl=&source=gbs_api"
+    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -192,8 +199,8 @@
     "name": "Clojure for the Brave and True",
     "review": null,
     "authors": "Daniel Higginbotham",
-    "isbn": "9781593275914",
-    "link": "http://books.google.com/books?id=mQLPCgAAQBAJ&dq=intitle:Clojure+for+the+Brave+and+True&hl=&source=gbs_api"
+    "isbn": "9781457190018",
+    "link": "http://books.google.com/books?id=yFBWAQAACAAJ&dq=intitle:Clojure+for+the+Brave+and+True&hl=&source=gbs_api"
   },
   {
     "name": "Practical Common Lisp",
@@ -206,8 +213,8 @@
     "name": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
     "review": null,
     "authors": "Cal Newport",
-    "isbn": "9780525536543",
-    "link": "https://play.google.com/store/books/details?id=uS9eDwAAQBAJ&source=gbs_api"
+    "isbn": "9780525536512",
+    "link": "http://books.google.com/books?id=1eGCDwAAQBAJ&dq=intitle:Digital+Minimalism:+Choosing+a+Focused+Life+in+a+Noisy+World&hl=&source=gbs_api"
   },
   {
     "name": "An Indigenous Peoples' History of the United States (ReVisioning American History, #3)",
@@ -234,8 +241,8 @@
     "name": "Animal Liberation",
     "review": null,
     "authors": "Peter Singer",
-    "isbn": "9781847923844",
-    "link": "http://books.google.com/books?id=UYLAsgEACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
+    "isbn": "9781473524422",
+    "link": "http://books.google.com/books?id=9AvJCQAAQBAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
   },
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
@@ -289,16 +296,16 @@
   {
     "name": "The State and Revolution",
     "review": null,
-    "authors": "Vladimir Lenin",
-    "isbn": "9780141939063",
-    "link": "https://play.google.com/store/books/details?id=B0px4XgYzNMC&source=gbs_api"
+    "authors": "V. I. Lenin",
+    "isbn": "9781804292846",
+    "link": "http://books.google.com/books?id=zZ3REAAAQBAJ&dq=intitle:The+State+and+Revolution&hl=&source=gbs_api"
   },
   {
     "name": "A People's History of the United States",
     "review": null,
     "authors": "Howard Zinn",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=bJIOAQAAMAAJ&dq=intitle:A+People%27s+History+of+the+United+States&hl=&source=gbs_api"
+    "isbn": "9780062466679",
+    "link": "https://play.google.com/store/books/details?id=KBueCgAAQBAJ&source=gbs_api"
   },
   {
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
@@ -318,15 +325,15 @@
     "name": "Stoner",
     "review": null,
     "authors": "John Williams",
-    "isbn": "9781590179284",
-    "link": "http://books.google.com/books?id=6Yc-DwAAQBAJ&dq=intitle:Stoner&hl=&source=gbs_api"
+    "isbn": "9781590173930",
+    "link": "https://play.google.com/store/books/details?id=s7sKxilR83YC&source=gbs_api"
   },
   {
     "name": "The Conquest of Bread",
     "review": null,
-    "authors": "Petr Alekseevich kniaz Kropotkin",
+    "authors": "Petr Alekseevich Kropotkin (kni\ufe20a\ufe21z\u02b9)",
     "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=zv7CDwAAQBAJ&source=gbs_api"
+    "link": "https://play.google.com/store/books/details?id=Q6fv0JOpvYkC&source=gbs_api"
   },
   {
     "name": "Homo Deus: A History of Tomorrow",
@@ -376,13 +383,6 @@
     "authors": "Phil Knight",
     "isbn": "9781471146718",
     "link": "http://books.google.com/books?id=lXlCjwEACAAJ&dq=intitle:Shoe+Dog:+A+Memoir+by+the+Creator+of+Nike&hl=&source=gbs_api"
-  },
-  {
-    "name": "Creative Selection",
-    "review": null,
-    "authors": "Ken Kocienda",
-    "isbn": "9781250194473",
-    "link": "https://play.google.com/store/books/details?id=nntJDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Mother Night",
@@ -450,22 +450,22 @@
   {
     "name": "Zen and the Art of Motorcycle Maintenance",
     "review": null,
-    "authors": "Robert M. Pirsig",
-    "isbn": "9780099786405",
-    "link": "http://books.google.com/books?id=M69poeV1UhoC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
+    "authors": "Robert Pirsig",
+    "isbn": "9781448114146",
+    "link": "http://books.google.com/books?id=DPhACEL1orEC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
   },
   {
     "name": "The Great Gatsby",
     "review": null,
-    "authors": "F. Scott Fitzgerald",
-    "isbn": "9780743246392",
-    "link": "https://play.google.com/store/books/details?id=iXn5U2IzVH0C&source=gbs_api"
+    "authors": "Francis Scott Fitzgerald",
+    "isbn": "9781853260414",
+    "link": "http://books.google.com/books?id=HestSXO362YC&dq=intitle:The+Great+Gatsby&hl=&source=gbs_api"
   },
   {
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780679785897",
-    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
+    "isbn": "9780307744067",
+    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
   }
 ]
