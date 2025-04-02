@@ -2,9 +2,9 @@
   {
     "name": "Paul: A Biography",
     "review": null,
-    "authors": "Tom Wright",
-    "isbn": "9780281078776",
-    "link": "http://books.google.com/books?id=t7hJDwAAQBAJ&dq=intitle:Paul:+A+Biography&hl=&source=gbs_api"
+    "authors": "N. T. Wright",
+    "isbn": "9780062198273",
+    "link": "https://play.google.com/store/books/details?id=pJAlDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
@@ -17,8 +17,8 @@
     "name": "Christianity: The First Three Thousand Years",
     "review": null,
     "authors": "Diarmaid MacCulloch",
-    "isbn": "9780141957951",
-    "link": "http://books.google.com/books?id=yaU-cpc8sWgC&dq=intitle:Christianity:+The+First+Three+Thousand+Years&hl=&source=gbs_api"
+    "isbn": "9781101189993",
+    "link": "https://play.google.com/store/books/details?id=7x4m20TRYzQC&source=gbs_api"
   },
   {
     "name": "That All Shall Be Saved",
@@ -52,8 +52,8 @@
     "name": "The Experience of God",
     "review": null,
     "authors": "David Bentley Hart",
-    "isbn": "9780300166842",
-    "link": "http://books.google.com/books?id=jEZUmwEACAAJ&dq=intitle:The+Experience+of+God&hl=&source=gbs_api"
+    "isbn": "9780300167337",
+    "link": "https://play.google.com/store/books/details?id=IU2rAAAAQBAJ&source=gbs_api"
   },
   {
     "name": "I Contain Multitudes: The Microbes Within Us and a Grander View of Life",
@@ -79,9 +79,9 @@
   {
     "name": "Outlive",
     "review": null,
-    "authors": "Peter Attia, Bill Gifford",
-    "isbn": "9781785044540",
-    "link": "http://books.google.com/books?id=rNmBzwEACAAJ&dq=intitle:Outlive&hl=&source=gbs_api"
+    "authors": "Peter Attia, MD",
+    "isbn": "9780593236604",
+    "link": "https://play.google.com/store/books/details?id=CspvEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Song of the Cell",
@@ -93,9 +93,9 @@
   {
     "name": "Moonwalking with Einstein",
     "review": null,
-    "authors": "Joshua Foer",
-    "isbn": "9781846140297",
-    "link": "http://books.google.com/books?id=f_0XXXjJk3gC&dq=intitle:Moonwalking+with+Einstein&hl=&source=gbs_api"
+    "authors": "Instaread",
+    "isbn": "9781683783749",
+    "link": "https://play.google.com/store/books/details?id=yNqMDAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Ikigai",
@@ -107,9 +107,9 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "John Ronald Reuel Tolkien",
-    "isbn": "9780345296047",
-    "link": "http://books.google.com/books?id=i9VCwtU1Z3IC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "J. R. R. Tolkien",
+    "isbn": "9780007322602",
+    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
@@ -129,8 +129,8 @@
     "name": "The Untethered Soul: The Journey Beyond Yourself",
     "review": null,
     "authors": "Michael Singer",
-    "isbn": "9781572249134",
-    "link": "https://play.google.com/store/books/details?id=sqPzr7Pn4cQC&source=gbs_api"
+    "isbn": "9781458727343",
+    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -171,8 +171,8 @@
     "name": "Half-Earth Socialism",
     "review": null,
     "authors": "Troy Vettese, Drew Pendergrass",
-    "isbn": "9781839760310",
-    "link": "http://books.google.com/books?id=XuhOEAAAQBAJ&dq=intitle:Half-Earth+Socialism&hl=&source=gbs_api"
+    "isbn": "9781804290385",
+    "link": "http://books.google.com/books?id=jmuDEAAAQBAJ&dq=intitle:Half-Earth+Socialism&hl=&source=gbs_api"
   },
   {
     "name": "Psychopolitics Neoliberalism and New Technologies of Power",
@@ -207,7 +207,7 @@
     "review": null,
     "authors": "Peter Seibel",
     "isbn": "9781430200178",
-    "link": "http://books.google.com/books?id=dVJvr8PtCMUC&dq=intitle:Practical+Common+Lisp&hl=&source=gbs_api"
+    "link": "https://play.google.com/store/books/details?id=dVJvr8PtCMUC&source=gbs_api"
   },
   {
     "name": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
@@ -220,8 +220,8 @@
     "name": "An Indigenous Peoples' History of the United States (ReVisioning American History, #3)",
     "review": null,
     "authors": "Roxanne Dunbar-Ortiz",
-    "isbn": "9780807000403",
-    "link": "http://books.google.com/books?id=btpmDwAAQBAJ&dq=intitle:An+Indigenous+Peoples%27+History+of+the+United+States+(ReVisioning+American+History,&hl=&source=gbs_api"
+    "isbn": "9780807013144",
+    "link": "https://play.google.com/store/books/details?id=oR2sEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Peregrine",
@@ -290,15 +290,15 @@
     "name": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy",
     "review": null,
     "authors": "Murray Bookchin",
-    "isbn": "9781781685815",
-    "link": "http://books.google.com/books?id=DuCQEAAAQBAJ&dq=intitle:The+Next+Revolution:+Popular+Assemblies+and+the+Promise+of+Direct+Democracy&hl=&source=gbs_api"
+    "isbn": "9781781687338",
+    "link": "http://books.google.com/books?id=ZmznDwAAQBAJ&dq=intitle:The+Next+Revolution:+Popular+Assemblies+and+the+Promise+of+Direct+Democracy&hl=&source=gbs_api"
   },
   {
     "name": "The State and Revolution",
     "review": null,
-    "authors": "V. I. Lenin",
-    "isbn": "9781804292846",
-    "link": "http://books.google.com/books?id=zZ3REAAAQBAJ&dq=intitle:The+State+and+Revolution&hl=&source=gbs_api"
+    "authors": "Vladimir Ilyich Lenin",
+    "isbn": null,
+    "link": "https://play.google.com/store/books/details?id=eK4qEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "A People's History of the United States",
@@ -325,8 +325,8 @@
     "name": "Stoner",
     "review": null,
     "authors": "John Williams",
-    "isbn": "9781681374574",
-    "link": "http://books.google.com/books?id=AiFOEAAAQBAJ&dq=intitle:Stoner&hl=&source=gbs_api"
+    "isbn": "9781590173930",
+    "link": "https://play.google.com/store/books/details?id=s7sKxilR83YC&source=gbs_api"
   },
   {
     "name": "The Conquest of Bread",
@@ -338,37 +338,37 @@
   {
     "name": "Homo Deus: A History of Tomorrow",
     "review": null,
-    "authors": "SpeedyReads",
-    "isbn": "9783965085756",
-    "link": "https://play.google.com/store/books/details?id=ZBB5DwAAQBAJ&source=gbs_api"
+    "authors": "Yuval Noah Harari",
+    "isbn": "9781784703936",
+    "link": "http://books.google.com/books?id=vbS4wAEACAAJ&dq=intitle:Homo+Deus:+A+History+of+Tomorrow&hl=&source=gbs_api"
   },
   {
     "name": "Kafka on the Shore",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307275264",
-    "link": "http://books.google.com/books?id=VAtoPgAACAAJ&dq=intitle:Kafka+on+the+Shore&hl=&source=gbs_api"
+    "isbn": "9781400079278",
+    "link": "http://books.google.com/books?id=A08c2Ep7QbYC&dq=intitle:Kafka+on+the+Shore&hl=&source=gbs_api"
   },
   {
     "name": "What I Talk About When I Talk About Running",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307269478",
-    "link": "https://play.google.com/store/books/details?id=5IH75VXZxU4C&source=gbs_api"
+    "isbn": "9780307373083",
+    "link": "http://books.google.com/books?id=fX97wN8MNk0C&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
   },
   {
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "review": null,
     "authors": "James Clear",
-    "isbn": "9786067892888",
-    "link": "https://play.google.com/store/books/details?id=Jrx6EAAAQBAJ&source=gbs_api"
+    "isbn": "9780735211308",
+    "link": "https://play.google.com/store/books/details?id=lFhbDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
     "review": null,
     "authors": "Yuval Noah Harari",
-    "isbn": "9780062316103",
-    "link": "https://play.google.com/store/books/details?id=FmyBAwAAQBAJ&source=gbs_api"
+    "isbn": "9780063453982",
+    "link": "https://play.google.com/store/books/details?id=MosvEQAAQBAJ&source=gbs_api"
   },
   {
     "name": "10% Happier",
@@ -387,9 +387,9 @@
   {
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
     "review": null,
-    "authors": "Ken Kocienda",
-    "isbn": "9781529004731",
-    "link": "http://books.google.com/books?id=flfEwwEACAAJ&dq=intitle:Creative+Selection:+Inside+Apple%27s+Design+Process+During+the+Golden+Age+of+Steve+Jobs&hl=&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": "9781250194466",
+    "link": "http://books.google.com/books?id=xP5sDwAAQBAJ&dq=intitle:Creative+Selection:+Inside+Apple%27s+Design+Process+During+the+Golden+Age+of+Steve+Jobs&hl=&source=gbs_api"
   },
   {
     "name": "Mother Night",
@@ -423,8 +423,8 @@
     "name": "Slaughterhouse-Five",
     "review": null,
     "authors": "Kurt Vonnegut",
-    "isbn": "9780385333849",
-    "link": "http://books.google.com/books?id=pWyLDQAAQBAJ&dq=intitle:Slaughterhouse-Five&hl=&source=gbs_api"
+    "isbn": "9780440180296",
+    "link": "http://books.google.com/books?id=gFSHD40Y320C&dq=intitle:Slaughterhouse-Five&hl=&source=gbs_api"
   },
   {
     "name": "Post Office: A Novel",
@@ -451,22 +451,22 @@
     "name": "How to Get Filthy Rich in Rising Asia",
     "review": null,
     "authors": "Mohsin Hamid",
-    "isbn": "9781594632334",
-    "link": "http://books.google.com/books?id=YkCMDQAAQBAJ&dq=intitle:How+to+Get+Filthy+Rich+in+Rising+Asia&hl=&source=gbs_api"
+    "isbn": "9780241144688",
+    "link": "http://books.google.com/books?id=aebV0bRgN_MC&dq=intitle:How+to+Get+Filthy+Rich+in+Rising+Asia&hl=&source=gbs_api"
   },
   {
     "name": "Zen and the Art of Motorcycle Maintenance",
     "review": null,
-    "authors": "Robert M. Pirsig",
-    "isbn": "9780099786405",
-    "link": "http://books.google.com/books?id=M69poeV1UhoC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
+    "authors": "Robert Pirsig",
+    "isbn": "9781448114146",
+    "link": "http://books.google.com/books?id=DPhACEL1orEC&dq=intitle:Zen+and+the+Art+of+Motorcycle+Maintenance&hl=&source=gbs_api"
   },
   {
     "name": "The Great Gatsby",
     "review": null,
-    "authors": "F. Scott Fitzgerald",
-    "isbn": "9780743246392",
-    "link": "https://play.google.com/store/books/details?id=iXn5U2IzVH0C&source=gbs_api"
+    "authors": "Francis Scott Fitzgerald",
+    "isbn": "9781853260414",
+    "link": "http://books.google.com/books?id=HestSXO362YC&dq=intitle:The+Great+Gatsby&hl=&source=gbs_api"
   },
   {
     "name": "Fear and Loathing in Las Vegas",
