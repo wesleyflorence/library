@@ -46,7 +46,8 @@ def get_book_info_from_title(title):
 
                 # Use the ISBN-13 if available, else fall back to ISBN-10
                 isbn = isbn_13 if isbn_13 else isbn_10
-                authors = ', '.join(volume_info["authors"])
+                # Handle case where authors might be missing
+                authors = ', '.join(volume_info.get("authors", ["Unknown Author"]))
                 link_val = volume_info.get('infoLink', '')
 
                 return authors, isbn, link_val
@@ -116,10 +117,17 @@ def main():
     print(f"Retrieving metadata from google and writing to {args.output}")
 
     for book in completed_books:
-        authors, isbn, link = get_book_info_from_title(book["name"])
-        book["authors"] = authors
-        book["isbn"] = isbn
-        book["link"] = link
+        try:
+            authors, isbn, link = get_book_info_from_title(book["name"])
+            book["authors"] = authors or "Unknown Author"
+            book["isbn"] = isbn
+            book["link"] = link
+        except TypeError:
+            # Handle case when get_book_info_from_title returns None
+            print(f"Skipping book with missing data: {book['name']}")
+            book["authors"] = "Unknown Author"
+            book["isbn"] = None
+            book["link"] = None
 
     ## Save to JSON file
     with open(args.output, 'w') as f:
