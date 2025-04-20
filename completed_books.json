@@ -1,5 +1,12 @@
 [
   {
+    "name": "Don't Believe Everything You Think",
+    "review": null,
+    "authors": "Joseph Nguyen",
+    "isbn": "9798986406510",
+    "link": "https://play.google.com/store/books/details?id=_ZOvEAAAQBAJ&source=gbs_api"
+  },
+  {
     "name": "Paul: A Biography",
     "review": null,
     "authors": "N. T. Wright",
@@ -115,8 +122,8 @@
     "name": "The Body Keeps the Score",
     "review": null,
     "authors": "Bessel van der Kolk, M.D.",
-    "isbn": "9780670785933",
-    "link": "http://books.google.com/books?id=T7iJDQAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "isbn": "9781101608302",
+    "link": "https://play.google.com/store/books/details?id=3Q3UAgAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -402,8 +409,8 @@
     "name": "The Sun Also Rises",
     "review": null,
     "authors": "Ernest Hemingway",
-    "isbn": "9786257287784",
-    "link": "https://play.google.com/store/books/details?id=uXnlEAAAQBAJ&source=gbs_api"
+    "isbn": "9783985100118",
+    "link": "https://play.google.com/store/books/details?id=QSFZEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Catcher in the Rye",
