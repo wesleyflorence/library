@@ -143,8 +143,8 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=-DHuAAAAMAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
+    "isbn": "9781473206069",
+    "link": "http://books.google.com/books?id=t9hpEAAAQBAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -353,8 +353,8 @@
     "name": "Kafka on the Shore",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9781400079278",
-    "link": "http://books.google.com/books?id=A08c2Ep7QbYC&dq=intitle:Kafka+on+the+Shore&hl=&source=gbs_api"
+    "isbn": "9781400044818",
+    "link": "https://play.google.com/store/books/details?id=ypQHO-JWFKgC&source=gbs_api"
   },
   {
     "name": "What I Talk About When I Talk About Running",
@@ -479,7 +479,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9781417665884",
-    "link": "http://books.google.com/books?id=ArVTPgAACAAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
+    "isbn": "9780679785897",
+    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
   }
 ]
