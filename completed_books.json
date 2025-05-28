@@ -2,9 +2,9 @@
   {
     "name": "Don't Believe Everything You Think",
     "review": null,
-    "authors": "Joseph Nguyen",
-    "isbn": "9798986406510",
-    "link": "https://play.google.com/store/books/details?id=_ZOvEAAAQBAJ&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": null
   },
   {
     "name": "Paul: A Biography",
@@ -121,9 +121,9 @@
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel van der Kolk, M.D.",
+    "isbn": "9781101608302",
+    "link": "https://play.google.com/store/books/details?id=3Q3UAgAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -388,8 +388,8 @@
     "name": "Shoe Dog: A Memoir by the Creator of Nike",
     "review": null,
     "authors": "Phil Knight",
-    "isbn": "9781471146701",
-    "link": "http://books.google.com/books?id=vUpKjwEACAAJ&dq=intitle:Shoe+Dog:+A+Memoir+by+the+Creator+of+Nike&hl=&source=gbs_api"
+    "isbn": "9781471146718",
+    "link": "http://books.google.com/books?id=lXlCjwEACAAJ&dq=intitle:Shoe+Dog:+A+Memoir+by+the+Creator+of+Nike&hl=&source=gbs_api"
   },
   {
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
@@ -444,15 +444,15 @@
     "name": "Ham on Rye",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9781841951638",
-    "link": "http://books.google.com/books?id=vRvfXdayo8YC&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
+    "isbn": "9780876855577",
+    "link": "http://books.google.com/books?id=ydUDR6vGQrMC&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
   },
   {
     "name": "The Old Man and the Sea",
     "review": null,
     "authors": "Ernest Hemingway",
-    "isbn": "9783190001507",
-    "link": "http://books.google.com/books?id=K1cIZmFe7KoC&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=tYQEAQAAIAAJ&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
   },
   {
     "name": "How to Get Filthy Rich in Rising Asia",
