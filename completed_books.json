@@ -121,9 +121,9 @@
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel van der Kolk, M.D.",
+    "isbn": "9781101608302",
+    "link": "https://play.google.com/store/books/details?id=3Q3UAgAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -451,8 +451,8 @@
     "name": "The Old Man and the Sea",
     "review": null,
     "authors": "Ernest Hemingway",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=tYQEAQAAIAAJ&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
+    "isbn": "9783190001507",
+    "link": "http://books.google.com/books?id=K1cIZmFe7KoC&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
   },
   {
     "name": "How to Get Filthy Rich in Rising Asia",
@@ -479,7 +479,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780307744067",
-    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
+    "isbn": "9780679785897",
+    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
   }
 ]
