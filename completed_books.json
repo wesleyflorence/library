@@ -59,8 +59,8 @@
     "name": "The Experience of God",
     "review": null,
     "authors": "David Bentley Hart",
-    "isbn": "9780300167337",
-    "link": "https://play.google.com/store/books/details?id=IU2rAAAAQBAJ&source=gbs_api"
+    "isbn": "9780300166842",
+    "link": "http://books.google.com/books?id=jEZUmwEACAAJ&dq=intitle:The+Experience+of+God&hl=&source=gbs_api"
   },
   {
     "name": "I Contain Multitudes: The Microbes Within Us and a Grander View of Life",
@@ -114,16 +114,16 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "J. R. R. Tolkien",
-    "isbn": "9780007322602",
-    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "John Ronald Reuel Tolkien",
+    "isbn": "9780345296047",
+    "link": "http://books.google.com/books?id=i9VCwtU1Z3IC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel van der Kolk, M.D.",
+    "isbn": "9780670785933",
+    "link": "http://books.google.com/books?id=T7iJDQAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -198,9 +198,9 @@
   {
     "name": "Are Prisons Obsolete?",
     "review": null,
-    "authors": "Nicole Bemboom",
-    "isbn": "9781614641117",
-    "link": "http://books.google.com/books?id=3Fx-BwAAQBAJ&dq=intitle:Are+Prisons+Obsolete%3F&hl=&source=gbs_api"
+    "authors": "Angela Y. Davis",
+    "isbn": "9781609801045",
+    "link": "https://play.google.com/store/books/details?id=_wZ35GI4itgC&source=gbs_api"
   },
   {
     "name": "Clojure for the Brave and True",
@@ -367,8 +367,8 @@
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "review": null,
     "authors": "James Clear",
-    "isbn": "9780735211308",
-    "link": "https://play.google.com/store/books/details?id=lFhbDwAAQBAJ&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=Yo5REQAAQBAJ&dq=intitle:Atomic+Habits:+An+Easy&hl=&source=gbs_api"
   },
   {
     "name": "Sapiens: A Brief History of Humankind",
@@ -451,8 +451,8 @@
     "name": "The Old Man and the Sea",
     "review": null,
     "authors": "Ernest Hemingway",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=tYQEAQAAIAAJ&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
+    "isbn": "9780684801223",
+    "link": "http://books.google.com/books?id=CqYIf-Fs5lkC&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
   },
   {
     "name": "How to Get Filthy Rich in Rising Asia",
