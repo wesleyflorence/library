@@ -114,9 +114,9 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "John Ronald Reuel Tolkien",
-    "isbn": "9780345296047",
-    "link": "http://books.google.com/books?id=i9VCwtU1Z3IC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "J. R. R. Tolkien",
+    "isbn": "9780007322602",
+    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
@@ -388,8 +388,8 @@
     "name": "Shoe Dog: A Memoir by the Creator of Nike",
     "review": null,
     "authors": "Phil Knight",
-    "isbn": "9781501135934",
-    "link": "https://play.google.com/store/books/details?id=wO3PCgAAQBAJ&source=gbs_api"
+    "isbn": "9781471146718",
+    "link": "http://books.google.com/books?id=lXlCjwEACAAJ&dq=intitle:Shoe+Dog:+A+Memoir+by+the+Creator+of+Nike&hl=&source=gbs_api"
   },
   {
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
@@ -451,8 +451,8 @@
     "name": "The Old Man and the Sea",
     "review": null,
     "authors": "Ernest Hemingway",
-    "isbn": "9780684801223",
-    "link": "http://books.google.com/books?id=CqYIf-Fs5lkC&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=tYQEAQAAIAAJ&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
   },
   {
     "name": "How to Get Filthy Rich in Rising Asia",
