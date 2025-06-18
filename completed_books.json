@@ -121,9 +121,9 @@
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel van der Kolk, M.D.",
+    "isbn": "9781101608302",
+    "link": "https://play.google.com/store/books/details?id=3Q3UAgAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -198,9 +198,9 @@
   {
     "name": "Are Prisons Obsolete?",
     "review": null,
-    "authors": "Angela Y. Davis",
-    "isbn": "9781609801045",
-    "link": "https://play.google.com/store/books/details?id=_wZ35GI4itgC&source=gbs_api"
+    "authors": "Nicole Bemboom",
+    "isbn": "9781614641117",
+    "link": "http://books.google.com/books?id=3Fx-BwAAQBAJ&dq=intitle:Are+Prisons+Obsolete%3F&hl=&source=gbs_api"
   },
   {
     "name": "Clojure for the Brave and True",
@@ -479,7 +479,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780679785897",
-    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
+    "isbn": "9780307744067",
+    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
   }
 ]
