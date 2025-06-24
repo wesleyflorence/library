@@ -121,9 +121,9 @@
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel A. Van der Kolk",
-    "isbn": "9780143127741",
-    "link": "http://books.google.com/books?id=vHnZCwAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Bessel van der Kolk, M.D.",
+    "isbn": "9781101608302",
+    "link": "https://play.google.com/store/books/details?id=3Q3UAgAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -143,8 +143,8 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": "9781473206069",
-    "link": "http://books.google.com/books?id=t9hpEAAAQBAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=-DHuAAAAMAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -402,8 +402,8 @@
     "name": "Mother Night",
     "review": null,
     "authors": "Kurt Vonnegut",
-    "isbn": "9780099819301",
-    "link": "http://books.google.com/books?id=k7xUPgAACAAJ&dq=intitle:Mother+Night&hl=&source=gbs_api"
+    "isbn": "9780385334143",
+    "link": "http://books.google.com/books?id=9MxvDwAAQBAJ&dq=intitle:Mother+Night&hl=&source=gbs_api"
   },
   {
     "name": "The Sun Also Rises",
