@@ -143,8 +143,8 @@
     "name": "The Dispossessed",
     "review": "Perfect book",
     "authors": "Ursula K. Le Guin",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=-DHuAAAAMAAJ&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
+    "isbn": "9780380003822",
+    "link": "http://books.google.com/books?id=eDurVTBRwAQC&dq=intitle:The+Dispossessed&hl=&source=gbs_api"
   },
   {
     "name": "The Order of Time",
@@ -171,22 +171,22 @@
     "name": "The Ministry for the Future",
     "review": null,
     "authors": "Kim Stanley Robinson",
-    "isbn": "9780316300162",
-    "link": "https://play.google.com/store/books/details?id=K_DNDwAAQBAJ&source=gbs_api"
+    "isbn": "9780356508849",
+    "link": "http://books.google.com/books?id=4o8xywEACAAJ&dq=intitle:The+Ministry+for+the+Future&hl=&source=gbs_api"
   },
   {
     "name": "Half-Earth Socialism",
     "review": null,
     "authors": "Troy Vettese, Drew Pendergrass",
-    "isbn": "9781839760334",
-    "link": "https://play.google.com/store/books/details?id=Q7gCEAAAQBAJ&source=gbs_api"
+    "isbn": "9781839760310",
+    "link": "http://books.google.com/books?id=XuhOEAAAQBAJ&dq=intitle:Half-Earth+Socialism&hl=&source=gbs_api"
   },
   {
     "name": "Psychopolitics Neoliberalism and New Technologies of Power",
     "review": null,
     "authors": "Byung-Chul Han",
-    "isbn": "9781804298428",
-    "link": "http://books.google.com/books?id=z8c1EQAAQBAJ&dq=intitle:Psychopolitics+Neoliberalism+and+New+Technologies+of+Power&hl=&source=gbs_api"
+    "isbn": "9781784785789",
+    "link": "http://books.google.com/books?id=UG7nDwAAQBAJ&dq=intitle:Psychopolitics+Neoliberalism+and+New+Technologies+of+Power&hl=&source=gbs_api"
   },
   {
     "name": "The Burnout Society",
@@ -276,8 +276,8 @@
     "name": "The Uninhabitable Earth: Life After Warming",
     "review": null,
     "authors": "David Wallace-Wells",
-    "isbn": "9780525576716",
-    "link": "http://books.google.com/books?id=HWbRDwAAQBAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
+    "isbn": "9780525576723",
+    "link": "https://play.google.com/store/books/details?id=A8lqDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Breath: The New Science of a Lost Art",
@@ -338,9 +338,9 @@
   {
     "name": "The Conquest of Bread",
     "review": null,
-    "authors": "Peter Kropotkin",
-    "isbn": "9780486311180",
-    "link": "https://play.google.com/store/books/details?id=bQjCAgAAQBAJ&source=gbs_api"
+    "authors": "Petr Alekseevich Kropotkin",
+    "isbn": "9780521459907",
+    "link": "http://books.google.com/books?id=InTfBhY75CQC&dq=intitle:The+Conquest+of+Bread&hl=&source=gbs_api"
   },
   {
     "name": "Homo Deus: A History of Tomorrow",
