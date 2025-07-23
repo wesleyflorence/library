@@ -114,9 +114,9 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "J. R. R. Tolkien",
-    "isbn": "9780007322602",
-    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "John Ronald Reuel Tolkien",
+    "isbn": "9780345296047",
+    "link": "http://books.google.com/books?id=i9VCwtU1Z3IC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
@@ -185,8 +185,8 @@
     "name": "Psychopolitics Neoliberalism and New Technologies of Power",
     "review": null,
     "authors": "Byung-Chul Han",
-    "isbn": "9781784785789",
-    "link": "http://books.google.com/books?id=UG7nDwAAQBAJ&dq=intitle:Psychopolitics+Neoliberalism+and+New+Technologies+of+Power&hl=&source=gbs_api"
+    "isbn": "9781784785772",
+    "link": "http://books.google.com/books?id=cuyQEAAAQBAJ&dq=intitle:Psychopolitics+Neoliberalism+and+New+Technologies+of+Power&hl=&source=gbs_api"
   },
   {
     "name": "The Burnout Society",
@@ -360,8 +360,8 @@
     "name": "What I Talk About When I Talk About Running",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307473394",
-    "link": "http://books.google.com/books?id=yoHbJ78JZCYC&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
+    "isbn": "9780307373083",
+    "link": "http://books.google.com/books?id=fX97wN8MNk0C&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
   },
   {
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
@@ -450,9 +450,9 @@
   {
     "name": "The Old Man and the Sea",
     "review": null,
-    "authors": "Gerry Brenner",
-    "isbn": "9780805780406",
-    "link": "http://books.google.com/books?id=CnlgQgAACAAJ&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
+    "authors": "Ernest Hemingway",
+    "isbn": null,
+    "link": "http://books.google.com/books?id=tYQEAQAAIAAJ&dq=intitle:The+Old+Man+and+the+Sea&hl=&source=gbs_api"
   },
   {
     "name": "How to Get Filthy Rich in Rising Asia",
