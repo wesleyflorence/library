@@ -423,8 +423,8 @@
     "name": "Factotum",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=r56WtAEACAAJ&dq=intitle:Factotum&hl=&source=gbs_api"
+    "isbn": "9780061131271",
+    "link": "http://books.google.com/books?id=GMuYGGSbY0kC&dq=intitle:Factotum&hl=&source=gbs_api"
   },
   {
     "name": "Slaughterhouse-Five",
@@ -444,8 +444,8 @@
     "name": "Ham on Rye",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9781847673664",
-    "link": "http://books.google.com/books?id=xlLZYtirey0C&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
+    "isbn": "9780876855577",
+    "link": "http://books.google.com/books?id=ydUDR6vGQrMC&dq=intitle:Ham+on+Rye&hl=&source=gbs_api"
   },
   {
     "name": "The Old Man and the Sea",
