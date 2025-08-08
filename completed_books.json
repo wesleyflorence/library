@@ -114,9 +114,9 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "J. R. R. Tolkien",
-    "isbn": "9780007322602",
-    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "John Ronald Reuel Tolkien",
+    "isbn": "9780345296047",
+    "link": "http://books.google.com/books?id=i9VCwtU1Z3IC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
@@ -325,8 +325,8 @@
     "name": "Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People",
     "review": null,
     "authors": "Aditya Bhargava",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=_EYyzgEACAAJ&dq=intitle:Grokking+Algorithms+An+Illustrated+Guide+For+Programmers+and+Other+Curious+People&hl=&source=gbs_api"
+    "isbn": "9781638353348",
+    "link": "https://play.google.com/store/books/details?id=yzkzEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Stoner",
@@ -345,9 +345,9 @@
   {
     "name": "Homo Deus: A History of Tomorrow",
     "review": null,
-    "authors": "SpeedyReads",
-    "isbn": "9783965085756",
-    "link": "https://play.google.com/store/books/details?id=ZBB5DwAAQBAJ&source=gbs_api"
+    "authors": "Yuval Noah Harari",
+    "isbn": "9780062464354",
+    "link": "https://play.google.com/store/books/details?id=H2t_CwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Kafka on the Shore",
