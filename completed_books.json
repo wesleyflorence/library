@@ -121,9 +121,9 @@
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel van der Kolk, M.D.",
-    "isbn": "9780670785933",
-    "link": "http://books.google.com/books?id=T7iJDQAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Quick Savant",
+    "isbn": null,
+    "link": "https://play.google.com/store/books/details?id=GqZuEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -149,9 +149,9 @@
   {
     "name": "The Order of Time",
     "review": "thought provoking",
-    "authors": "Zip Reads",
-    "isbn": "9781718010451",
-    "link": "http://books.google.com/books?id=FZEQvAEACAAJ&dq=intitle:The+Order+of+Time&hl=&source=gbs_api"
+    "authors": "Carlo Rovelli",
+    "isbn": "9780735216112",
+    "link": "http://books.google.com/books?id=POi9DwAAQBAJ&dq=intitle:The+Order+of+Time&hl=&source=gbs_api"
   },
   {
     "name": "Solaris",
@@ -248,8 +248,8 @@
     "name": "Animal Liberation",
     "review": null,
     "authors": "Peter Singer",
-    "isbn": "9781473524422",
-    "link": "http://books.google.com/books?id=9AvJCQAAQBAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
+    "isbn": "9780940322004",
+    "link": "http://books.google.com/books?id=2suuQgAACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
   },
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
@@ -283,8 +283,8 @@
     "name": "Breath: The New Science of a Lost Art",
     "review": null,
     "authors": "James Nestor",
-    "isbn": "9780735213630",
-    "link": "https://play.google.com/store/books/details?id=6lS9DwAAQBAJ&source=gbs_api"
+    "isbn": "9780735213616",
+    "link": "http://books.google.com/books?id=3_LsDwAAQBAJ&dq=intitle:Breath:+The+New+Science+of+a+Lost+Art&hl=&source=gbs_api"
   },
   {
     "name": "Why I Write",
