@@ -240,16 +240,16 @@
   {
     "name": "Structure and Interpretation of Computer Programs",
     "review": null,
-    "authors": "Harold Abelson , Gerald Jay Sussman, Julie Sussman",
+    "authors": "Harold Abelson, Gerald Jay Sussman, Julie Sussman",
     "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=MXZQAwAAQBAJ&source=gbs_api"
+    "link": "http://books.google.com/books?id=bP_37Rs1D0QC&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
   },
   {
     "name": "Animal Liberation",
     "review": null,
     "authors": "Peter Singer",
-    "isbn": "9781473524422",
-    "link": "http://books.google.com/books?id=9AvJCQAAQBAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
+    "isbn": "9780940322004",
+    "link": "http://books.google.com/books?id=2suuQgAACAAJ&dq=intitle:Animal+Liberation&hl=&source=gbs_api"
   },
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
@@ -388,8 +388,8 @@
     "name": "Shoe Dog: A Memoir by the Creator of Nike",
     "review": null,
     "authors": "Phil Knight",
-    "isbn": "9781501135934",
-    "link": "https://play.google.com/store/books/details?id=wO3PCgAAQBAJ&source=gbs_api"
+    "isbn": "9781471146718",
+    "link": "http://books.google.com/books?id=lXlCjwEACAAJ&dq=intitle:Shoe+Dog:+A+Memoir+by+the+Creator+of+Nike&hl=&source=gbs_api"
   },
   {
     "name": "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs",
