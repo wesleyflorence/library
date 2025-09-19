@@ -149,9 +149,9 @@
   {
     "name": "The Order of Time",
     "review": "thought provoking",
-    "authors": "Zip Reads",
-    "isbn": "9781718010451",
-    "link": "http://books.google.com/books?id=FZEQvAEACAAJ&dq=intitle:The+Order+of+Time&hl=&source=gbs_api"
+    "authors": "Milkyway Media",
+    "isbn": null,
+    "link": "https://play.google.com/store/books/details?id=i1FsEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Solaris",
@@ -213,8 +213,8 @@
     "name": "Practical Common Lisp",
     "review": null,
     "authors": "Peter Seibel",
-    "isbn": "9781430200178",
-    "link": "https://play.google.com/store/books/details?id=dVJvr8PtCMUC&source=gbs_api"
+    "isbn": "9781430212003",
+    "link": "http://books.google.com/books?id=Hx0TswEACAAJ&dq=intitle:Practical+Common+Lisp&hl=&source=gbs_api"
   },
   {
     "name": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
@@ -227,8 +227,8 @@
     "name": "An Indigenous Peoples' History of the United States (ReVisioning American History, #3)",
     "review": null,
     "authors": "Roxanne Dunbar-Ortiz",
-    "isbn": "9780807000403",
-    "link": "http://books.google.com/books?id=btpmDwAAQBAJ&dq=intitle:An+Indigenous+Peoples%27+History+of+the+United+States+(ReVisioning+American+History,&hl=&source=gbs_api"
+    "isbn": "9780807049402",
+    "link": "https://play.google.com/store/books/details?id=USl2DwAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Peregrine",
