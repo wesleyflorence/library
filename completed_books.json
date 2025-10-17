@@ -100,9 +100,9 @@
   {
     "name": "Moonwalking with Einstein",
     "review": null,
-    "authors": "Instaread",
-    "isbn": "9781683783749",
-    "link": "https://play.google.com/store/books/details?id=yNqMDAAAQBAJ&source=gbs_api"
+    "authors": "Joshua Foer",
+    "isbn": "9780143120537",
+    "link": "http://books.google.com/books?id=rqktDwAAQBAJ&dq=intitle:Moonwalking+with+Einstein&hl=&source=gbs_api"
   },
   {
     "name": "Ikigai",
@@ -114,9 +114,9 @@
   {
     "name": "The Hobbit",
     "review": null,
-    "authors": "J. R. R. Tolkien",
-    "isbn": "9780007322602",
-    "link": "http://books.google.com/books?id=U799AY3yfqcC&dq=intitle:The+Hobbit&hl=&source=gbs_api"
+    "authors": "J.R.R. Tolkien",
+    "isbn": "9780547951973",
+    "link": "https://play.google.com/store/books/details?id=pD6arNyKyi8C&source=gbs_api"
   },
   {
     "name": "The Body Keeps the Score",
@@ -233,9 +233,9 @@
   {
     "name": "The Peregrine",
     "review": null,
-    "authors": "J. A. Baker",
-    "isbn": "9781590171332",
-    "link": "http://books.google.com/books?id=TEZhb3ARPz4C&dq=intitle:The+Peregrine&hl=&source=gbs_api"
+    "authors": "Mary Hennen",
+    "isbn": "9780226465562",
+    "link": "https://play.google.com/store/books/details?id=0HsnDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Structure and Interpretation of Computer Programs",
@@ -479,7 +479,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780307744067",
-    "link": "https://play.google.com/store/books/details?id=R11qaqN4jzQC&source=gbs_api"
+    "isbn": "9781417665884",
+    "link": "http://books.google.com/books?id=ArVTPgAACAAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
   }
 ]
