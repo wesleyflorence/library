@@ -2,15 +2,15 @@
   {
     "name": "The Dawn of Everything",
     "review": null,
-    "authors": "Unknown Author",
-    "isbn": null,
-    "link": null
+    "authors": "David Graeber, David Wengrow",
+    "isbn": "9780374721107",
+    "link": "https://play.google.com/store/books/details?id=9xkQEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Gene",
     "review": null,
-    "authors": "Unknown Author",
-    "isbn": null,
-    "link": null
+    "authors": "Siddhartha Mukherjee",
+    "isbn": "9781476733531",
+    "link": "https://play.google.com/store/books/details?id=fOvaCgAAQBAJ&source=gbs_api"
   }
 ]
