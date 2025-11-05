@@ -100,9 +100,9 @@
   {
     "name": "Moonwalking with Einstein",
     "review": null,
-    "authors": "Instaread",
-    "isbn": "9781683783749",
-    "link": "https://play.google.com/store/books/details?id=yNqMDAAAQBAJ&source=gbs_api"
+    "authors": "Joshua Foer",
+    "isbn": "9780143120537",
+    "link": "http://books.google.com/books?id=rqktDwAAQBAJ&dq=intitle:Moonwalking+with+Einstein&hl=&source=gbs_api"
   },
   {
     "name": "Ikigai",
@@ -416,8 +416,8 @@
     "name": "The Catcher in the Rye",
     "review": null,
     "authors": "Jerome David Salinger",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=g0pbAAAAMAAJ&dq=intitle:The+Catcher+in+the+Rye&hl=&source=gbs_api"
+    "isbn": "9780553149661",
+    "link": "http://books.google.com/books?id=9gT-Sde1pMoC&dq=intitle:The+Catcher+in+the+Rye&hl=&source=gbs_api"
   },
   {
     "name": "Factotum",
