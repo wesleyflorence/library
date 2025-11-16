@@ -79,9 +79,9 @@
   {
     "name": "An Immense World",
     "review": null,
-    "authors": "Unknown Author",
-    "isbn": null,
-    "link": null
+    "authors": "Ed Yong",
+    "isbn": "9781039003927",
+    "link": "http://books.google.com/books?id=aD7CEAAAQBAJ&dq=intitle:An+Immense+World&hl=&source=gbs_api"
   },
   {
     "name": "Outlive",
@@ -136,8 +136,8 @@
     "name": "The Untethered Soul: The Journey Beyond Yourself",
     "review": null,
     "authors": "Unknown Author",
-    "isbn": "9781458727381",
-    "link": "http://books.google.com/books?id=QEc3xfvzUdoC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
+    "isbn": "9781458727367",
+    "link": "http://books.google.com/books?id=rvjbTo4X7dUC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -268,16 +268,16 @@
   {
     "name": "Debt: The First 5,000 Years",
     "review": null,
-    "authors": "Unknown Author",
-    "isbn": null,
-    "link": null
+    "authors": "David Graeber",
+    "isbn": "9781612194202",
+    "link": "https://play.google.com/store/books/details?id=lliTBQAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Uninhabitable Earth: Life After Warming",
     "review": null,
-    "authors": "Unknown Author",
-    "isbn": null,
-    "link": null
+    "authors": "David Wallace-Wells",
+    "isbn": "9780525576716",
+    "link": "http://books.google.com/books?id=HWbRDwAAQBAJ&dq=intitle:The+Uninhabitable+Earth:+Life+After+Warming&hl=&source=gbs_api"
   },
   {
     "name": "Breath: The New Science of a Lost Art",
@@ -297,8 +297,8 @@
     "name": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy",
     "review": null,
     "authors": "Murray Bookchin",
-    "isbn": "9781781685822",
-    "link": "https://play.google.com/store/books/details?id=GigqBQAAQBAJ&source=gbs_api"
+    "isbn": "9781781687338",
+    "link": "http://books.google.com/books?id=ZmznDwAAQBAJ&dq=intitle:The+Next+Revolution:+Popular+Assemblies+and+the+Promise+of+Direct+Democracy&hl=&source=gbs_api"
   },
   {
     "name": "The State and Revolution",
@@ -332,15 +332,15 @@
     "name": "Stoner",
     "review": null,
     "authors": "John Williams",
-    "isbn": "9781590173930",
-    "link": "https://play.google.com/store/books/details?id=s7sKxilR83YC&source=gbs_api"
+    "isbn": "9781590179284",
+    "link": "http://books.google.com/books?id=6Yc-DwAAQBAJ&dq=intitle:Stoner&hl=&source=gbs_api"
   },
   {
     "name": "The Conquest of Bread",
     "review": null,
     "authors": "Petr Alekseevich Kropotkin (kni\ufe20a\ufe21z\u02b9)",
     "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=vX9ffIQBFsYC&source=gbs_api"
+    "link": "https://play.google.com/store/books/details?id=Q6fv0JOpvYkC&source=gbs_api"
   },
   {
     "name": "Homo Deus: A History of Tomorrow",
