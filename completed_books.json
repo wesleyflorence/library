@@ -17,8 +17,8 @@
     "name": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
     "review": null,
     "authors": "Yuval Noah Harari",
-    "isbn": "9780771019678",
-    "link": "http://books.google.com/books?id=gYnsEAAAQBAJ&dq=intitle:Nexus:+A+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI&hl=&source=gbs_api"
+    "isbn": "9780593734230",
+    "link": "http://books.google.com/books?id=bmhgEQAAQBAJ&dq=intitle:Nexus:+A+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI&hl=&source=gbs_api"
   },
   {
     "name": "Christianity: The First Three Thousand Years",
@@ -51,9 +51,9 @@
   {
     "name": "Galileo\u2019s Error",
     "review": null,
-    "authors": "Philip Goff",
-    "isbn": "9781524747961",
-    "link": "http://books.google.com/books?id=7OW2DwAAQBAJ&dq=intitle:Galileo%E2%80%99s+Error&hl=&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": null
   },
   {
     "name": "The Experience of God",
@@ -79,9 +79,9 @@
   {
     "name": "An Immense World",
     "review": null,
-    "authors": "Unknown Author",
-    "isbn": null,
-    "link": null
+    "authors": "Ed Yong",
+    "isbn": "9781039003927",
+    "link": "http://books.google.com/books?id=aD7CEAAAQBAJ&dq=intitle:An+Immense+World&hl=&source=gbs_api"
   },
   {
     "name": "Outlive",
@@ -94,8 +94,8 @@
     "name": "The Song of the Cell",
     "review": "The kind of book you try to savor. I was thrust into the world of the cellular recently and had little knowledge of the subject. This book did a lovely job of putting many ideas into context for me and has sparked a new fascination.",
     "authors": "Siddhartha Mukherjee",
-    "isbn": "9781982117375",
-    "link": "https://play.google.com/store/books/details?id=CRpdEAAAQBAJ&source=gbs_api"
+    "isbn": "9781982117351",
+    "link": "http://books.google.com/books?id=zkqMEAAAQBAJ&dq=intitle:The+Song+of+the+Cell&hl=&source=gbs_api"
   },
   {
     "name": "Moonwalking with Einstein",
@@ -121,9 +121,9 @@
   {
     "name": "The Body Keeps the Score",
     "review": null,
-    "authors": "Bessel van der Kolk, M.D.",
-    "isbn": "9780670785933",
-    "link": "http://books.google.com/books?id=T7iJDQAAQBAJ&dq=intitle:The+Body+Keeps+the+Score&hl=&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": "https://play.google.com/store/books/details?id=vzpHAQAAMAAJ&source=gbs_api"
   },
   {
     "name": "The Deficit Myth",
@@ -233,9 +233,9 @@
   {
     "name": "The Peregrine",
     "review": null,
-    "authors": "Unknown Author",
-    "isbn": null,
-    "link": null
+    "authors": "Mary Hennen",
+    "isbn": "9780226465562",
+    "link": "https://play.google.com/store/books/details?id=0HsnDwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Structure and Interpretation of Computer Programs",
@@ -297,15 +297,15 @@
     "name": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy",
     "review": null,
     "authors": "Murray Bookchin",
-    "isbn": "9781781687338",
-    "link": "http://books.google.com/books?id=ZmznDwAAQBAJ&dq=intitle:The+Next+Revolution:+Popular+Assemblies+and+the+Promise+of+Direct+Democracy&hl=&source=gbs_api"
+    "isbn": "9781781685822",
+    "link": "https://play.google.com/store/books/details?id=GigqBQAAQBAJ&source=gbs_api"
   },
   {
     "name": "The State and Revolution",
     "review": null,
-    "authors": "Vladimir Ilyich Lenin",
-    "isbn": "9780486849294",
-    "link": "https://play.google.com/store/books/details?id=AnYsEAAAQBAJ&source=gbs_api"
+    "authors": "V. I. Lenin",
+    "isbn": "9781804292877",
+    "link": "https://play.google.com/store/books/details?id=-u65EAAAQBAJ&source=gbs_api"
   },
   {
     "name": "A People's History of the United States",
@@ -416,8 +416,8 @@
     "name": "The Catcher in the Rye",
     "review": null,
     "authors": "Jerome David Salinger",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=g0pbAAAAMAAJ&dq=intitle:The+Catcher+in+the+Rye&hl=&source=gbs_api"
+    "isbn": "9780553149661",
+    "link": "http://books.google.com/books?id=9gT-Sde1pMoC&dq=intitle:The+Catcher+in+the+Rye&hl=&source=gbs_api"
   },
   {
     "name": "Factotum",
