@@ -1,16 +1,23 @@
 [
   {
-    "name": "The Dawn of Everything",
+    "name": "Beowulf",
     "review": null,
-    "authors": "David Graeber, David Wengrow",
-    "isbn": "9780374721107",
-    "link": "https://play.google.com/store/books/details?id=9xkQEAAAQBAJ&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": "http://books.google.com/books?id=ElYeAQAAIAAJ&dq=intitle:Beowulf&hl=&source=gbs_api"
   },
   {
-    "name": "The Gene",
+    "name": "The Anatomy of Fascism",
     "review": null,
-    "authors": "Siddhartha Mukherjee",
-    "isbn": "9781476733531",
-    "link": "https://play.google.com/store/books/details?id=fOvaCgAAQBAJ&source=gbs_api"
+    "authors": "Robert O. Paxton",
+    "isbn": "9781400033911",
+    "link": "http://books.google.com/books?id=deqJDQAAQBAJ&dq=intitle:The+Anatomy+of+Fascism&hl=&source=gbs_api"
+  },
+  {
+    "name": "Measurement",
+    "review": null,
+    "authors": "William L. Hosch Associate Editor, Science and Technology",
+    "isbn": "9781615301089",
+    "link": "http://books.google.com/books?id=cuN7rH6RzikC&dq=intitle:Measurement&hl=&source=gbs_api"
   }
 ]

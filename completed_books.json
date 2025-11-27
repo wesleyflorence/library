@@ -1,5 +1,12 @@
 [
   {
+    "name": "A Poetry Handbook",
+    "review": null,
+    "authors": "Mary Oliver",
+    "isbn": "9780156724005",
+    "link": "http://books.google.com/books?id=fuBHMccJx6UC&dq=intitle:A+Poetry+Handbook&hl=&source=gbs_api"
+  },
+  {
     "name": "Don't Believe Everything You Think",
     "review": null,
     "authors": "Joseph Nguyen",
@@ -100,9 +107,9 @@
   {
     "name": "Moonwalking with Einstein",
     "review": null,
-    "authors": "Joshua Foer",
-    "isbn": "9780143120537",
-    "link": "http://books.google.com/books?id=rqktDwAAQBAJ&dq=intitle:Moonwalking+with+Einstein&hl=&source=gbs_api"
+    "authors": "Instaread",
+    "isbn": "9781683783749",
+    "link": "https://play.google.com/store/books/details?id=yNqMDAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Ikigai",
@@ -135,9 +142,9 @@
   {
     "name": "The Untethered Soul: The Journey Beyond Yourself",
     "review": null,
-    "authors": "Unknown Author",
-    "isbn": "9781458727381",
-    "link": "http://books.google.com/books?id=QEc3xfvzUdoC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
+    "authors": "Michael Singer",
+    "isbn": "9781458727343",
+    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -332,8 +339,8 @@
     "name": "Stoner",
     "review": null,
     "authors": "John Williams",
-    "isbn": "9781590173930",
-    "link": "https://play.google.com/store/books/details?id=s7sKxilR83YC&source=gbs_api"
+    "isbn": "9781590179284",
+    "link": "http://books.google.com/books?id=6Yc-DwAAQBAJ&dq=intitle:Stoner&hl=&source=gbs_api"
   },
   {
     "name": "The Conquest of Bread",
@@ -360,8 +367,8 @@
     "name": "What I Talk About When I Talk About Running",
     "review": null,
     "authors": "Haruki Murakami",
-    "isbn": "9780307389831",
-    "link": "http://books.google.com/books?id=DBMm0F3tUbQC&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
+    "isbn": "9780307473394",
+    "link": "http://books.google.com/books?id=yoHbJ78JZCYC&dq=intitle:What+I+Talk+About+When+I+Talk+About+Running&hl=&source=gbs_api"
   },
   {
     "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
@@ -423,8 +430,8 @@
     "name": "Factotum",
     "review": null,
     "authors": "Charles Bukowski",
-    "isbn": "9780061842412",
-    "link": "https://play.google.com/store/books/details?id=PW11FI6VsZsC&source=gbs_api"
+    "isbn": "9780061131271",
+    "link": "http://books.google.com/books?id=GMuYGGSbY0kC&dq=intitle:Factotum&hl=&source=gbs_api"
   },
   {
     "name": "Slaughterhouse-Five",
