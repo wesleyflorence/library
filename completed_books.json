@@ -142,9 +142,9 @@
   {
     "name": "The Untethered Soul: The Journey Beyond Yourself",
     "review": null,
-    "authors": "Michael Singer",
-    "isbn": "9781458727343",
-    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": "9781458727381",
+    "link": "http://books.google.com/books?id=QEc3xfvzUdoC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -240,9 +240,9 @@
   {
     "name": "The Peregrine",
     "review": null,
-    "authors": "Mary Hennen",
-    "isbn": "9780226465562",
-    "link": "https://play.google.com/store/books/details?id=0HsnDwAAQBAJ&source=gbs_api"
+    "authors": "J. A. Baker",
+    "isbn": "9781590171332",
+    "link": "http://books.google.com/books?id=TEZhb3ARPz4C&dq=intitle:The+Peregrine&hl=&source=gbs_api"
   },
   {
     "name": "Structure and Interpretation of Computer Programs",
@@ -261,9 +261,9 @@
   {
     "name": "Black Against Empire: The History and Politics of the Black Panther Party",
     "review": null,
-    "authors": "Joshua Bloom, Waldo E. Martin Jr.",
-    "isbn": "9780520966451",
-    "link": "https://play.google.com/store/books/details?id=C77uDAAAQBAJ&source=gbs_api"
+    "authors": "Joshua Bloom, Waldo E. Martin",
+    "isbn": "9780520293281",
+    "link": "http://books.google.com/books?id=D7UwDwAAQBAJ&dq=intitle:Black+Against+Empire:+The+History+and+Politics+of+the+Black+Panther+Party&hl=&source=gbs_api"
   },
   {
     "name": "The Little Schemer",
@@ -304,8 +304,8 @@
     "name": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy",
     "review": null,
     "authors": "Murray Bookchin",
-    "isbn": "9781781687338",
-    "link": "http://books.google.com/books?id=ZmznDwAAQBAJ&dq=intitle:The+Next+Revolution:+Popular+Assemblies+and+the+Promise+of+Direct+Democracy&hl=&source=gbs_api"
+    "isbn": "9781781685822",
+    "link": "https://play.google.com/store/books/details?id=GigqBQAAQBAJ&source=gbs_api"
   },
   {
     "name": "The State and Revolution",
@@ -318,8 +318,8 @@
     "name": "A People's History of the United States",
     "review": null,
     "authors": "Howard Zinn",
-    "isbn": "9780061965586",
-    "link": "http://books.google.com/books?id=Aw5sqwgQKtEC&dq=intitle:A+People%27s+History+of+the+United+States&hl=&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=bJIOAQAAMAAJ&dq=intitle:A+People%27s+History+of+the+United+States&hl=&source=gbs_api"
   },
   {
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
