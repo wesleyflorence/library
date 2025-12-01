@@ -9,9 +9,9 @@
   {
     "name": "Don't Believe Everything You Think",
     "review": null,
-    "authors": "Joseph Nguyen",
-    "isbn": "9798893310153",
-    "link": "http://books.google.com/books?id=ByYmEQAAQBAJ&dq=intitle:Don%27t+Believe+Everything+You+Think&hl=&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": null
   },
   {
     "name": "Paul: A Biography",
@@ -23,9 +23,9 @@
   {
     "name": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
     "review": null,
-    "authors": "Yuval Noah Harari",
-    "isbn": "9798217077618",
-    "link": "http://books.google.com/books?id=OcwbEQAAQBAJ&dq=intitle:Nexus:+A+Brief+History+of+Information+Networks+from+the+Stone+Age+to+AI&hl=&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": null
   },
   {
     "name": "Christianity: The First Three Thousand Years",
@@ -79,9 +79,9 @@
   {
     "name": "Slow Productivity",
     "review": null,
-    "authors": "Cal Newport",
-    "isbn": "9780593544853",
-    "link": "http://books.google.com/books?id=IV_DEAAAQBAJ&dq=intitle:Slow+Productivity&hl=&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": null
   },
   {
     "name": "An Immense World",
@@ -142,9 +142,9 @@
   {
     "name": "The Untethered Soul: The Journey Beyond Yourself",
     "review": null,
-    "authors": "Michael Singer",
-    "isbn": "9781458727343",
-    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": "9781458727381",
+    "link": "http://books.google.com/books?id=QEc3xfvzUdoC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -171,8 +171,8 @@
     "name": "Capitalist Realism",
     "review": null,
     "authors": "Mark Fisher",
-    "isbn": "9781780997346",
-    "link": "https://play.google.com/store/books/details?id=75YnlcDv6ToC&source=gbs_api"
+    "isbn": "9781803414317",
+    "link": "https://play.google.com/store/books/details?id=QSiUEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "The Ministry for the Future",
@@ -240,9 +240,9 @@
   {
     "name": "The Peregrine",
     "review": null,
-    "authors": "Mary Hennen",
-    "isbn": "9780226465562",
-    "link": "https://play.google.com/store/books/details?id=0HsnDwAAQBAJ&source=gbs_api"
+    "authors": "J. A. Baker",
+    "isbn": "9781590171332",
+    "link": "http://books.google.com/books?id=TEZhb3ARPz4C&dq=intitle:The+Peregrine&hl=&source=gbs_api"
   },
   {
     "name": "Structure and Interpretation of Computer Programs",
@@ -310,16 +310,16 @@
   {
     "name": "The State and Revolution",
     "review": null,
-    "authors": "V. I. Lenin",
-    "isbn": "9781804292877",
-    "link": "https://play.google.com/store/books/details?id=-u65EAAAQBAJ&source=gbs_api"
+    "authors": "Vladimir Ilyich Lenin",
+    "isbn": "9780486849294",
+    "link": "https://play.google.com/store/books/details?id=AnYsEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "A People's History of the United States",
     "review": null,
     "authors": "Howard Zinn",
-    "isbn": "9780061989834",
-    "link": "https://play.google.com/store/books/details?id=-RBeJ0rU5KkC&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=bJIOAQAAMAAJ&dq=intitle:A+People%27s+History+of+the+United+States&hl=&source=gbs_api"
   },
   {
     "name": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
@@ -331,16 +331,16 @@
   {
     "name": "Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People",
     "review": null,
-    "authors": "Aditya Bhargava",
-    "isbn": "9781638353348",
-    "link": "https://play.google.com/store/books/details?id=yzkzEAAAQBAJ&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": null
   },
   {
     "name": "Stoner",
     "review": null,
     "authors": "John Williams",
-    "isbn": "9781590173930",
-    "link": "https://play.google.com/store/books/details?id=s7sKxilR83YC&source=gbs_api"
+    "isbn": "9781590179284",
+    "link": "http://books.google.com/books?id=6Yc-DwAAQBAJ&dq=intitle:Stoner&hl=&source=gbs_api"
   },
   {
     "name": "The Conquest of Bread",
@@ -423,8 +423,8 @@
     "name": "The Catcher in the Rye",
     "review": null,
     "authors": "Jerome David Salinger",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=g0pbAAAAMAAJ&dq=intitle:The+Catcher+in+the+Rye&hl=&source=gbs_api"
+    "isbn": "9780553149661",
+    "link": "http://books.google.com/books?id=9gT-Sde1pMoC&dq=intitle:The+Catcher+in+the+Rye&hl=&source=gbs_api"
   },
   {
     "name": "Factotum",
@@ -485,8 +485,8 @@
   {
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
-    "authors": "Hunter S. Thompson",
-    "isbn": "9780679785897",
-    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": null
   }
 ]
