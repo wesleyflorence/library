@@ -65,9 +65,9 @@
   {
     "name": "The Experience of God",
     "review": null,
-    "authors": "David Bentley Hart",
-    "isbn": "9780300167337",
-    "link": "https://play.google.com/store/books/details?id=IU2rAAAAQBAJ&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": null
   },
   {
     "name": "I Contain Multitudes: The Microbes Within Us and a Grander View of Life",
@@ -86,9 +86,9 @@
   {
     "name": "An Immense World",
     "review": null,
-    "authors": "Ed Yong",
-    "isbn": "9781039003927",
-    "link": "http://books.google.com/books?id=aD7CEAAAQBAJ&dq=intitle:An+Immense+World&hl=&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": null
   },
   {
     "name": "Outlive",
@@ -142,9 +142,9 @@
   {
     "name": "The Untethered Soul: The Journey Beyond Yourself",
     "review": null,
-    "authors": "Unknown Author",
-    "isbn": "9781458727381",
-    "link": "http://books.google.com/books?id=QEc3xfvzUdoC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
+    "authors": "Michael Singer",
+    "isbn": "9781458727343",
+    "link": "http://books.google.com/books?id=_OaOdSXOq2AC&dq=intitle:The+Untethered+Soul:+The+Journey+Beyond+Yourself&hl=&source=gbs_api"
   },
   {
     "name": "The Dispossessed",
@@ -345,9 +345,9 @@
   {
     "name": "The Conquest of Bread",
     "review": null,
-    "authors": "Petr Alekseevich Kropotkin (kni\ufe20a\ufe21z\u02b9)",
+    "authors": "Unknown Author",
     "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=vX9ffIQBFsYC&source=gbs_api"
+    "link": null
   },
   {
     "name": "Homo Deus: A History of Tomorrow",
@@ -423,8 +423,8 @@
     "name": "The Catcher in the Rye",
     "review": null,
     "authors": "Jerome David Salinger",
-    "isbn": "9780553149661",
-    "link": "http://books.google.com/books?id=9gT-Sde1pMoC&dq=intitle:The+Catcher+in+the+Rye&hl=&source=gbs_api"
+    "isbn": null,
+    "link": "http://books.google.com/books?id=g0pbAAAAMAAJ&dq=intitle:The+Catcher+in+the+Rye&hl=&source=gbs_api"
   },
   {
     "name": "Factotum",
