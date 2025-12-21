@@ -2,22 +2,22 @@
   {
     "name": "Beowulf",
     "review": null,
-    "authors": "Edwin Morgan",
-    "isbn": null,
-    "link": "http://books.google.com/books?id=LPO-MYhU2x8C&dq=intitle:Beowulf&hl=&source=gbs_api"
+    "authors": "Anonymous",
+    "isbn": "9781497561311",
+    "link": "http://books.google.com/books?id=aLrBoAEACAAJ&dq=intitle:Beowulf&hl=&source=gbs_api"
   },
   {
     "name": "Measurement",
     "review": null,
-    "authors": "Myer Kutz",
-    "isbn": "9781118446973",
-    "link": "https://play.google.com/store/books/details?id=X2FcCwAAQBAJ&source=gbs_api"
+    "authors": "Ernest O. Doebelin",
+    "isbn": null,
+    "link": "http://books.google.com/books?id=9NtSAAAAMAAJ&dq=intitle:Measurement&hl=&source=gbs_api"
   },
   {
     "name": "Why the New Deal Matters",
     "review": null,
     "authors": "Eric Rauchway",
     "isbn": "9780300258219",
-    "link": "https://play.google.com/store/books/details?id=Fd8mEAAAQBAJ&source=gbs_api"
+    "link": "http://books.google.com/books?id=Fd8mEAAAQBAJ&dq=intitle:Why+the+New+Deal+Matters&hl=&source=gbs_api"
   }
 ]
