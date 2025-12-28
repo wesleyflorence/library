@@ -1,5 +1,12 @@
 [
   {
+    "name": "Beowulf",
+    "review": null,
+    "authors": "Edwin Morgan",
+    "isbn": null,
+    "link": "http://books.google.com/books?id=LPO-MYhU2x8C&dq=intitle:Beowulf&hl=&source=gbs_api"
+  },
+  {
     "name": "The Anatomy of Fascism",
     "review": null,
     "authors": "Robert O. Paxton",
