@@ -121,9 +121,9 @@
   {
     "name": "Moonwalking with Einstein",
     "review": null,
-    "authors": "Instaread",
-    "isbn": "9781683783749",
-    "link": "https://play.google.com/store/books/details?id=yNqMDAAAQBAJ&source=gbs_api"
+    "authors": "Joshua Foer",
+    "isbn": "9780143120537",
+    "link": "http://books.google.com/books?id=rqktDwAAQBAJ&dq=intitle:Moonwalking+with+Einstein&hl=&source=gbs_api"
   },
   {
     "name": "Ikigai",
@@ -261,9 +261,9 @@
   {
     "name": "Structure and Interpretation of Computer Programs",
     "review": null,
-    "authors": "Harold Abelson, Gerald Jay Sussman",
-    "isbn": "9780262510875",
-    "link": "http://books.google.com/books?id=iL34DwAAQBAJ&dq=intitle:Structure+and+Interpretation+of+Computer+Programs&hl=&source=gbs_api"
+    "authors": "Harold Abelson , Gerald Jay Sussman, Julie Sussman",
+    "isbn": null,
+    "link": "https://play.google.com/store/books/details?id=MXZQAwAAQBAJ&source=gbs_api"
   },
   {
     "name": "Animal Liberation",
@@ -361,7 +361,7 @@
     "review": null,
     "authors": "Petr Alekseevich Kropotkin (kni\ufe20a\ufe21z\u02b9)",
     "isbn": null,
-    "link": "https://play.google.com/store/books/details?id=vX9ffIQBFsYC&source=gbs_api"
+    "link": "https://play.google.com/store/books/details?id=TB2ul8NVVPcC&source=gbs_api"
   },
   {
     "name": "Homo Deus: A History of Tomorrow",
