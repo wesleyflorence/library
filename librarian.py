@@ -54,6 +54,7 @@ def get_book_info_from_title(title):
             except Exception as e:
                 print(f"An error occurred: {e}")
                 print(f"Problematic item: {items[0]}")
+                return None, None, None
     else:
         print(f"Failed to fetch data for title: {title}")
         return None, None, None
@@ -83,7 +84,7 @@ def main():
         with open(args.output, 'r') as f:
             json_books = json.load(f)
             existing_books = {
-                frozenset({key: book[key] for key in book if key not in ["isbn", "link"]}.items())
+                frozenset({key: book[key] for key in book if key not in ["isbn", "link", "authors"]}.items())
                 for book in json_books
             }
     except FileNotFoundError:
