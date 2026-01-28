@@ -7,6 +7,13 @@
     "link": "http://books.google.com/books?id=clFUzQEACAAJ&dq=intitle:The+Disappearance+of+Rituals&hl=&source=gbs_api"
   },
   {
+    "name": "Why the New Deal Matters",
+    "review": null,
+    "authors": "Eric Rauchway",
+    "isbn": "9780300258219",
+    "link": "https://play.google.com/store/books/details?id=Fd8mEAAAQBAJ&source=gbs_api"
+  },
+  {
     "name": "Beowulf",
     "review": null,
     "authors": "Unknown Author",
@@ -65,9 +72,9 @@
   {
     "name": "The Doors of the Sea: Where Was God in the Tsunami?",
     "review": null,
-    "authors": "David Bentley Hart",
-    "isbn": "9780802829764",
-    "link": "http://books.google.com/books?id=k9XnTMNAiSsC&dq=intitle:The+Doors+of+the+Sea:+Where+Was+God+in+the+Tsunami%3F&hl=&source=gbs_api"
+    "authors": "Unknown Author",
+    "isbn": null,
+    "link": "http://books.google.com/books?id=D29UAAAAMAAJ&dq=intitle:The+Doors+of+the+Sea:+Where+Was+God+in+the+Tsunami%3F&hl=&source=gbs_api"
   },
   {
     "name": "Into the Silent Land",
@@ -108,8 +115,8 @@
     "name": "An Immense World",
     "review": null,
     "authors": "Ed Yong",
-    "isbn": "9781039003927",
-    "link": "http://books.google.com/books?id=aD7CEAAAQBAJ&dq=intitle:An+Immense+World&hl=&source=gbs_api"
+    "isbn": "9780593133248",
+    "link": "https://play.google.com/store/books/details?id=TdlHEAAAQBAJ&source=gbs_api"
   },
   {
     "name": "Outlive",
@@ -213,8 +220,8 @@
     "name": "Psychopolitics Neoliberalism and New Technologies of Power",
     "review": null,
     "authors": "Byung-Chul Han",
-    "isbn": "9781784785772",
-    "link": "http://books.google.com/books?id=ySFaDwAAQBAJ&dq=intitle:Psychopolitics+Neoliberalism+and+New+Technologies+of+Power&hl=&source=gbs_api"
+    "isbn": "9781784785789",
+    "link": "http://books.google.com/books?id=UG7nDwAAQBAJ&dq=intitle:Psychopolitics+Neoliberalism+and+New+Technologies+of+Power&hl=&source=gbs_api"
   },
   {
     "name": "The Burnout Society",
@@ -318,8 +325,8 @@
     "name": "Why I Write",
     "review": null,
     "authors": "George Orwell",
-    "isbn": "9780143036357",
-    "link": "http://books.google.com/books?id=l56MEAAAQBAJ&dq=intitle:Why+I+Write&hl=&source=gbs_api"
+    "isbn": "9781913724269",
+    "link": "http://books.google.com/books?id=x9AREAAAQBAJ&dq=intitle:Why+I+Write&hl=&source=gbs_api"
   },
   {
     "name": "The Next Revolution: Popular Assemblies and the Promise of Direct Democracy",
@@ -507,7 +514,7 @@
     "name": "Fear and Loathing in Las Vegas",
     "review": null,
     "authors": "Hunter S. Thompson",
-    "isbn": "9780679785897",
-    "link": "http://books.google.com/books?id=VN-JDQAAQBAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
+    "isbn": "9781417665884",
+    "link": "http://books.google.com/books?id=ArVTPgAACAAJ&dq=intitle:Fear+and+Loathing+in+Las+Vegas&hl=&source=gbs_api"
   }
 ]
